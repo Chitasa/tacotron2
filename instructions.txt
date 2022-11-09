@@ -1,0 +1,6 @@
+RUN:
+
+chmod +x setup.sh
+chmod +x train.sh
+
+run setup.sh

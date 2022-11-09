@@ -1,0 +1,1 @@
+python3.6 train.py --output_directory=outdir --log_directory=logdir -c zhongli_training --warm_start
