@@ -16,7 +16,7 @@ hparams.sampling_rate = 22050
 checkpoint_path = "checkpoint_1000"
 model = load_model(hparams)
 model.load_state_dict(torch.load(checkpoint_path)['state_dict'])
-_ = model.cuda().eval().half()
+_ = model.cuda().eval().half().float()
 
 text = "Hello World"
 sequence = np.array(text_to_sequence(text, ['english_cleaners']))[None, :]
