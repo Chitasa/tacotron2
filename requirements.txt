@@ -6,3 +6,4 @@ librosa
 scipy
 Unidecode==1.0.22
 pillow
+torch==1.10.1
