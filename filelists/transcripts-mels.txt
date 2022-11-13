@@ -1,0 +1,1250 @@
+mels/lantern-1.npy|"Where the clear blue water runs into the sky, and an ocean of silver grass stretches out before the eye," that was written about Diua marsh.
+mels/lantern-2.npy|From an altitude, the sight of reeds on the water rustling gently in the breeze is indeed a sight beautiful beyond compare.
+mels/lantern-3.npy|Wangshu Inn is located in the heart of Dihua Marsh, and provides the finest in both food and scenery.
+mels/lantern-4.npy|It is no wonder that travelers are fond of staying here.
+mels/lantern-5.npy|But Wangshu Inn is no mere guest house.
+mels/lantern-6.npy|It was built tall to provide superior visibility for surveying the surrounding terrain.
+mels/lantern-7.npy|And it was built here on this road because it is one of the main routes for traffic into the region
+mels/lantern-8.npy|This is a strategic location that must be defended at all costs.
+mels/lantern-9.npy|Yes, that is one of the primary reasons that he frequents the Inn.
+mels/lantern-10.npy|Looking southeast from here, one can see all the way to Guyun Stone Forest.
+mels/lantern-11.npy|With gods lying sealed beneath those rocks, the area is frequently afflicted with monster activity.
+mels/lantern-12.npy|Xiao often goes back and forth between here and Guyun.
+mels/lantern-13.npy|Being constantly on the move must be tiring for him.
+mels/lantern-14.npy|My purpose in coming here was to give him a few words of comfort.
+mels/lantern-15.npy|But to my surprise, I did not find him on the roof.
+mels/lantern-16.npy|Perhaps so.
+mels/lantern-17.npy|Nevertheless, this trip was by no means a waste.
+mels/lantern-18.npy|Besides, there shall be no shortage of opportunities to meet in the future.
+mels/lantern-19.npy|On the subject of Wongshu Inn, the chef here is highly talented.
+mels/lantern-20.npy|If I recall correctly, there was a cooking competition hosted in Liyue harbor during the Moon Chase Festival.
+mels/lantern-21.npy|This chef was selected to represent the Dihua Marsh region, entered the finals, and took second prize.
+mels/lantern-22.npy|Culinary excellence should always be shared far and wide.
+mels/lantern-23.npy|Being up so high reminds me of another lofty location.
+mels/lantern-24.npy|Yes, one that the adepti once took control of long ago.
+mels/lantern-25.npy|It then fell into disuse.
+mels/lantern-26.npy|Whether anyone tends to it these days, I do not know.
+mels/lantern-27.npy|All right, then.
+mels/lantern-28.npy|That is where I shall go tomorrow.
+mels/lantern-29.npy|Here, above the clouds, where the moon sets and the sun rises before your eyes, one sense of time becomes indistinct.
+mels/lantern-30.npy|Indeed, you have encountered her several times, correct?
+mels/lantern-31.npy|You possess a wealth of knowledge and experience, and you have goodness in your heart.
+mels/lantern-32.npy|Naturally you are able to have friendly interactions with her.
+mels/lantern-33.npy|Cloud Retainer is an expert in the mechanical arts and an avid inventor.
+mels/lantern-34.npy|Generous and kind, honest and forthright.
+mels/lantern-35.npy|I treasure her as both a friend and teacher, the likes of whom are hard to come by.
+mels/lantern-36.npy|An old friend once said to me that if you ever have a question on the most trivial of affairs, 2 hours conversing with Cloud Retainer will leave you better informed than three days and nights talking to every soul in the harbor traveler.
+mels/lantern-37.npy|Traveler, would you say you agree?
+mels/lantern-38.npy|Cloud Retainer does not waste words.
+mels/lantern-39.npy|But this is no bad thing.
+mels/lantern-40.npy|She may say that she prefers to keep her distance from the mortal realm, but in fact, she cares deeply for humanity.
+mels/lantern-41.npy|I believe I have gazed at the mountains long enough.
+mels/lantern-42.npy|Time for a change of scenery.
+mels/lantern-43.npy|Perhaps I will head further north.
+mels/lantern-44.npy|Qingce Village is one of the more populated places outside of the harbor.
+mels/lantern-45.npy|I think I shall go there.
+mels/lantern-46.npy|Compared to the constant hubbub of Lewa Harbor, it is far more serene here.
+mels/lantern-47.npy|It is a pleasant and leisurely atmosphere, not unfit for a festival.
+mels/lantern-48.npy|On the way over, I saw grandparents preparing meals, children learning to make show lanterns.
+mels/lantern-49.npy|It was quite nostalgic for me.
+mels/lantern-50.npy|It took me back to the very earliest days of Liyue's history.
+mels/lantern-51.npy|Back then, most ablebodied adults were busy supporting the war effort or helping to build the city.
+mels/lantern-52.npy|Like now, the oldest and youngest supported each other, living humble lives.
+mels/lantern-53.npy|Indeed, their lives were not easy.
+mels/lantern-54.npy|But the people of Liyue will have tenacity and optimism in their bones.
+mels/lantern-55.npy|They will never stop striving for progress, no matter how much destitution they face.
+mels/lantern-56.npy|In ancient times, Qingce village was once ravaged by the Chi.
+mels/lantern-57.npy|It is now several thousand years since it was put to rest.
+mels/lantern-58.npy|Over the millennia, people built dwellings and worked the fertile land, creating the spectacular view we now see today.
+mels/lantern-59.npy|But after it died, its body became the Rocky Mountains and flowing waters of Qingce.
+mels/lantern-60.npy|I too have heard this story.
+mels/lantern-61.npy|The idea is captivating, though I am afraid it is pure fantasy.
+mels/lantern-62.npy|Lofty mountains have stood and spring water has flowed here since time immemorial.
+mels/lantern-63.npy|But people now inhabit this place is solely because they have toiled to make it so.
+mels/lantern-64.npy|Qingce's verdant hills and stunning waters paired with the tranquil atmosphere here make it a place of extraordinary beauty.
+mels/lantern-65.npy|A rare blessing indeed.
+mels/lantern-66.npy|Oh, one of the villagers generously gifted me with some fresh bamboo shoots.
+mels/lantern-67.npy|They will add some seasonal flavor to a meal on my return to Liyue Harbor.
+mels/lantern-68.npy|Seasonal bamboo shoots are yet another rare blessing offered by Qingce Village.
+mels/lantern-69.npy|This year's Xiao Lanterns and fireworks seem more exquisite than ever.
+mels/lantern-70.npy|Yes, after a most worthwhile journey.
+mels/lantern-71.npy|Had I not heeded your advice, I fear I may have missed out on the scenes I saw.
+mels/lantern-72.npy|Thank you, traveler.
+mels/lantern-73.npy|Liyue's beauty always gladdens my heart.
+mels/lantern-74.npy|There is everything from the graceful to the grandiose, from serenity to splendor
+mels/lantern-75.npy|And the ways in which the sights of Liyue stir the heart.
+mels/lantern-76.npy|They must be seen to be experienced.
+mels/lantern-77.npy|The people of Liyue today are busier than ever before.
+mels/lantern-78.npy|Yet still, they head home when the festival season comes, no matter how long the journey takes, just for the chance to sit around the stove and share a joyful time with their loved ones.
+mels/lantern-79.npy|Even a glimpse of Liyue's scenery on their homeward journey can serve to comfort their spirits.
+mels/lantern-80.npy|Traveler, this view belongs to you as much as to anyone else.
+mels/lantern-81.npy|Though your journey ahead may be long and much awaits for you to accomplish.
+mels/lantern-82.npy|I hope that each time you return to Liyue, sights such as these will put your mind at ease.
+mels/lantern-83.npy|A safe haven between the mountains, a warm glow that guides you out from a dense forest, like the stars in the sky.
+mels/lantern-84.npy|May the lights of this city always shine for you, traveler, even from beyond the clouds.
+mels/lantern-85.npy|Tempered Yueyun chili powder mixed with garlic paste and chopped scallions, then seasoned with salt, vinegar, and soy sauce before finally sizzling in hot oil.
+mels/lantern-86.npy|This recipe may seem a bit crude, but is entirely hinged on the precise balancing of flavors and seasonings by the chef.
+mels/lantern-87.npy|Everything must be balanced just right.
+mels/lantern-88.npy|It is the consummate mastery of this balance that turns a humble dish into an exquisite one.
+mels/lantern-89.npy|You are too kind Director.
+mels/lantern-90.npy|Your eloquence is infamous in Liyue.
+mels/lantern-91.npy|We meet again, traveler.
+mels/lantern-92.npy|I trust your journey is going well.
+mels/lantern-93.npy|Splendid.
+mels/lantern-94.npy|Therein lies the value of a journey.
+mels/lantern-95.npy|Of course, I'll see you later, Director.
+mels/lantern-96.npy|Now then Traveler, what brings you to see me today?
+mels/lantern-97.npy|Yes, the Yuhung is honest, intelligent, and most diligent.
+mels/lantern-98.npy|She is capable of shouldering responsibilities that few others could.
+mels/lantern-99.npy|But, everything has a balance, and one's health must certainly weigh in.
+mels/lantern-100.npy|If I were still the mighty Rex Lapis, I might be able to help her see reason.
+mels/lantern-101.npy|But alas, I'm now nobody but an ordinary consultant.
+mels/lantern-102.npy|My words no longer carry the same weight as they once did.
+mels/lantern-103.npy|Besides, I am by no means close to the Yuheng.
+mels/lantern-104.npy|Taking the liberty to lecture her, may just as easily produce the opposite of the desired effect.
+mels/lantern-105.npy|We could take a more subtle, indirect approach to the matter, such as telling a story that resonates with her, containing your message conveyed within it.
+mels/lantern-106.npy|Such a story can be achieved by referencing topics from her daily life.
+mels/lantern-107.npy|The story could prove even more effective if you weave in something about someone close to her.
+mels/lantern-108.npy|I knew you'd understand what to do.
+mels/lantern-109.npy|Well done, Traveler.
+mels/lantern-110.npy|Go collect some source materials for your story.
+mels/lantern-111.npy|Of course, I can always provide you with my advice, if needed.
+mels/lantern-112.npy|Once we have formulated the plot, you can tell the story to the Yuheng.
+mels/lantern-113.npy|You are on amiable terms with the Yuheng, which makes you the natural candidate.
+mels/lantern-114.npy|You are most welcome Yuheng.
+mels/lantern-115.npy|It was the least I could do.
+mels/lantern-116.npy|Oh, yes, thank you for your kind reminder.
+mels/lantern-117.npy|That's the Yuheng, efficient, and reliable as ever.
+mels/lantern-118.npy|Why, thank you, Paimon.
+mels/lantern-119.npy|Please don't forget our earlier conversation.
+mels/lantern-120.npy|Once you've collected e	nough story material, we can meet here again and discuss things further.
+mels/lantern-121.npy|You are welcome, Miss Yun.
+mels/lantern-122.npy|Your willingness to hear suggestions is indeed impressive.
+mels/lantern-123.npy|It's no wonder your opera performance has only been getting better.
+mels/lantern-124.npy|Ah, you've returned.
+mels/lantern-125.npy|I am flattered, Miss Yun.
+mels/lantern-126.npy|It is an honor for an ordinary person like myself to have met the traveler.
+mels/lantern-127.npy|Very well.
+mels/lantern-128.npy|Goodbye, Miss Yun.
+mels/lantern-129.npy|So, tell me, what have you learned from your trip?
+mels/lantern-130.npy|I see.
+mels/lantern-131.npy|Well, traveler.
+mels/lantern-132.npy|What do you make of all their opinions?
+mels/lantern-133.npy|There's no need to jump to the conclusion.
+mels/lantern-134.npy|Why don't you elaborate more on the chef?
+mels/lantern-135.npy|Yes.
+mels/lantern-136.npy|To gain one's empathy, there must be familiarity.
+mels/lantern-137.npy|I would like to understand this chef character of ours a little deeper.
+mels/lantern-138.npy|Since you've spoken with others familiar with Keqing, why don't we integrate their thoughts into your story?
+mels/lantern-139.npy|That will allow it to become all the more convincing.
+mels/lantern-140.npy|That was quite poetic Paimon.
+mels/lantern-141.npy|Bravo.
+mels/lantern-142.npy|Yes, it is most unwise to put the cart before the horse.
+mels/lantern-143.npy|But there must be a reason why he doesn't partake in the delicacies he makes.
+mels/lantern-144.npy|The chef is unwilling to delegate tasks to others.
+mels/lantern-145.npy|He's overconfident about his own cooking abilities and tries to accomplish everything on his own.
+mels/lantern-146.npy|His judgment is clouded by the chores before him.
+mels/lantern-147.npy|He is oblivious to mountains in the distance.
+mels/lantern-148.npy|Rest is always of great importance.
+mels/lantern-149.npy|Although we may come across various difficulties in our lives, pushing ourselves is never a good modus operandi.
+mels/lantern-150.npy|The story is quite simple without embellishment, yet deeply meaningful.
+mels/lantern-151.npy|If our listener is sensible, then she should quickly grasp the meaning contained within.
+mels/lantern-152.npy|Sincerity can allow one to see clearly, and earnest advice can provide sound direction.
+mels/lantern-153.npy|The story is indeed good.
+mels/lantern-154.npy|The Yuheng is an adroit leader.
+mels/lantern-155.npy|I am certain she will understand the message you are trying to convey.
+mels/lantern-156.npy|Given that the case involving the treasure hoarders has come to an end, she is inevitably tired.
+mels/lantern-157.npy|Now will be the ideal moment to speak with her.
+mels/lantern-158.npy|If all goes well, I think your story will be a success.
+mels/lantern-159.npy|I wish you luck, traveler.
+mels/serenitea-1.npy|It's been a while.
+mels/serenitea-2.npy|How have you been?
+mels/serenitea-3.npy|The atmosphere is pleasant and to my liking.
+mels/serenitea-4.npy|In the time that I've known you, I've come to glean some information about your character and principles.
+mels/serenitea-5.npy|Your decisions hold my trust.
+mels/serenitea-6.npy|Everything comes from nothing, and that which is small becomes large one step at a time.
+mels/serenitea-7.npy|While I've lived many years, I'm not inflexible enough to be incapable of appreciating youthful trends.
+mels/serenitea-8.npy|Your taste always sets others at ease.
+mels/serenitea-9.npy|That would be my pleasure.
+mels/serenitea-10.npy|What would you like to discuss?
+mels/serenitea-11.npy|The past.
+mels/serenitea-12.npy|Then let us find a free day to take our time and talk.
+mels/serenitea-13.npy|A millennium's worth of stories cannot be told in one moment.
+mels/serenitea-14.npy|If you wish to be comfortable while listening, we'll need a pot of fine tea, two quality chairs and a pleasing courtyard.
+mels/serenitea-15.npy|Don't trouble yourself, this place will do just fine.
+mels/serenitea-16.npy|We can sit down and take our time chatting.
+mels/serenitea-17.npy|So you're interested in my past?
+mels/serenitea-18.npy|I have many stories to tell.
+mels/serenitea-19.npy|What fills an ordinary person with intrigue is but an aspect of daily life for me.
+mels/serenitea-20.npy|This topic is a bit unexpected.
+mels/serenitea-21.npy|I don't know where to start.
+mels/serenitea-22.npy|My story is long and will take up a significant amount of your time.
+mels/serenitea-23.npy|But, should you be willing to listen, we can talk over cups of tea.
+mels/serenitea-24.npy|As of late, I've been thinking about housing arrangements.
+mels/serenitea-25.npy|This residence of yours has unique scenery and elegant furnishings which I find very attractive.
+mels/serenitea-26.npy|I frequently come and go.
+mels/serenitea-27.npy|Excuse my disturbances.
+mels/serenitea-28.npy|Speaking of such things, I ought to contribute something to your realm.
+mels/serenitea-29.npy|And so, if it does not bother you, I would like to find a gift for you.
+mels/serenitea-30.npy|A pity.
+mels/serenitea-31.npy|As they say, only a mighty sword is worthy of a mighty hero.
+mels/serenitea-32.npy|A gift befitting you truly is difficult to come by.
+mels/serenitea-33.npy|Fortunately, we have plenty of time, so there's no need to rush a decision.
+mels/serenitea-34.npy|While I may no longer be the geo archon, I can be considered an old fashioned citizen of Liyue.
+mels/serenitea-35.npy|I have my courtesy.
+mels/serenitea-36.npy|When the time comes, please accept it without worries.
+mels/serenitea-37.npy|As long as you agree to accept it.
+mels/serenitea-38.npy|I have witnessed much from you.
+mels/serenitea-39.npy|Our time is boundless.
+mels/serenitea-40.npy|A carefree life relies upon a resolute and clear heart.
+mels/serenitea-41.npy|Being with you like this is truly a lively and joyous experience.
+mels/serenitea-42.npy|Thank you friend.
+mels/serenitea-43.npy|Good night.
+mels/serenitea-44.npy|The night grows darker, so rest when you can.
+mels/serenitea-45.npy|May you have pleasant dreams.
+mels/serenitea-46.npy|The flourishing city of Liyue developed from small streets dotted with a few shops, just like this one.
+mels/serenitea-47.npy|You have a talent for many pursuits, as well as a boldness of spirit.
+mels/serenitea-48.npy|To me, each day spent with you is as valuable as gold.
+mels/serenitea-49.npy|The people of Liyue follow a multitude of rules when arranging the furniture in a study.
+mels/serenitea-50.npy|These decorative arts can largely be organized into three schools of thought and nine areas of specialization.
+mels/serenitea-51.npy|You have never heard my explanations on the subject and yet you still avoided every taboo.
+mels/serenitea-52.npy|Perhaps some tacit connection is formed between us during our journey together.
+mels/story1-01.npy|It is an honor to meet you.
+mels/story1-02.npy|I have heard tell of you from Monstadt.
+mels/story1-03.npy|Indeed, it is as you have guessed.
+mels/story1-04.npy|The Wansheng Funeral Parlor organizes burials.
+mels/story1-05.npy|We ensure that those who pass on do so in peace.
+mels/story1-06.npy|Because I, can bring you to see Rex Lapis' vessel.
+mels/story1-07.npy|Rex Lapis may be the Prime of Adepti, but he is ultimately an adeptus.
+mels/story1-08.npy|Many adepti have left us over the millennia- this is the inexorable trend.
+mels/story1-09.npy|The times have changed- you must have felt it too, when you were at Jueyun Karst.
+mels/story1-10.npy|Archons go by many names.
+mels/story1-11.npy|The god of contracts, the god of commerce, the warrior god, Morax, Rex Lapis, is the idea that he also has the title of Adeptus so strange?
+mels/story1-12.npy|As you have seen, the time of the adepti is ending, and the time of mankind is slowly dawning.
+mels/story1-13.npy|In years past, Liyue's tradition was that a huge memorial service be held to mark the passing of every adeptus.
+mels/story1-14.npy|But this time, the Qixing have made no attempt whatsoever to respect this tradition.
+mels/story1-15.npy|It is sacrilege.
+mels/story1-16.npy|Decide or not, the concern of the Wansheng Funeral Parlor is this: When the ritual to receive this god is so kingly, it is all the more egregious for his final send-off to go unattended to.
+mels/story1-17.npy|Traveler, Childe has told me a lot about you.
+mels/story1-18.npy|Since you have had dealings with the Anemo Archon, could I ask you to help me prepare the Geo Archon's last rites?
+mels/story1-19.npy|Only by participating in the Rite of Parting will you be able to see the form of Rex Lapis again.
+mels/story1-20.npy|If we are agreed, come with me.
+mels/story1-21.npy|We will speak of the details as we walk.
+mels/story1-22.npy|After having experienced the land of the absentee archon, Traveler, how does it feel to know that our archon and adepti are here all around you in Liyue?
+mels/story1-23.npy|I see, so you're that sort of person.
+mels/story1-24.npy|It's not a bad thing.
+mels/story1-25.npy|But I suppose you have yet to experience the substance of Liyue as 3700 years of divinity.
+mels/story1-26.npy|The weight of 3700 years worth of history runs deepest in the true divinity of Liyue.
+mels/story1-27.npy|Organizing the Rite of Parting should prove to be an enlightening part of your travels.
+mels/story1-28.npy|Liyue is the most prosperous of the seven nations, defended by deities and ruled by the Qixing.
+mels/story1-29.npy|As such, the diplomatic maneuverings of the Fatui have gained no purchase here.
+mels/story1-30.npy|Ningguang of the Qixing has always been on her guard against the Fatui.
+mels/story1-31.npy|That is in all likelihood why Childe wants to make use of the Wansheng Funeral Parlor's connections.
+mels/story1-32.npy|I neither know nor do I wish to know.
+mels/story1-33.npy|As far as I am concerned, the Fatui are merely financial sponsors.
+mels/story1-34.npy|I only wish for Liyue's traditions to endure.
+mels/story1-35.npy|These are the advanced funds that Childe has provided.
+mels/story1-36.npy|If you use them up, you can go to him to apply for any subsequent funding.
+mels/story1-37.npy|Well then, let us be off.
+mels/story1-38.npy|The first step in our preparations shall be to obtain some prize Noctilucous Jade worthy of a deity.
+mels/story1-39.npy|Noctilucous jade, of radiant grade at the very least.
+mels/story1-40.npy|Very good.
+mels/story1-41.npy|It seems you have learned some tricks of the trade.
+mels/story1-42.npy|You want me to decide?
+mels/story1-43.npy|That is fine as well.
+mels/story1-44.npy|If it were me, the answer would be simple.
+mels/story1-45.npy|I'll take them all, boss.
+mels/story1-46.npy|It is as you say.
+mels/story1-47.npy|I suppose I overlooked this particular aspect of the transaction.
+mels/story1-48.npy|If one must always consider Mora before acting, then in all things one is bound by Mora.
+mels/story1-49.npy|All Mora is currency, but not all currency is Mora.
+mels/story1-50.npy|No need to waver.
+mels/story1-51.npy|Even when I am constrained by Mora, I have ways of working around my limitations.
+mels/story1-52.npy|Evaluating the quality of Noctilucous Jade is indeed very tricky.
+mels/story1-53.npy|As crude ore, there is little difference in texture, lustrousness, and internal pattern between good and bad jade.
+mels/story1-54.npy|Only after the item made using Noctilucous Jade has taken shape, will you be able to see whether it is up to par or not.
+mels/story1-55.npy|If you return to those crafty merchants to quibble, they will counter by saying that your crafting bench is to blame or that your heat control was poor.
+mels/story1-56.npy|But there is a way to truly evaluate this jade, and a true insider would know it.
+mels/story1-57.npy|A fool sees the pointer, and misses the moon.
+mels/story1-58.npy|If you point at the moon with your finger, a wise man knows that you are pointing at the moon, while a fool will only see the finger.
+mels/story1-59.npy|The patterns, the facade, these are all the finger.
+mels/story1-60.npy|Noctilucous Jade is a mystical stone used to light up the darkness, and so its brightness is the important thing- it is the moon.
+mels/story1-61.npy|Noctilucous Jade of excellent quality would have superior Pyro affinity.
+mels/story1-62.npy|In other words, the bluer and brighter the luster of the ore under high temperature, the higher its quality.
+mels/story1-63.npy|I have imparted the priceless secrets of the jade trade to you.
+mels/story1-64.npy|Now, all that's left is to put it into practice.
+mels/story1-65.npy|Don't worry, I know the rules.
+mels/story1-66.npy|As long as we can prove that it is good jade, you will not take a loss.
+mels/story1-67.npy|It can't be helped.
+mels/story1-68.npy|Trying to deprive a merchant of his profits would be like forcing a ravenous wolf to vomit up the food in its stomach.
+mels/story1-69.npy|Nonetheless, under the right conditions, these thin slices will serve.
+mels/story1-70.npy|While we add the high temperatures using pyro, we can use hydro to reinforce it from within.
+mels/story1-71.npy|This way, the samples will not disintegrate immediately.
+mels/story1-72.npy|Strictly speaking, asking for samples when we have not yet agreed to purchase the goods is unfair.
+mels/story1-73.npy|Trade in Liyue must be based upon fairness.
+mels/story1-74.npy|It has been a long time since I last set foot in the nation of wind.
+mels/story1-75.npy|A friend of mine from Mondstadt would always bring a few bottles of locally brewed dandelion wine whenever he came to visit me in Liyue.
+mels/story1-76.npy|It must be said that the famed liquor of the Land of Pastorals is far better than Sumeru's frigid snake wine.
+mels/story1-77.npy|Then we'll take a box of the third type of jade.
+mels/story1-78.npy|I suppose it would not hurt to tell you.
+mels/story1-79.npy|We need them to make implements for the Rite of Parting.
+mels/story1-80.npy|In the safe hands of the Liyue Qixing and good, honest merchants such as yourself, I, for one, believe that Liyue we will continue to prosper, as it always has done.
+mels/story1-81.npy|Now that we've made our choice, let's take this Noctilucous Jade back.
+mels/story1-82.npy|I must have forgotten to do that too.
+mels/story1-83.npy|Let me see.
+mels/story1-84.npy|As I thought, I didn't bring any.
+mels/story1-85.npy|My apologies, another oversight on my part.
+mels/story1-86.npy|Well, it settled then.
+mels/story1-87.npy|Let's take this jade to Yujing Terrace.
+mels/story1-88.npy|That's where we plan to hold the Rite,
+mels/story1-89.npy|I will do my best.
+mels/story1-90.npy|You have my thanks.
+mels/story1-91.npy|It seems that we must.
+mels/story1-92.npy|I will keep that in mind.
+mels/story1-93.npy|Thanks, both of you.
+mels/story1-94.npy|We can leave the jade here.
+mels/story1-95.npy|I have already called for a jewelsmith to shape them into the implements that we will need.
+mels/story1-96.npy|I have yet to go and see Childe.
+mels/story1-97.npy|So as for the jewelsmith's remuneration.
+mels/story1-98.npy|Yes, I have already rented this location, and have begun making preparations for the rite.
+mels/story1-99.npy|The Liyue Qixing have acquiesced to using the same location.
+mels/story1-100.npy|The Liyue Qixing have agreed to this arrangement.
+mels/story1-101.npy|Traditionally, we call it the Exuvia.
+mels/story1-102.npy|One must think that they already have someone in mind.
+mels/story1-103.npy|Or perhaps they already know.
+mels/story1-104.npy|Surely they must have found all the evidence that there is to find here.
+mels/story1-105.npy|These things are for the authorities in Yujing Terrace to consider.
+mels/story1-106.npy|Trying to help would probably only add to their troubles.
+mels/story1-107.npy|Before the rite is conducted, the Exuvia will be kept temporarily in the Golden House.
+mels/story1-108.npy|The only mint in Liyue, which is to say, the only mint in Teyvat.
+mels/story1-109.npy|All the Mora that flows throughout the world is minted there.
+mels/story1-110.npy|Since the Rite of Parting has the approval of the Qixing, it is a semi-official event.
+mels/story1-111.npy|As such, there is already some limited information available.
+mels/story1-112.npy|Perhaps each has their motives, but this is the capital of commerce.
+mels/story1-113.npy|A little exploitation once in a while is not unacceptable.
+mels/story1-114.npy|In Liyue, where the God of Contracts reigns, only contracts may not be betrayed.
+mels/story1-115.npy|I, for one, have no issue with little maneuvers outside their remit.
+mels/story1-116.npy|Well then, we should go and prepare the perfumes used in the rite.
+mels/story1-117.npy|No, perfumes used to honor the gods must be freshly decocted.
+mels/story1-118.npy|The quality of the Silk Flowers we require is also special.
+mels/story1-119.npy|Silk Flower petals contain a fibrous material of good quality, often used in brocade-making.
+mels/story1-120.npy|Its scent, however, is most elegant, and is especially suited for solemn events like giving offerings to gods and adepti.
+mels/story1-121.npy|We shall not speak of the details right now.
+mels/story1-122.npy|Follow me, we shall go to the merchants to purchase our ingredients.
+mels/story1-123.npy|Golden House Maiden, Valley Weaver, and Fate's Yearning.
+mels/story1-124.npy|One of each to start with, if you don't mind.
+mels/story2-01.npy|Silk flowers exhibit different properties based on how their environmental conditions differ from their ancestral habitat.
+mels/story2-02.npy|Nevertheless, these are fine specimens.
+mels/story2-03.npy|Excellently preserved.
+mels/story2-04.npy|Just look at the abundant foliage here.
+mels/story2-05.npy|And these stamens, glamorous as a maiden of the Golden House.
+mels/story2-06.npy|This strain is an evergreen, and mostly grows under complex hydrological conditions.
+mels/story2-07.npy|By contrast, this variety thrives in any dark, damp location, often in large clusters.
+mels/story2-08.npy|Morphologically, it is distinguished by the profusion of petals and densely packed stamens, though its powerful scent gives it away just as easily.
+mels/story2-09.npy|Lastly, this strain is quite the recluse.
+mels/story2-10.npy|Unlike its exuberant cousins, flowers and foliage are minimal, and when in season, it has a subtle yet enduring scent.
+mels/story2-11.npy|It was first discovered by the ancients when they scaled the mountains in search of the adepti.
+mels/story2-12.npy|Silk flowers have all but disappeared from the wild today, due to geographical changes over Liyue's history.
+mels/story2-13.npy|Most are now grown by horticulturalists.
+mels/story2-14.npy|I possess but a smattering of trivial knowledge.
+mels/story2-15.npy|My traveler friend is the one to watch -- they are on track to set foot in every corner of the world.
+mels/story2-16.npy|I'll take them all, boss.
+mels/story2-17.npy|How can I put this, when purchasing opera tickets, it is natural to decide based on which singer has the most melodious voice.
+mels/story2-18.npy|The same logic applies when purchasing a pet bird.
+mels/story2-19.npy|But this Silk Flower purchas is not an analogous case.
+mels/story2-20.npy|The same logic does not apply.
+mels/story2-21.npy|Perhaps you don't know.
+mels/story2-22.npy|Tradition states that we should decoct perfume from different sub-species of Silk Flower when making an offering to a Statue of the Seven.
+mels/story2-23.npy|Rex Lapis will then make his own choice between the scents.
+mels/story2-24.npy|Like several other tedious and complicated traditions, this one has become simplified over time.
+mels/story2-25.npy|But this is the only Rite of Parting to take place for one of The Seven in 3700 years.
+mels/story2-26.npy|As such, I do think we should honor tradition down to the last detail in this case.
+mels/story2-27.npy|Now that settled, a question.
+mels/story2-28.npy|Do you have any Mora on you?
+mels/story2-29.npy|Thank you, boss.
+mels/story2-30.npy|I think I speak for all of us when I say that your generosity has saved our skins.
+mels/story2-31.npy|Ideally with the help of an expert.
+mels/story2-32.npy|Unfortunately, none of my acquaintances have personal experience in the art of decoction,
+mels/story2-33.npy|Hence, I need you to help by asking around in the city.
+mels/story2-34.npy|Try the common folk, especially women.
+mels/story2-35.npy|I will wait for you near the Statue of the Seven.
+mels/story2-36.npy|Meet me there when the perfume is ready.
+mels/story2-37.npy|Don't worry, I haven't waited long.
+mels/story2-38.npy|Compared to the watch that Rex Lapis' statues have kept over Liyue, this was but a brief moment.
+mels/story2-39.npy|That is true.
+mels/story2-40.npy|Well, have you brought the perfumes?
+mels/story2-41.npy|Thank you both, let us offer them up.
+mels/story2-42.npy|Rex Lapis has taken on countless forms.
+mels/story2-43.npy|Perhaps that really was one of them.
+mels/story2-44.npy|We can leave that to the authorities.
+mels/story2-45.npy|Let us focus on the fond farewell for Rex Lapis.
+mels/story2-46.npy|Next, I would like the two of you to help me borrow the Cleansing Bell.
+mels/story2-47.npy|At present, a friend of mine named Madame Ping is the guardian of the Cleansing Bell.
+mels/story2-48.npy|She lives near Yujing Terrace.
+mels/story2-49.npy|If you ask her, she will know what to do.
+mels/story2-50.npy|Ah, I have certain reasons why I cannot be there in person; please, do this for me.
+mels/story2-51.npy|Indeed, this is the Cleansing Bell.
+mels/story2-52.npy|Hmm, it's in good condition.
+mels/story2-53.npy|Let's place the perfume we've prepared inside.
+mels/story2-54.npy|Of course.
+mels/story2-55.npy|How would I know that the bell was with her otherwise?
+mels/story2-56.npy|An adeptus, that tone does not suit you.
+mels/story2-57.npy|Still, her teapot is indeed very good.
+mels/story2-58.npy|There are none better for brewing tea.
+mels/story2-59.npy|When a suitable time arrives, I'll bring a spot of fine tea and pay her a visit.
+mels/story2-60.npy|Next, we need to purchase kites.
+mels/story2-61.npy|Kites are children's toys, yes, but they also play various symbolic roles in Liyue's rituals.
+mels/story2-62.npy|I will explain it to you.
+mels/story2-63.npy|But our next course of action should probably be to purchase the kites first.
+mels/story2-64.npy|Well that's because I prefer to share fun things with you.
+mels/story2-65.npy|Indeed, these are decorations used in the Rite of Parting.
+mels/story2-66.npy|The seven kites represent The Seven.
+mels/story2-67.npy|The design of this kite displays a firm grasp on the cyclicality and eternity so dear to the Electro Archon.
+mels/story2-68.npy|These markings of tree, and leaf, pay due honor to wisdom in the passage of time.
+mels/story2-69.npy|All this on a single kite, truly astonishing.
+mels/story2-70.npy|Justice flows across the surface of the waters, war rages like a flame, as does that which the Cryo Archon once, yes, these details are masterfully done.
+mels/story2-71.npy|Well then Granny Shan, I shall take these back with me.
+mels/story2-72.npy|As for the payment, Childe, you are as fond of jokes as ever.
+mels/story2-73.npy|Well then, since we've purchased our kites without incident, there is no need to take a break before moving to the next step in our preparations.
+mels/story2-74.npy|The Rite of Parting requires helping hands as well as materials.
+mels/story2-75.npy|We should be able to find some people near the harbor.
+mels/story2-76.npy|Next, we need some Everlasting incense.
+mels/story2-77.npy|For this, we need to go to Bubu Pharmacy, the finest pharmacy in all of -- is, everything okay?
+mels/story2-78.npy|Hello, little girl, do you sell Everlasting incense here?
+mels/story2-79.npy|Surely no prescription is needed to purchase Everlasting Incense?
+mels/story2-80.npy|It's not a controlled substance.
+mels/story2-81.npy|I'm afraid that she's probably right -- it's to do with her orders.
+mels/story2-82.npy|Zombies are limited to acting within the confines of their orders.
+mels/story2-83.npy|And somehow, in this case, the zombie issues her own orders to herself.
+mels/story2-84.npy|My dear Qiqi, we didn't bring a prescription, I'm afraid.
+mels/story2-85.npy|But we do hope that you can still help us find some Everlasting incense.
+mels/story2-86.npy|Never mind, just think of it as a peer-to-peer transaction, that way everybody wins.
+mels/story2-87.npy|Sometimes in Liyue, the art of the deal is simply about victory via mental gymnastics.
+mels/story2-88.npy|Guizhong Ballista, I have heard of this device before.
+mels/story2-89.npy|I don't believe so.
+mels/story2-90.npy|The Guizhong Ballista, at least, I have heard of before.
+mels/story2-91.npy|It's a kind of crossbow turret, installed on Mount Tianheng by an adeptus in the distant past.
+mels/story2-92.npy|An early mechanical device.
+mels/story2-93.npy|Located in Tianheng Pass, it was designed to automatically fire at large monsters, protecting Liyue from external threats.
+mels/story2-94.npy|Apparently not quite, This is the first I have ever heard of the Cocogoat.
+mels/story2-95.npy|Very well then, let's start by investigating near the Guizhong Ballista.
+mels/story2-96.npy|Perhaps we will find some clues.
+mels/story2-97.npy|It is currently inoperable, in any case.
+mels/story2-98.npy|This device is broken.
+mels/story2-99.npy|After millennia of wear and tear, even adepti contraptions are difficult to maintain.
+mels/story2-100.npy|You almost make it sound like I'm some sort of, bourgeois parasite, whose only utility lies in providing quaint pieces of trivia on demand.
+mels/story2-101.npy|That said, let me think for a moment.
+mels/story2-102.npy|Spare parts were made for the Guizhong Ballista when it was first built, in case it was damaged in battle.
+mels/story2-103.npy|As I recall, there is a military supply post from that period somewhere inside the pass.
+mels/story2-104.npy|If we can retrieve the spare parts from where they are stored, we may be able to repair the Guizhong Ballista.
+mels/story2-105.npy|One just needs to understand the basic working principles of the device.
+mels/story2-106.npy|I have a smattering of knowledge on the topic.
+mels/story2-107.npy|With the parts in hand, I could at least tinker with it.
+mels/story2-108.npy|These parts look useful.
+mels/story2-109.npy|One moment, I will try to repair the device,
+mels/story2-110.npy|It is done.
+mels/story2-111.npy|The Guizhong Ballista is more intricately designed than I thought.
+mels/story2-112.npy|It's easy enough.
+mels/story2-113.npy|We simply need to do this; look, it even has a scope.
+mels/story2-114.npy|Not a turret, a Guizhong Ballista.
+mels/story2-115.npy|Also, kindly state your name before you ask a question, it's just good manners.
+mels/story2-116.npy|Vandalizing the legacy of an adeptus for selfish gain, disgraceful behavior.
+mels/story2-117.npy|It is not we who need reprimanding, but you.
+mels/story2-118.npy|Troubling ourselves over this rabble is not worth the time.
+mels/story2-119.npy|We should focus on our contract with Qiqi.
+mels/story2-120.npy|A search using the Guizhong Ballista revealed no significant life forms nearby, save for the usual wildlife.
+mels/story2-121.npy|What's more, a contraption built using adeptus technology should have no trouble detecting an adeptibeat as Qiqi put it.
+mels/story2-122.npy|We won't solve anything while standing here and racking our brains.
+mels/story2-123.npy|Let's return to Bubu Pharmacy, explain that we could not find a Cocogoat, and review our next step.
+mels/story2-124.npy|Forgive us, we were unable to fulfill our end of the contract.
+mels/story2-125.npy|We found no trace of the Cocogoat adeptibeast of which you speak.
+mels/story2-126.npy|I, owe you both an apology.
+mels/story2-127.npy|I hastily agreed to what appeared to be an equitable agreement with this zombie child, when perhaps I should have undertaken further due diligence.
+mels/story2-128.npy|Might I ask, who?
+mels/story2-129.npy|Do you sell everlasting incense in this fine establishment?
+mels/story2-130.npy|An innocuous number in and of itself, though practically speaking, it could be a hard sum to come by.
+mels/story2-131.npy|This is correct.
+mels/story2-132.npy|Also an innocuous number in and of itself, though practically speaking, it is a whole 10,000 less than the original sum of 3 million.
+mels/story2-133.npy|Well, now that this is settled, we must head back to Yujing Terrace.
+mels/story2-134.npy|Mr. Childe, Dr. Baizhu, Little Miss Qiqi, see you soon.
+mels/story2-135.npy|Well, as it stands, we've hired helpers, and we've acquired the everlasting incense.
+mels/story2-136.npy|The completion of our preparations is not far off.
+mels/story2-137.npy|Well, traveler, have you gained anything from our adventure so far?
+mels/story2-138.npy|Which is it, I wonder?
+mels/story2-139.npy|The questions that such travels raise are ever so complicated.
+mels/story2-140.npy|Well, I'll leave you to ruminate over it yourself.
+mels/story2-141.npy|As to remuneration for your help, I've decided, to treat you to a meal.
+mels/story2-142.npy|I will remember to bring the mora this time.
+mels/story2-143.npy|Tonight, I shall take you both to an old hole in the wall, praised throughout Liyue
+mels/story2-144.npy|Let us meet near the harbor at third round knockout.
+mels/story2-145.npy|There's no need to order, I've already done so.
+mels/story2-146.npy|Third round knockout is not for lightweights, like those taverns in Mondstadt.
+mels/story2-147.npy|Here, the owner does not take such unorthodox orders as fruit juice.
+mels/story2-148.npy|I ordered some wine fermented sweet rice balls for you, if that counts.
+mels/story2-149.npy|Besides fine wine, the excellent ambience is the reason why this place is so well loved.
+mels/story2-150.npy|But when I say ambience, I refer to a different sort from the one the Teyvat Travel Guide uses to judge other establishments.
+mels/story2-151.npy|An invitation to visit the Jade Chamber is a rare honor, indeed.
+mels/story2-152.npy|You'd best be on your way now.
+mels/story2-153.npy|But don't forget about the Rite of Parting.
+mels/story2-154.npy|Once you've finished at the jade chamber, meet me at Dihua Marsh.
+mels/story3-01.npy|Right on time, I myself only arrived moments ago.
+mels/story3-02.npy|Did you enjoy your visit to the Jade Chamber?
+mels/story3-03.npy|Indeed, it's second to none in all of Liyue.
+mels/story3-04.npy|Then you met with Ningguang, I trust?
+mels/story3-05.npy|What did you talk about with her?
+mels/story3-06.npy|Oh, so you also met with Keqing then?
+mels/story3-07.npy|What did she have to say?
+mels/story3-08.npy|No respect for the divine.
+mels/story3-09.npy|Indeed, contrary to the ever-bold Keqing, Ningguang is more of a businesswoman at heart, though they are both members of the Qixing.
+mels/story3-10.npy|Although she's friendly, there's no way of clearly discerning her true intentions.
+mels/story3-11.npy|Yes, she has only relied on herself to rise to her current position.
+mels/story3-12.npy|No ordinary person could ever achieve that.
+mels/story3-13.npy|It's said that she's the one behind the constant expansion of the Jade Chamber.
+mels/story3-14.npy|It's the second most important thing to her.
+mels/story3-15.npy|Even if she ever gave up the position of Tianquan she would never give up the Jade Chamber.
+mels/story3-16.npy|Why, Mora, of course.
+mels/story3-17.npy|That is how the Fatui have always been.
+mels/story3-18.npy|It doesn't surprise me in the least
+mels/story3-19.npy|No matter what they may be planning, you must be careful when dealing with the Fatui.
+mels/story3-20.npy|Always be on your guard.
+mels/story3-21.npy|Yes, as a matter of fact, there is.
+mels/story3-22.npy|Today, we'll be gathering wild glaze lilies.
+mels/story3-23.npy|No, those lilies have all been garden by people.
+mels/story3-24.npy|They won't do it all.
+mels/story3-25.npy|Dihua Marsh used to be full of glaze lilies.
+mels/story3-26.npy|It is a sort of joyful flower that listens to human song.
+mels/story3-27.npy|Before the Archon War, Dihua Marsh was all dry land and fertile soil.
+mels/story3-28.npy|But the war caused landslides and the land was flooded, turning it into the marsh you see now.
+mels/story3-29.npy|Nearly all the glaze lilies were wiped out.
+mels/story3-30.npy|Of course, there are some kinds of flowers that have been preserved and gardened by people in the city.
+mels/story3-31.npy|But very few people know that glaze lilies may still be found in the wild.
+mels/story3-32.npy|Wild glaze lilies have the strongest fragrance.
+mels/story3-33.npy|If we want to follow the true tradition of the Rite of Parting, we must grind up the wild lilies and place the powder in a censor of Everlasting Incense.
+mels/story3-34.npy|But I'll need your assistance in gathering these flowers.
+mels/story3-35.npy|No, I need you to sing to them.
+mels/story3-36.npy|Singing to the flowers will make them more fragrant.
+mels/story3-37.npy|Your singing will surely bring out the strongest fragrance from the flowers.
+mels/story3-38.npy|We'll only know once she starts singing.
+mels/story3-39.npy|This little monster is known as a whopperflower.
+mels/story3-40.npy|Strange, These petals look interesting.
+mels/story3-41.npy|The glaze lilies used as a disguise were buried with a whopperflower for too long.
+mels/story3-42.npy|The result seems to have surprisingly potent medicinal value.
+mels/story3-43.npy|Let's collect what we can of these petals.
+mels/story3-44.npy|So, what do you think of this, farewell?
+mels/story3-45.npy|We dare not refuse it.
+mels/story3-46.npy|And that just about does it.
+mels/story3-47.npy|Our preparations for the Rite of Parting are mostly finished.
+mels/story3-48.npy|Given the ease of picking glaze lilies, I think this was a fitting end to our tasks, in more ways than one.
+mels/story3-49.npy|I've had enough ventures in my life already.
+mels/story3-50.npy|Beginning a new undertaking is always difficult at first and requires no small amount of effort.
+mels/story3-51.npy|And once business is at full steam, the stress of it all only wears away at you over time.
+mels/story3-52.npy|So you must be careful to take the time to step back and reexamine yourself.
+mels/story3-53.npy|If left unchecked, the wear and tear on your heart may go well past mending.
+mels/story3-54.npy|Desperate times?
+mels/story3-55.npy|Do they intend to exercise force?
+mels/story3-56.npy|It seems inevitable, given the current situation.
+mels/story3-57.npy|Surely the Liyue Qixing are not the sort to give in so easily?
+mels/story3-58.npy|And what now?
+mels/story3-59.npy|How is it that the Fatui have come under fire?
+mels/story3-60.npy|Do you intend to use your neutral identity as an intermediary between both sides?
+mels/story3-61.npy|Or, will you use your sword to turn the balance?
+mels/story3-62.npy|Neither path is an easy one.
+mels/story3-63.npy|Things are taking a turn for the worse.
+mels/story3-64.npy|I'm afraid I must leave now to handle things back at Wangsheng Funeral Parlor.
+mels/story3-65.npy|I hope that Master, who has been able to keep things under control for the moment.
+mels/story3-66.npy|Consider your next course of action carefully, traveler.
+mels/story3-67.npy|If you're trying to prevent an explosion, it may be wisest to look for the fuse first.
+mels/story3-68.npy|The contract is fulfilled.
+mels/story3-69.npy|That which thou seeketh is now bestowed unto thee, for my promise is solid as stone.
+mels/story3-70.npy|I do not give it for free.
+mels/story3-71.npy|I give it as agreed upon in the contract, for it is a matter solely between the Tsaritsa and I.
+mels/story3-72.npy|Perhaps it's best that I explain.
+mels/story3-73.npy|As you know, I've dwelt upon this world for more than 6000 years.
+mels/story3-74.npy|I witnessed the founding of Liyue, together with the adepti 3700 years ago.
+mels/story3-75.npy|Even boulders that can withstand whirlpools will erode with the passing of time.
+mels/story3-76.npy|I kept convincing myself that cracks had not begun to form and that the end of my time had not yet come.
+mels/story3-77.npy|Until one drizzly day, as I was strolling along the harbor, I heard a merchant tell one of his workers, you finished your duties, go ahead and call it a day.
+mels/story3-78.npy|I stood motionless among the crowds, asking myself, have I already finished my duties?
+mels/story3-79.npy|But as I began to consider relinquishing my divine role, I soon discovered that many reasons still remained to not hastily depart.
+mels/story3-80.npy|Was Liyue, the city I had dwelt in for so long, already prepared to enter its next age?
+mels/story3-81.npy|I decided that a test was needed in order to reveal the answer.
+mels/story3-82.npy|So I feigned my own death, and gathered the cast of Childe, the adepti and the Liyue Qixing to play their roles together on the stage that was Liyue.
+mels/story3-83.npy|The Gnosis which I had kept for so many years suddenly seemed to have lost its meaning.
+mels/story3-84.npy|That's right, which is why I continued to safeguard the Gnosis until now.
+mels/story3-85.npy|I was, pleasantly surprised with the finale of the show that you all put on.
+mels/story3-86.npy|Why, you even deserved an encore.
+mels/story3-87.npy|The adepti deserve the greatest applause, considering their years of seclusion, they hardly recognized the city.
+mels/story3-88.npy|Yet, faced with such a crisis, they exerted the greatest amount of restraint.
+mels/story3-89.npy|Not only did they manage to cooperate with the Qixing, but in the end, they even tried to understand the heart of the people.
+mels/story3-90.npy|And hats off to the emissary dispatched by the Cryo Archon to fulfill our contract, Signora.
+mels/story3-91.npy|She managed to keep everything she knew in strict confidence, far from the eavesdropping ears of her colleague Childe.
+mels/story3-92.npy|Just as I had requested.
+mels/story3-93.npy|All the while, I carried on as Zhongli, and fulfilled the traditions of Liyue, in this mortal form.
+mels/story3-94.npy|Thank you for walking that path with me, traveler.
+mels/story3-95.npy|These things were all a part of my script.
+mels/story3-96.npy|The only unforeseen plot twist was the conduct of the Liyue Qixing.
+mels/story3-97.npy|I had expected them to do no more than the adepti, to come to the defense of Liyue.
+mels/story3-98.npy|But when all was said and done, they seized the opportunity to supplant Liyue's divine protectors and used the subsequent power vacuum left by my death to quickly gain complete control of Liyue.
+mels/story3-99.npy|On the contrary, I think it is excellent.
+mels/story3-100.npy|I had always feared that it was too soon for them to take over from me, and it was also that which I longed for the most.
+mels/story3-101.npy|As such, this is the best parting gift anyone could have given this god of old.
+mels/story3-102.npy|Now then, is there anything else you wish to ask me?
+mels/story3-103.npy|Realistically speaking, there is no such thing.
+mels/story3-104.npy|However, I am the god of contracts.
+mels/story3-105.npy|For thousands of years, I have made countless contracts.
+mels/story3-106.npy|If the deal was of no benefit, then I certainly would not be inclined to agree to it.
+mels/story3-107.npy|My agreement with the Cryo Archon will be the last of my contracts as the Geo Archon, my contract to end all contracts.
+mels/story3-108.npy|As for the bargaining chip that the Tsaritsa used to balance the scales, uncover that answer for yourself in your future journeys.
+mels/story3-109.npy|Oh, why are you hanging back here?
+mels/story3-110.npy|Don't you want to get closer to the action?
+mels/story3-111.npy|You went through a lot to organize this, rite and this is a rare opportunity to see your journey bear fruit with your own eyes.
+mels/story3-112.npy|You should make the most of it.
+mels/story4-01.npy|Why would I not feel more at ease after laying down the burden I have borne for 3700 years?
+mels/story4-02.npy|Right, if the two of you can spare the time, I should treat you to a meal at the Xinyue Kiosk.
+mels/story4-03.npy|You're right, I do lack the Mora.
+mels/story4-04.npy|As the Rex Lapis Morax, I can easily create Mora.
+mels/story4-05.npy|But since I have chosen to walk this earth as the mortal Zhongli, I should abide by the same rules that mortals do.
+mels/story4-06.npy|When I was journeying with you, though I still had the Gnosis in hand, I knew that I must soon retire from my role as an archon.
+mels/story4-07.npy|So I had to, rehearse a little, for my new life.
+mels/story4-08.npy|Well, we were only spending Fatui money.
+mels/story4-09.npy|You don't have to say it like that.
+mels/story4-10.npy|In the city of commerce, we do not merely exchange money or goods.
+mels/story4-11.npy|We also exchange knowledge, memories, and foresight, as well as positions, roles, and lives.
+mels/story4-12.npy|The archon, Morax, could never experience life as the true mortal Zhongli could, no matter how many times he descended to be with his people.
+mels/story4-13.npy|I must thank you for that.
+mels/story4-14.npy|I will treasure the memories that I made as Zhongli, traveling the streets of Liyue with you.
+mels/story4-15.npy|That is true, but there is no journey that does not end.
+mels/story4-16.npy|No meetings without partings.
+mels/story4-17.npy|I fear that continuing your journey may be difficult.
+mels/story4-18.npy|The nation that neighbors Liyue by the sea, Inazuma, is presently closed.
+mels/story4-19.npy|Yes, the nation has been closed by order of its deity, the Electro Archon, Baal.
+mels/story4-20.npy|And just as the people of Liyue preferred to call me Rex Lapix, she too goes by another name among locals in Inazuma.
+mels/story4-21.npy|That is the case.
+mels/story4-22.npy|And since Raiden is also the Shogun of the Inazuma Bakufu, people call her the Raiden Shogun.
+mels/story4-23.npy|It's because of visions.
+mels/story4-24.npy|When faced with circumstances beyond their control, humans often bemoan their lack of power.
+mels/story4-25.npy|But if a person shows true strength of will at a desperate and fateful moment in their life, the gods will look upon them with favor.
+mels/story4-26.npy|This is what visions are.
+mels/story4-27.npy|Magical foci bestowed upon those who have been acknowledged by the gods.
+mels/story4-28.npy|But starting from last year, the Raiden Shogun began promulgating the Vision Hunt Decree.
+mels/story4-29.npy|It was an order to seize all visions within Inazuma's borders, and to inlay them upon the hands of a statue of the Thousand-Armed, Hundred-Eyed God.
+mels/story4-30.npy|I should think that in the Raiden Shogun's eyes, it is precisely because they are divine blessings, that they should be under the sole dominion of divinity.
+mels/story4-31.npy|The Anemo Archon is the god of freedom, and the Geo Archon is the God of Contracts.
+mels/story4-32.npy|For her part, the Raiden Shogun is the God of Eternity.
+mels/story4-33.npy|It seems as though she has finally decided to eliminate any unstable elements that could pose a threat to her eternal realm.
+mels/story4-34.npy|The fact that even I, the oldest of the seven, have now passed away will only strengthen her resolve to pursue eternity.
+mels/story4-35.npy|Knowing her, she must have again quoted that adage she is most fond of when proclaiming that decree to her people.
+mels/story4-36.npy|Seven ideals for seven gods, and of these, Eternity is nearest unto Heaven.
+mels/story4-37.npy|Was there anything else you wish to know?
+mels/story4-38.npy|That was a good one.
+mels/story4-39.npy|Failing a divine trial?
+mels/story4-40.npy|Hhow they came up with that excuse, I will never know.
+mels/story4-41.npy|That said, the reason why the Qixing were so eager to resolve the incident and stop pursuing the culprit was indeed because they received news in secret that Rex Lapis was not dead.
+mels/story4-42.npy|I hinted as much to the adepti as well.
+mels/story4-43.npy|How did I accomplish that, you ask?
+mels/story4-44.npy|Have you ever heard of this particularly convenient adepti art known as Gifting Dreams and visions?
+mels/story4-45.npy|These are indeed false accusations, but it remains undeniably true that Childe did send people to the Jade Chamber to prevent the adepti and the Qixing from defeating the ancient god.
+mels/story4-46.npy|I've heard that Ningguang is busy milking that for all its worth on the foreign relations front, at the moment browbeating the envoys of the Fatui.
+mels/story4-47.npy|Those poor Schneznayan diplomats.
+mels/story4-48.npy|If it were not for Childe's exalted position as a harbinger, I'm certain that they would have shifted all the blame to him, and called for his dismissal by now.
+mels/story4-49.npy|The time of the adepti has long passed.
+mels/story4-50.npy|If even the Liyue Qixing don't want to face that truth, then what future is there for Liyue?
+mels/story4-51.npy|Keqing is absolutely right in saying this.
+mels/story4-52.npy|Now, though I did laud Ningguang's desire for power, believing this to be a good thing, and thought as a matter of course that she must have been behind the Qixing's plan to take governing power over Liyue from the hands of the gods and adepti.
+mels/story4-53.npy|Could the original person who brought up the idea of seizing power have been?
+mels/story4-54.npy|The mora present now will not vanish.
+mels/story4-55.npy|But the Golden House will indeed have to cease operations for a lengthy period of time, since creating mora requires the use of the geo archon's power.
+mels/story4-56.npy|Yes, this is indeed a major issue from a financial standpoint.
+mels/story4-57.npy|Well, I suppose we'll just leave such troublesome matters to the Liyue Qixing to debate.
+mels/story4-58.npy|Oh, a private fund?
+mels/story4-59.npy|This does seem like a good, logical, common sense idea.
+mels/story4-60.npy|It's a shame that I didn't think of it at the time.
+mels/story5-01.npy|Oh? I didn't think I would see you here.
+mels/story5-02.npy|Yes, we had the fortune of meeting not too long ago.
+mels/story5-03.npy|They are quite a knowledgeable and talented pair, and a pleasure to be around.
+mels/story5-04.npy|Traveler, we were just discussing the history of Rex Lapis.
+mels/story5-05.npy|Would you like to listen?
+mels/story5-06.npy|I can't say I agree.
+mels/story5-07.npy|Let us not speak of the authenticity of the dagger and sword first.
+mels/story5-08.npy|But Mora and money, came about simply because they are a convenient measure of a contract's value.
+mels/story5-09.npy|Rex Lapis just meant for Mora to serve as a catalyst for people to exchange and trade.
+mels/story5-10.npy|The world's first mora is probably just an ordinary coin created by Rex Lapis.
+mels/story5-11.npy|As for its fate?
+mels/story5-12.npy|The same as all Mora, I suspect.
+mels/story5-13.npy|It was simply spent somewhere.
+mels/story5-14.npy|No, no, I am not debating right or wrong, I am simply stating a fact.
+mels/story5-15.npy|I know but little about history, and I wouldn't dare to brag.
+mels/story5-16.npy|But discussion is meaningless if everyone has the same opinion, no?
+mels/story5-17.npy|That is correct, indeed.
+mels/story5-18.npy|There's a simple explanation, really.
+mels/story5-19.npy|To the god of wealth and commerce, what material is easier to get than Mora?
+mels/story5-20.npy|I mean, I am talking about Rex lapis.
+mels/story5-21.npy|Oh, it's no problem at all, but may my friend accompany us?
+mels/story5-22.npy|Perhaps they could be of some help.
+mels/story5-23.npy|Let's not analyze it in terms of good versus evil.
+mels/story5-24.npy|Rex Lapis placed great importance on the integrity of contracts, so any gods he killed certainly must have broken some kind of contract.
+mels/story5-25.npy|This bit of history is a long story, but you may not like the truth when you hear it.
+mels/story5-26.npy|I don't know where to begin.
+mels/story5-27.npy|So you mean to say that this is work for the Wangsheng Funeral Parlor, yes?
+mels/story5-28.npy|Well, since it's work, I don't have a choice.
+mels/story5-29.npy|A consultant of the Wangsheng Funeral Parlor must respect their duty.
+mels/story5-30.npy|That will give us a chance to continue the topic we were just discussing.
+mels/story5-31.npy|Oh, and you should tag along too.
+mels/story5-32.npy|This experience may be of help to you on your future adventures.
+mels/story5-33.npy|It is a story from before the rise of the Seven.
+mels/story5-34.npy|Although the God of Salt has already perished, it will still be a meaningful experience for your journey.
+mels/story5-35.npy|But this friend of mine has a treasure-finding talent surpassed by no one.
+mels/story5-36.npy|It will surely be of great help to us.
+mels/story5-37.npy|If my friend despise a treasure chest, they will absolutely find a way to open it.
+mels/story5-38.npy|Guyun Stone Forest is actually the perfect place to be, if you wish to learn about the gods or the history of the Archon War.
+mels/story5-39.npy|Legend has it that Rex Lapis threw spears made of large rock into the sea here, piercing, and crushing the Overlord of the Vortex.
+mels/story5-40.npy|After many years of wind erosion, those stone spears have turned into the unique rock formations we see now.
+mels/story5-41.npy|What we see now is just the part of them that remains.
+mels/story5-42.npy|The stone spears hurled by Rex Lapis, all those years ago were much greater, both in number and in size.
+mels/story5-43.npy|But due to the different angles they landed at, their large centers of mass, erosion by seawater, and years of gravity, many of them have been completely swallowed by the sea.
+mels/story5-44.npy|So besides wind erosion, the initial collapsing of the stone spears also played a big part in the formation of Guyun Stone Forest.
+mels/story5-45.npy|Indeed, this is where the value lies in research at Guyun Stone Forest.
+mels/story5-46.npy|Most of the objects from that time were lost to the sea, but the gigantic waves created by the Overlord of the Vortex have given those sunken objects a chance to see the light of day again.
+mels/story5-47.npy|Okay then, I will go with my friend here.
+mels/story5-48.npy|Although I have a smattering of knowledge in various disciplines, when it comes to archaeology, I can't compete with the expert here.
+mels/story5-49.npy|If we find anything valuable or rare, let's meet on the shore opposite from here.
+mels/story5-50.npy|The ancient god probably left behind lots of elemental marks.
+mels/story5-51.npy|Following them should make our search much easier.
+mels/story5-52.npy|Guyun Stone Forest is a place where a god was defeated, and its remnants still affect the area to this day.
+mels/story5-53.npy|See that object in the center?
+mels/story5-54.npy|Perhaps it emits the remnant strength of that god.
+mels/story5-55.npy|That would certainly attract them.
+mels/story5-56.npy|But, the hydro mimic monsters.
+mels/story5-57.npy|I have a contract, and must put my personal feelings aside.
+mels/story5-58.npy|Go ahead, defeat them and recover the relic.
+mels/story5-59.npy|It's just a stone slab, but its design is quite unique.
+mels/story5-60.npy|This should be enough to garner some information.
+mels/story5-61.npy|Let's head back.
+mels/story5-62.npy|Now, now, calm down, no need to make a fuss.
+mels/story5-63.npy|We were able to bring back some intriguing objects.
+mels/story5-64.npy|Let's have a look.
+mels/story5-65.npy|These objects were indeed washed ashore by the Overlord of the Vortex, but they have nothing to do with the god besides being in the vicinity at the time.
+mels/story5-66.npy|The stone slab we found, however, has a mysterious pattern and faint aura of divine power.
+mels/story5-67.npy|Perhaps it will be useful for research purposes.
+mels/story5-68.npy|You probably don't want to sell that teacup.
+mels/story5-69.npy|That's not an ancient teacup.
+mels/story5-70.npy|It's part of Ningguang's collection, it must have fallen here along with the Jade Chamber.
+mels/story5-71.npy|So unless you want to mess with the Qixing.
+mels/story5-72.npy|According to legend, the people of the God of Salt, Havria, enjoyed prosperous lives under her protection.
+mels/story5-73.npy|But this legend has been around for ages.
+mels/story5-74.npy|With the countless scrap collectors and treasure hoarders in the area, there probably aren't many valuable things left here.
+mels/story5-75.npy|I may know something about it.
+mels/story5-76.npy|Over the years, I've heard various rumors with bits of knowledge about seals.
+mels/story5-77.npy|Although their references seem rather disorderly, they do in fact contain the secret to breaking seals.
+mels/story5-78.npy|Let's go take a look at the mechanism Ms. Wanyan just mentioned.
+mels/story5-79.npy|That's because there's actually another mechanism that must be activated.
+mels/story5-80.npy|Let me lead the way from here.
+mels/story5-81.npy|That's because you don't just need to activate them at the same time, but in a certain order as well.
+mels/story5-82.npy|Otherwise, the seal will not be broken.
+mels/story5-83.npy|The secret to this puzzle is hidden in the legends about the Archon War.
+mels/story5-84.npy|Tianheng in the south, Yaoguang in the east, Jueyun in the west, Qingce in the north, all desolate and devoid of life.
+mels/story5-85.npy|Liyue is vast, yet even one haven is hard to find.
+mels/story6-01.npy|Certainly you have, and the contents of this saying are also related to the God of Salt.
+mels/story6-02.npy|To provide a haven for her people, whose lives had been ravaged by the Archon War, this benevolent god searched all across Liyue.
+mels/story6-03.npy|At that time, with the chaotic fires of war engulfing the land, even one sliver of peace was a luxury.
+mels/story6-04.npy|And that haven she eventually found is right here.
+mels/story6-05.npy|Today, it is known as Sal Terrae.
+mels/story6-06.npy|Tianheng in the south, Yaoguang in the east, Jueyun in the west, Qingce in the north.
+mels/story6-07.npy|With this clue, you should be able to solve the puzzle.
+mels/story6-08.npy|It was nothing, really.
+mels/story6-09.npy|Now, it's time that people learn the hidden truth lost in time.
+mels/story6-10.npy|Before entering the ruin, I have a proposal that will help us prevent the kind of senseless arguing between you two that we saw at Guyun Stone Forest.
+mels/story6-11.npy|I propose you two agree upon a contract, stipulating that we alternate who gets claim to each treasure we encounter, with only one object permitted per claim.
+mels/story6-12.npy|To show my sincerity, I won't be taking any treasure.
+mels/story6-13.npy|This will just be between you all.
+mels/story6-14.npy|Well then, if the contract is not agreed upon, I will no longer serve as your consultant on this expedition.
+mels/story6-15.npy|You will have to rely on your own experience to find whatever treasures are hidden in this ruin, as well as traps.
+mels/story6-16.npy|I can accept this arrangement.
+mels/story6-17.npy|Well then, let's go.
+mels/story6-18.npy|These are people.
+mels/story6-19.npy|They were probably followers of the God of Salt.
+mels/story6-20.npy|According to my knowledge, it's no ordinary vessel.
+mels/story6-21.npy|If Mr. Kliment wants this salt chalice, then the next object we find will belong to Miss Wanyan, according to the contract agreed upon.
+mels/story6-22.npy|Then let's move on, shall we?
+mels/story6-23.npy|But the God of Salt imbued it with another power.
+mels/story6-24.npy|When you stick this ruler in the ground, the surrounding area will become covered in salt, much like a rising tide covers the earth.
+mels/story6-25.npy|The deeper it is stuck in the ground, the more salt will appear.
+mels/story6-26.npy|It is essentially a bumper harvest of salt.
+mels/story6-27.npy|Well then, according to our contract, the salt ruler goes to Miss Wanyan.
+mels/story6-28.npy|So you are saying, you want to break the contract?
+mels/story6-29.npy|Because you agreed to a contract.
+mels/story6-30.npy|Rex Lapis once said: "Ones who break their contracts shall suffer the Wrath of the Rock."
+mels/story6-31.npy|Will "suffer the Wrath of the Rock" — you may find it rather unpleasant.
+mels/story6-32.npy|I shall confiscate your treasure as well.
+mels/story6-33.npy|You are not worthy to continue any further into the ruin.
+mels/story6-34.npy|Leave this place.
+mels/story6-35.npy|Kliment's wrongdoing stemmed from greed, yes.
+mels/story6-36.npy|But besides greed, there are many other things that may tempt us to break contracts.
+mels/story6-37.npy|When people see the object of their dreams, how many are really able to control their desire and follow the contract?
+mels/story6-38.npy|I think we should be honest with each other now.
+mels/story6-39.npy|Although it is only half-full, it is also forever half-full--that is to say, it is bottomless.
+mels/story6-40.npy|That in truth, not a single member of this "archaeological expedition" came here for archaeology.
+mels/story6-41.npy|Miss, you lack even the most basic archaeological knowledge and can recognize naught but a few simple relics.
+mels/story6-42.npy|However, you are an expert when it comes to anything regarding the God of salt.
+mels/story6-43.npy|You aren't interested in archaeology or relics -- what you're really interested in is the God of Salt.
+mels/story6-44.npy|I believe those legends about the God of Salt that you mentioned on the Pearl Galley are passed down between generations at Yinyuan Hall.
+mels/story6-45.npy|Naturally, of course.
+mels/story6-46.npy|But I must add, Liyue is no longer Morax's Liyue.
+mels/story6-47.npy|Come with me.
+mels/story6-48.npy|All the answers you seek lie ahead.
+mels/story6-49.npy|Two pieces of a broken sword.
+mels/story6-50.npy|From an archeological perspective, these are two separate relics.
+mels/story6-51.npy|According to the contract, you can only claim one.
+mels/story6-52.npy|Yes, but the only one object per claim clause still holds true.
+mels/story6-53.npy|You cannot take two relics at the same time.
+mels/story6-54.npy|When there's a contract, nothing can be allowed to slide.
+mels/story6-55.npy|If the contract is not followed, then it is broken.
+mels/story6-56.npy|So you are already decided?
+mels/story6-57.npy|Then there is a price to pay for breaking the contract.
+mels/story6-58.npy|That is to say, you consign yourself to "suffer the Wrath of the Rock."
+mels/story6-59.npy|Perhaps that punishment would be easier for her.
+mels/story6-60.npy|But, as punishment, I will tell you the truth.
+mels/story6-61.npy|Yes, the truth that I am about to tell you shall be your price to pay for breaking the contract.
+mels/story6-62.npy|I'm afraid to say that the God of Salt, Havria, was not the powerful god you imagined her to be.
+mels/story6-63.npy|Rather, she was a small and weak god who yielded to all other gods.
+mels/story6-64.npy|When it came to war, she lost, never able to win a seat among the seven.
+mels/story6-65.npy|During the Archon War, the gods of this world used all their strength and cunning to vie for control of Teyvat.
+mels/story6-66.npy|But Havria instead chose to flee.
+mels/story6-67.npy|She thought that by giving up before a fight could start, she could save herself and her people from the war.
+mels/story6-68.npy|However, during such a long war, there is no end to the advances of aggressors.
+mels/story6-69.npy|After making countless concessions, Havria had lost all of her lands until only one small haven remained.
+mels/story6-70.npy|In her last days, she had not even a single blade to defend her people with.
+mels/story6-71.npy|This sword is not a relic belonging to the god of Salt, but is instead the murder weapon used to kill her.
+mels/story6-72.npy|As I said before, I only state the facts.
+mels/story6-73.npy|It is a punishment, after all.
+mels/story6-74.npy|I did not want to tell her such cruel facts.
+mels/story6-75.npy|But the contract was broken.
+mels/story6-76.npy|Indeed, otherwise, why would I use the truth as punishment?
+mels/story6-77.npy|Let's follow her deeper into the ruin.
+mels/story6-78.npy|There, I fear we will find something that will leave her no choice but to face the truth.
+mels/story6-79.npy|Salt, and betrayal.
+mels/story6-80.npy|Since you do not trust me, let us continue onward.
+mels/story6-81.npy|That which lies beyond this door will show you all that happened back then.
+mels/story6-82.npy|This is the scene of the crime.
+mels/story6-83.npy|Havria's body dissipated, leaving nothing but these traces of salt.
+mels/story6-84.npy|Her dying moments have since been frozen in time to this very day.
+mels/story6-85.npy|The story continues that some among her people realized at last that this gentle, kind but weak god could never protect anyone in wartime.
+mels/story6-86.npy|The Archon War was cruel in the extreme.
+mels/story6-87.npy|Instead of consigning her to the agony of defeat, they thought perhaps it would be better to give her a quick release.
+mels/story6-88.npy|No matter how weak the god, the power that flows forth when they are slain is beyond the strength of mortal coils to bear.
+mels/story6-89.npy|Those who could not flee were thus transformed.
+mels/story6-90.npy|Those of her people who were untouched by this disaster left for Liyue, where they sought refuge with Rex Lapis.
+mels/story6-91.npy|Their descendants feared Havria's remnants and lived in terror that she had laid upon them an eternal curse.
+mels/story6-92.npy|So they risked their lives to come here to break the sword, and offer up obeisances in hopes that her anger might be appeased.
+mels/story6-93.npy|But they need not have done so.
+mels/story6-94.npy|For how could a god who had never once resisted, even till the end, nurse hatred for her people in her heart?
+mels/story6-95.npy|This is the price she must pay.
+mels/story6-96.npy|Yet I would not call it a bad thing.
+mels/story6-97.npy|Judging by how she appeared, I fear that she will struggle for a time.
+mels/story6-98.npy|But even if she may not escape that struggle immediately, simply recognising the truth is good enough for now.
+mels/story6-99.npy|Indeed, in ages past, Havrea's story served as a warning to me as well.
+mels/story6-100.npy|How sharp of you.
+mels/story6-101.npy|Yet this is not a matter of wisdom, only age.
+mels/story6-102.npy|Faith in a god who has already passed will do you no good.
+mels/story6-103.npy|It is for Havria, and so it is for Morax also.
+mels/story6-104.npy|All right then.
+mels/story6-105.npy|Now, would you like to accompany me in taking a trip to Guyun Stone Forest?
+mels/story6-106.npy|Treading old ground, telling old stories, one cannot help but be reminded of old acquaintances.
+mels/story6-107.npy|Now, I mentioned before that many gods of old have been sealed beneath the Guyun Stone Forest.
+mels/story6-108.npy|The adepti have presently handed Liyue over to mortals, and Havria's time was even further in the past.
+mels/story6-109.npy|The salt chalice and salt ruler that she left behind should not return to Liyue.
+mels/story6-110.npy|To leave them here is to let them slumber, and it is also a homecoming.
+mels/story6-111.npy|I ended an era with my own two hands.
+mels/story6-112.npy|I have always wondered how I should remember that which I ended.
+mels/story6-113.npy|History records, but history may be changed.
+mels/story6-114.npy|This incident proved that.
+mels/story6-115.npy|Time is a mighty force, and history's twist in its flow.
+mels/story6-116.npy|I need to find a better way of recording history in order to engrave its truth.
+mels/story6-117.npy|Stone carvings were one such ancient method, but unchanging stone immovable earth, even one such as myself.
+mels/story6-118.npy|Some day we may all disappear.
+mels/story6-119.npy|Therefore, I thought of you, traveler.
+mels/story6-120.npy|You are one who crosses the celestial atlas, and who passes through countless worlds.
+mels/story6-121.npy|If our history is engraved in your memory, it will one day accompany you into another world.
+mels/story6-122.npy|As long as a Traveler like you is able to record what happened, then a backup of sorts will exist for times and tides of Teyvat.
+mels/story6-123.npy|Well, may you find treasure among the stars even after you have left Teyvat.
+mels/story6-124.npy|Now, I am the God of Wealth, so I would think that my words have some weight here.
+mels/story6-125.npy|Now then, it is time that we consigned both the salt chalice and salt ruler to the sea.
+mels/story6-126.npy|As I said before, this is the place to which the remnants of many bygone gods are consigned.
+mels/story6-127.npy|This includes Osail Overlord of the Vortex, who the Jade Chamber most recently returned to this ocean prison.
+mels/story7-1.npy|Oh, here for a few tales?
+mels/story7-2.npy|I didn't know you two were connoisseurs.
+mels/story7-3.npy|Ah, something I'm rarely short of.
+mels/story7-4.npy|Someone who understands geology and ore.
+mels/story7-5.npy|You appear to have taken his claim quite personally on my behalf.
+mels/story7-6.npy|I see.
+mels/story7-7.npy|Well then it will be my pleasure to accompany you.
+mels/story7-8.npy|But I should inform you that despite my expertise, I cannot necessarily claim to be a leading authority.
+mels/story7-9.npy|We are at all times adrift in a sea of learning.
+mels/story7-10.npy|New knowledge should be welcomed with open arms.
+mels/story7-11.npy|Still, I imagine I will be of help to you in this endeavor.
+mels/story7-12.npy|If we do encounter an expert, I look forward to broadening my own understandings.
+mels/story7-13.npy|Let's not get ahead of ourselves.
+mels/story7-14.npy|Still, I do have acclaimed to some experience in this field.
+mels/story7-15.npy|I admire your enthusiasm, good sir.
+mels/story7-16.npy|So you're an appraiser, Mr Kun Jun.
+mels/story7-17.npy|A glossy exterior, and a fissure that could only have been left in the wake of a volcanic eruption.
+mels/story7-18.npy|If I'm not mistaken, this is a rough gem from another nation.
+mels/story7-19.npy|It's no ordinary rough gem.
+mels/story7-20.npy|Fragile surface layer, black veining.
+mels/story7-21.npy|My intuition tells me that there's high quality crystal ore inside.
+mels/story7-22.npy|Everything he said is true.
+mels/story7-23.npy|Most crystals are born in high temperature environments.
+mels/story7-24.npy|Heat and water aren't natural bedfellows, of course, which is why crystals with water deposits are so sought after.
+mels/story7-25.npy|Moreover, this particular crystal contains mountain lake water,
+mels/story7-26.npy|A rare find indeed.
+mels/story7-27.npy|I've seen many such stones in my time.
+mels/story7-28.npy|I recognized it immediately.
+mels/story7-29.npy|I hope you didn't mind me flaunting my experience, Mr Kun Jun.
+mels/story7-30.npy|So four miners have disappeared.
+mels/story7-31.npy|Workers in this trade are usually young men in the prime of their lives.
+mels/story7-32.npy|Could it be that the four of them left for another mine?
+mels/story7-33.npy|We'll need to explore the site ourselves before extracting any conclusions.
+mels/story7-34.npy|A few everyday items.
+mels/story7-35.npy|They must belong to Uncle Dai in his men
+mels/story7-36.npy|The four of them have been gone for six days without a change of clothes.
+mels/story7-37.npy|Items for washing one's face before the dawn shift.
+mels/story7-38.npy|Mining equipment.
+mels/story7-39.npy|Correct.
+mels/story7-40.npy|Improbable.
+mels/story7-41.npy|There are four pickaxes missing.
+mels/story7-42.npy|It seems likely they left with the tools of their trade.
+mels/story7-43.npy|They had time to take their tools, but not their everyday items?
+mels/story7-44.npy|One, they were working close by and didn't need to move their personal effects.
+mels/story7-45.npy|But seeing as they've yet to return, this seems an unlikely hypothesis.
+mels/story7-46.npy|Or two, they were forced to leave and had no time to think about their supplies.
+mels/story7-47.npy|Did you find anything?
+mels/story7-48.npy|"Perceive?" so there's no conjecture at work?
+mels/story7-49.npy|Stone-seeing, Fascinating.
+mels/story7-50.npy|A rare ability, indeed.
+mels/story7-51.npy|It was prudent of uncle died to recruit you, Mr Kun Jun.
+mels/story7-52.npy|This will take us north, away from the mine.
+mels/story7-53.npy|Excuse me sir, are you one of the workers here?
+mels/story7-54.npy|So the men that were out working disappeared with the only one left to tell the tale having been asleep in a shelter.
+mels/story7-55.npy|Perhaps an accident occurred on site.
+mels/story7-56.npy|We found three clues in the vicinity.
+mels/story7-57.npy|First, there are four missing pickaxes, yet everyday items are still in their place.
+mels/story7-58.npy|They suggest that your men didn't leave of their own accord, but were forced to
+mels/story7-59.npy|Who indeed.
+mels/story7-60.npy|Second, there were five workers at the mine.
+mels/story7-61.npy|One of them left the site to take respite.
+mels/story7-62.npy|When he awoke, his colleagues had disappeared without a trace.
+mels/story7-63.npy|Those who kept working all disappeared.
+mels/story7-64.npy|The one who left early emerged safe and sound.
+mels/story7-65.npy|It would appear that the incident occurred on-site.
+mels/story7-66.npy|This leads me to my third point.
+mels/story7-67.npy|Mister Kun Jun here made good use of his, uh, expert techniques, to arrive at a conclusion.
+mels/story7-68.npy|It was a child that took your men away.
+mels/story7-69.npy|We believe that they followed the road north, away from the mine and toward the ruins.
+mels/story7-70.npy|Not so fast.
+mels/story7-71.npy|The incident occurred six days ago.
+mels/story7-72.npy|Even if they set out on foot, they will have covered a lot of ground by now.
+mels/story7-73.npy|Wait, I believe we're missing someone
+mels/story7-74.npy|Dragonfall is often used in forging.
+mels/story7-75.npy|What use do you have for it?
+mels/story7-76.npy|I see.
+mels/story7-77.npy|If I am able to during our endeavor, I will help you look for this stone.
+mels/story7-78.npy|Think nothing of it.
+mels/story7-79.npy|Heading north from the Chasm will reach Lingju Pass.
+mels/story7-80.npy|If this is indeed the path they chose, there will be traces.
+mels/story7-81.npy|It would appear that they made their way through Lingju Pass and kept moving.
+mels/story7-82.npy|We should inquire with anyone nearby.
+mels/story7-83.npy|If the miners came through here, they may well have seen them.
+mels/story7-84.npy|Four or five days ago?
+mels/story7-85.npy|It appears that they were moving slower than we'd anticipated.
+mels/story7-86.npy|Traversing the geography of Lingju Pass must have held them up.
+mels/story7-87.npy|Did you see what they look like?
+mels/story7-88.npy|And they took this road?
+mels/story7-89.npy|I think that's all we needed to hear.
+mels/story7-90.npy|Mr Kun Jun, your stone seeing is something I won't forget in a hurry.
+mels/story8-1.npy|Be that as it may, we would do well to keep our guards high.
+mels/story8-2.npy|Four fully grown men in a trancelike state, walking ceaselessly day and night, over hills and mountains, led by a child.
+mels/story8-3.npy|This is no ordinary incident.
+mels/story8-4.npy|That's not all.
+mels/story8-5.npy|Our scholar was attacked by geobishop hatchlings, but the level of aggression they exhibited was unusual.
+mels/story8-6.npy|We have encountered many clues along the way so far.
+mels/story8-7.npy|They've pointed us in the right direction.
+mels/story8-8.npy|The miners headed in the direction of Nantianmen the day before yesterday.
+mels/story8-9.npy|From here, they would have had to navigate a perilous mountain road.
+mels/story8-10.npy|If their destination is indeed Nantianmen, we should be able to catch up with them.
+mels/story8-11.npy|I left a mark in the vicinity just now.
+mels/story8-12.npy|If Uncle Dai does pass through here, it should guide him to us.
+mels/story8-13.npy|Judging by his appearance, he must have collapsed from exhaustion.
+mels/story8-14.npy|It seems that he thinks he still has work to do.
+mels/story8-15.npy|Something's not right.
+mels/story8-16.npy|There's a camp nearby.
+mels/story8-17.npy|We should take him there and monitor his condition before deciding our next move.
+mels/story8-18.npy|He's worked himself into a stupor.
+mels/story8-19.npy|Thankfully he's not in serious danger.
+mels/story8-20.npy|It's certainly a possibility.
+mels/story8-21.npy|How he came to be here is what we need to understand.
+mels/story8-22.npy|Unless something happened, something that led him to fall behind.
+mels/story8-23.npy|Something, for us?
+mels/story8-24.npy|On the contrary.
+mels/story8-25.npy|I just hadn't anticipated receiving a gift during the current circumstances.
+mels/story8-26.npy|But thank you.
+mels/story8-27.npy|I will take good care of it.
+mels/story8-28.npy|I surveyed the area.
+mels/story8-29.npy|There's no danger here.
+mels/story8-30.npy|Oh, however there is something I wanted to discuss with you.
+mels/story8-31.npy|Does Dragonfall mean anything to you?
+mels/story8-32.npy|Dragonfall is an incredibly rare ore used in forging.
+mels/story8-33.npy|The majority of regular crystals are formed in high temperature environments.
+mels/story8-34.npy|Dragonfall, on the other hand, is formed as a product of elemental reactions.
+mels/story8-35.npy|Indeed they can.
+mels/story8-36.npy|However, only a minority can survive for long periods of time.
+mels/story8-37.npy|Dragonfall first emerged in the midst of a great battle thousands of years ago.
+mels/story8-38.npy|Powerful clashes of elemental energy gave birth to elemental crystals.
+mels/story8-39.npy|When the fighting ceased, these geological remnants were miraculously preserved.
+mels/story8-40.npy|And yet they are crystal creations all the same, few and far between, relatively unknown.
+mels/story8-41.npy|A few hundred years ago, they were virtually mined into obscurity.
+mels/story8-42.npy|Why is it, then, that a citizen of Liyue now wishes to strike upon ore that has long since vanished from the earth?
+mels/story8-43.npy|There are those in the mining trade who retain a keen interest in Dragonfall.
+mels/story8-44.npy|But for someone like Mr Kun Jun, whose motivations for seeking it are unclear even unto himself, it's practically unheard of a conclusion that is presently impossible to reach.
+mels/story8-45.npy|We must watch and wait.
+mels/story8-46.npy|Don't forget, rescuing those miners is the primary objective.
+mels/story8-47.npy|As for anything else, sooner or later the tide will reveal the lie of the land.
+mels/story8-48.npy|We're drawing closer to our goal.
+mels/story8-49.npy|I believe we should continue to follow this road through.
+mels/story8-50.npy|Now that we've found one, the others won't be far away.
+mels/story8-51.npy|When you're well rested, call Mr Kun Jun over to us.
+mels/story8-52.npy|We still have more investigation ahead.
+mels/story8-53.npy|We should ensure this miner is settled here at the camp.
+mels/story8-54.npy|Once we've brought this matter to a close, we can return and attend to him.
+mels/story8-55.npy|I suggest we leave a note for Uncle Dai.
+mels/story8-56.npy|If he does find the camp, he'll know what to do.
+mels/story8-57.npy|Any results, Mr Kun jun?
+mels/story8-58.npy|This ancient tree.
+mels/story8-59.npy|Let's conduct separate investigations.
+mels/story8-60.npy|I'll take that area.
+mels/story8-61.npy|Perhaps you could survey this section.
+mels/story8-62.npy|All right, then.
+mels/story8-63.npy|All of you, come here.
+mels/story8-64.npy|This has been newly dug.
+mels/story8-65.npy|It would appear our answer is up ahead.
+mels/story8-66.npy|Compose yourselves.
+mels/story8-67.npy|I will lead us in.
+mels/story8-68.npy|There is an unusual presence emanating from inside the tunnel.
+mels/story8-69.npy|Prepare yourselves and tread lightly.
+mels/story8-70.npy|You should call it by its name, Azhdaha.
+mels/story8-71.npy|During the battle, you imbued us with your power.
+mels/story8-72.npy|I had sensed that something was amiss when you mentioned Dragonfall.
+mels/story8-73.npy|Had your power been but a little stronger, I would have recognized you.
+mels/story8-74.npy|There would be no harm in it.
+mels/story8-75.npy|The decision is yours.
+mels/story8-76.npy|Are you satisfied, Azhdaha?
+mels/story8-77.npy|I hardly lifted a finger.
+mels/story8-78.npy|Think nothing of it.
+mels/story8-79.npy|Your power is nearly spent.
+mels/story8-80.npy|Shall we get going, you and I?
+mels/story8-81.npy|Indeed.
+mels/story8-82.npy|Hence the need to get going to fix the damage left in your wake.
+mels/story8-83.npy|They're exhausted, but not in danger.
+mels/story8-84.npy|Don't worry.
+mels/story8-85.npy|You always did have a great admiration for blacksmiths.
+mels/story8-86.npy|I am no longer the Geo Archon.
+mels/story8-87.npy|Today, I am just an ordinary citizen of Liyue.
+mels/story8-88.npy|No matter, if that day comes to pass, Liyue must prepare itself to face you.
+mels/story8-89.npy|Even without a god, above this remains a nation of men.
+mels/story8-90.npy|I was once their god.
+mels/story8-91.npy|I ought to be here to witness their rise and fall.
+mels/story8-92.npy|I do not pretend to match your rhetoric when it comes to the subject of a life long lived.
+mels/story8-93.npy|I fear that the life of an elemental being is longer than any in this world.
+mels/story8-94.npy|You've brought a smile to my face.
+mels/story8-95.npy|When all is said and done, a reunion between old friends is an auspicious occasion.
+mels/story8-96.npy|A heart of stone is a heart nonetheless.
+mels/story8-97.npy|But I am the god of Contracts and was, for a time, a god of the people of Liyue.
+mels/story8-98.npy|The movements of the Earth Dragon can tremble the earth and shake the heavens
+mels/story8-99.npy|With your abilities, even at my full strength, I struggled to confront you, let alone seal you away.
+mels/story8-100.npy|Thank you, Azhdaha.
+mels/story8-101.npy|You're leaving?
+mels/story8-102.npy|Don't be alarmed, he's only asleep.
+mels/story8-103.npy|In fact, we have yet to meet the real Kun Jun.
+mels/story8-104.npy|He was.
+mels/story8-105.npy|Centuries may have passed since then, but events from a thousand years ago remain crystal clear in my mind.
+mels/story8-106.npy|A thousand years ago, Azhdaha attacked the Chasm.
+mels/story8-107.npy|I tried to obstruct him, fighting him tooth and nail, down the length and breadth of the mine.
+mels/story8-108.npy|Finally, I brought him down, and sealed him underground.
+mels/story8-109.npy|During that battle, Dragonfall was born.
+mels/story8-110.npy|Azhdaha could sense the stone.
+mels/story8-111.npy|Subconsciously, he wanted to use it to find me
+mels/story8-112.npy|Despite being the victor, I could not claim to be stronger than he.
+mels/story8-113.npy|And in his heart, he still retained an ounce of good will towards me, towards Liyue, towards life above ground
+mels/story8-114.npy|He was willing to be sealed away, but as the erosion set in, he forgot.
+mels/story8-115.npy|Even I cannot avoid it.
+mels/story8-116.npy|But there is something I understand better than most.
+mels/story8-117.npy|When the door opens, it is time to leave.
+mels/story8-118.npy|The greater the power, the greater the danger erosion may bring about.
+mels/story8-119.npy|The millennia may come and go, but even a stone may tire.
+mels/story8-120.npy|Personally sealing away an old friend.
+mels/story8-121.npy|This is just one form of erosion I have endured.
+mels/story8-122.npy|People abandon and surrender the things they love to pursue the right path.
+mels/story8-123.npy|Perhaps this is the erosion imposed on me by the natural order of this world.
+mels/story8-124.npy|That I was a god of mankind.
+mels/story8-125.npy|My identity may change, but my eyes will bear witness to the history of humanity.
+mels/story8-126.npy|Call it part of my duty.
+mels/story8-127.npy|I must thank you both.
+mels/story8-128.npy|Oh, about what?
+mels/story8-129.npy|I cannot say.
+mels/story8-130.npy|I understand.
+mels/story8-131.npy|But I must apologize.
+mels/story8-132.npy|This is my contract.
+mels/story8-133.npy|It was signed before it all began.
+mels/story8-134.npy|I have always honored the contract and kept my silence.
+mels/story8-135.npy|You two are friends to me.
+mels/story8-136.npy|I can assure it brings me no pleasure to disappoint you.
+mels/story8-137.npy|But as the god of contracts, I cannot go back on my word.
+mels/story8-138.npy|It appears your understanding of this world continues to grow.
+mels/story8-139.npy|There are many events of ages past, many secrets that lie hidden.
+mels/story8-140.npy|They have been eroded by time, forgotten by the people.
+mels/story8-141.npy|But you are capable of finding them and bringing them into the light.
+mels/story8-142.npy|Those who come to witness, will witness.
+mels/story8-143.npy|Those who are born to remember, will remember.
+mels/story8-144.npy|If you take the same road as that person, there may be more difficulties ahead.
+mels/story8-145.npy|But as long as you firmly believe that you are on the right path, everything has meaning.
+mels/voiceover-1.npy|A new contract?
+mels/voiceover-2.npy|I'm still on leave, but I can accompany you for a while.
+mels/voiceover-3.npy|What name should I use on the contract?
+mels/voiceover-4.npy|I have a great many names, though when on leave I tend to go by Zhongli.
+mels/voiceover-5.npy|And you, Traveler?
+mels/voiceover-6.npy|What name will you be signing on this contract?
+mels/voiceover-7.npy|Every journey has its final day.
+mels/voiceover-8.npy|Don't rush.
+mels/voiceover-9.npy|Where do you want to go next?
+mels/voiceover-10.npy|If you'd like to see Liyue's tourist spots, I have a few references.
+mels/voiceover-11.npy|Boats are made for transferring commodities back and forth, and those that come across Liyue tend to stay a while, so it is where many things come to settle.
+mels/voiceover-12.npy|Osmanthus wine tastes the same as I remember, but where are those who share the memory?
+mels/voiceover-13.npy|Violetgrass is a plant that enjoys a moist environment and is best picked after it rains.
+mels/voiceover-14.npy|If you should choose to pick any, be sure to store them appropriately.
+mels/voiceover-15.npy|We should look for a place to take shelter.
+mels/voiceover-16.npy|I'll be fine, but we don't want you catching a cold.
+mels/voiceover-17.npy|This weather is no good for being on vacation.
+mels/voiceover-18.npy|We should go and take in an opera.
+mels/voiceover-19.npy|I hope today too shall be prosperous.
+mels/voiceover-20.npy|Want a quick meal to pick us back up?
+mels/voiceover-21.npy|I know a good place in Chihu Rock.
+mels/voiceover-22.npy|By this time of night, we will have already missed Ms Yun's play, but Liyue is full of interesting places to explore, even at night.
+mels/voiceover-23.npy|The market is closed and the port has settled.
+mels/voiceover-24.npy|Go get some rest.
+mels/voiceover-25.npy|Nothing can be accomplished without rules or standards.
+mels/voiceover-26.npy|No matter if it is mortals or adepti, everyone has their place.
+mels/voiceover-27.npy|This rule keeps Liyue in peace.
+mels/voiceover-28.npy|Gold is Liyue's treasure.
+mels/voiceover-29.npy|It is the blood that runs through her heart.
+mels/voiceover-30.npy|As for whether your own heart shines like gold, we will have to wait and see.
+mels/voiceover-31.npy|You and I have a contract, so feel free to discuss anything at all within the scope of said contract.
+mels/voiceover-32.npy|We can discuss matters that fall outside of our contract too.
+mels/voiceover-33.npy|After all, I have been on this land for a time, and have come to know a thing or two.
+mels/voiceover-34.npy|Of course, I do hope you can do some things for me as well.
+mels/voiceover-35.npy|That would only be fair.
+mels/voiceover-36.npy|Contracts cannot be used to define friendship, nor measure sentiment.
+mels/voiceover-37.npy|So just what can we use to measure the weight of our emotions?
+mels/voiceover-38.npy|Do you know the answer, friend?
+mels/voiceover-39.npy|Visions are also a type of contract.
+mels/voiceover-40.npy|You should know that all power comes at a price.
+mels/voiceover-41.npy|For every bit of power you gain, so too do you gain more responsibility.
+mels/voiceover-42.npy|Trade relies on both contracts and fairness.
+mels/voiceover-43.npy|There is one thing you must never forget when making and abiding by a contract: if fairness is lost, then the contract shall become proof of one's deception.
+mels/voiceover-44.npy|If you're heading to Jueyun Karst, please bring me back a bunch of Qingxin.
+mels/voiceover-45.npy|Just one bunch is enough.
+mels/voiceover-46.npy|Ah, I almost forgot, during the effective period of our contract, travel expenses are to be paid for by yourself.
+mels/voiceover-47.npy|Sorry to bother you.
+mels/voiceover-48.npy|You speak of the young adeptus of Guili Plains.
+mels/voiceover-49.npy|Still fulfilling his duty to this very day.
+mels/voiceover-50.npy|Please give these painkillers to him on my behalf.
+mels/voiceover-51.npy|Oh, and--be sure not to let Paimon eat them.
+mels/voiceover-52.npy|Nothing of this world can withstand the power of this medicine.
+mels/voiceover-53.npy|It reeks of wine.
+mels/voiceover-54.npy|That bard has just been through here, hasn't he?
+mels/voiceover-55.npy|That drunkard is a disgrace to the arts.
+mels/voiceover-56.npy|Oh, Has he tricked you into getting drunk?
+mels/voiceover-57.npy|You're slurring a little.
+mels/voiceover-58.npy|Wait a moment, I'll brew a pot of sobering tea.
+mels/voiceover-59.npy|It'll be ready in only six hours, so just wait a moment.
+mels/voiceover-60.npy|Despite the multitude of affairs she deals with in a day, Ningguang always continues to press on.
+mels/voiceover-61.npy|A rare gem indeed.
+mels/voiceover-62.npy|I'm reminded of the time that she used to walk barefoot from Yaoguang Shoal to the south wharf, trying to sell her wares as she went.
+mels/voiceover-63.npy|Time is cruel to humans.
+mels/voiceover-64.npy|The current overseer of the funeral parlor?
+mels/voiceover-65.npy|I cannot deal with that child.
+mels/voiceover-66.npy|That rascal from Snezhnaya has yet to depart from Liyue?
+mels/voiceover-67.npy|No matter, just let me know if he gives you any trouble.
+mels/voiceover-68.npy|I shall deal with the matter swiftly.
+mels/voiceover-69.npy|It's said that Childe and his reputation have yet again stirred up waves among the inner-ranks of the Fatui.
+mels/voiceover-70.npy|Knowing his type, he will be sure to swiftly depose anyone who dares to challenge his actions.
+mels/voiceover-71.npy|Hm, Come to think of it, there will be a lot of interesting news to be heard the next time we gather for drinks.
+mels/voiceover-72.npy|Care to join me when the time comes, Traveler?
+mels/voiceover-73.npy|Liyue's prosperity has not been merely built on Rex Lapis' oracles or wisdom, it is also thanks to the countless servants of the Geo Archon who have honored their end of the contract.
+mels/voiceover-74.npy|Of them, Ganyu is the one who has served for the longest time.
+mels/voiceover-75.npy|If you want to know about her past, you should ask her about it.
+mels/voiceover-76.npy|I fear my wording would not be delicate enough to receive her approval.
+mels/voiceover-77.npy|She is the most impious of the Qixing--but I actually find the conviction of such people quite endearing.
+mels/voiceover-78.npy|The only reason I was able to consider taking a step back from such overarching management of Liyue was because there are people like her.
+mels/voiceover-79.npy|Despite never having signed a contract with me, she upholds order within many strata of Liyue society in her own way, dispelling misconceptions and correcting biases.
+mels/voiceover-80.npy|Should her father one day return from his travels, I imagine that he would be even more delighted than I.
+mels/voiceover-81.npy|Time tempers all volition.
+mels/voiceover-82.npy|Yet she would give up everyone for her beliefs.
+mels/voiceover-83.npy|Perhaps it is for this very reason that she has come to where she stands today.
+mels/voiceover-84.npy|Should the chance come by me, I too would like to learn of the Eternity for which she so earnestly endeavors.
+mels/voiceover-85.npy|Why is it that, once you finally get a break, rather than taking a rest, you instead come to me?
+mels/voiceover-86.npy|Is it that you want to hear one of my stories?
+mels/voiceover-87.npy|Have you heard of the origin of the Blackcliff Forge?
+mels/voiceover-88.npy|In the past, they would mine the ore veins of Mt Tianheng, and then replace the cavities with factory equipment.
+mels/voiceover-89.npy|Tunnels run in all directions throughout the mountain--some even run to the ruins deep within the earth.
+mels/voiceover-90.npy|I doubt there is a person today who could map out all the tunnels.
+mels/voiceover-91.npy|Have you heard of the origins of the Lantern Rite?
+mels/voiceover-92.npy|In a war, long ago, the people of Liyue would release lanterns to remind their soldiers of the way home, and to never lose sight of themselves.
+mels/voiceover-93.npy|Though in this day and age, I doubt there are any that remember.
+mels/voiceover-94.npy|The God of Contracts.
+mels/voiceover-95.npy|Have you heard of him?
+mels/voiceover-96.npy|He has an impressive memory.
+mels/voiceover-97.npy|He remembers the name of every person he comes across, and the date that every ship in Liyue sets sail.
+mels/voiceover-98.npy|After all, only in being able to do so can he memorize all of the contracts he holds.
+mels/voiceover-99.npy|With that said, not every memory is a happy one.
+mels/voiceover-100.npy|For those that live too long, the friends of days gone by and scenes from their adventures live on in their memories.
+mels/voiceover-101.npy|As such I have no regrets in meeting you, friend.
+mels/voiceover-102.npy|Should the day ever come that we are not together, you will continue to shine like gold in my memories.
+mels/voiceover-103.npy|I enjoy partaking in walks through the city when time permits.
+mels/voiceover-104.npy|I find it very calming.
+mels/voiceover-105.npy|Yes, just when did this feeling begin?
+mels/voiceover-106.npy|To get people to abide by a contract, and act in accordance with the guidelines set out within, is simply to ask them to respect the concept of fairness.
+mels/voiceover-107.npy|It is not a large request.
+mels/voiceover-108.npy|How are there those who still do not understand such simplicity?
+mels/voiceover-109.npy|There was once a drink I used to enjoy with friends long ago.
+mels/voiceover-110.npy|Is it because the climate has changed?
+mels/voiceover-111.npy|A shame I will never be able to relish in its smooth flavor again.
+mels/voiceover-112.npy|I don't like seafood.
+mels/voiceover-113.npy|Just seeing it reminds me of that slimy texture, and that scent that just won't wash off.
+mels/voiceover-114.npy|As for why I hate it, it's a long story, so let's just say my memory is a little too good.
+mels/voiceover-115.npy|The finest ingredients cooked with true expertise.
+mels/voiceover-116.npy|This is no small feat.
+mels/voiceover-117.npy|The art of gastronomy is a fascinating one.
+mels/voiceover-118.npy|That it appeals to you comes as no surprise.
+mels/voiceover-119.npy|Since you seem to have some time on your hands, why don't we find a quiet place and I'll share one of my stories with you.
+mels/voiceover-120.npy|Happy Birthday.
+mels/voiceover-121.npy|This is a dried glaze lily that came into bloom on the day of your birth.
+mels/voiceover-122.npy|Long ago, the people of Liyue would say that this flower blooms bearing the weight of the beautiful memories and prayers of the land.
+mels/voiceover-123.npy|I believe this to have been applied on the day you were born as well.
+mels/voiceover-124.npy|It seems my strength is returning.
+mels/voiceover-125.npy|Not a lot, but enough.
+mels/voiceover-126.npy|My power is growing, and so with it grows the burden on my body.
+mels/voiceover-127.npy|I'm okay.
+mels/voiceover-128.npy|My structure is not the same as that of normal people.
+mels/voiceover-129.npy|Please do not worry yourself.
+mels/voiceover-130.npy|I see.
+mels/voiceover-131.npy|Using a Vision harnesses elements.
+mels/voiceover-132.npy|As far as the common folk are concerned, this is no small feat.
+mels/voiceover-133.npy|They were aware of this as they stood beside me.
+mels/voiceover-134.npy|After letting go of my Gnosis I never expected to see a day like this again.
+mels/voiceover-135.npy|Thank you, friend.
+mels/voiceover-136.npy|Ah, yes, I have a new contract here.
+mels/voiceover-137.npy|Care to take a look at it together?
+mels/voiceover-138.npy|This tablet was erected by Mountain Shaper.
+mels/voiceover-139.npy|It names Azhdaha as a terrible dragon, and serves as a warning for later generations to stay away from this place.
+mels/voiceover-140.npy|It's a shame.
+mels/voiceover-141.npy|There is a fine line between good and evil.
+mels/voiceover-142.npy|If the good and evil within him could be summarized in a single sentence.
