@@ -1,588 +1,1250 @@
-wavs/lantern-1.wav|"Where the clear blue water runs into the sky, and an ocean of silver grass stretches out before the eye," that was written about Diua marsh.
-wavs/lantern-2.wav|From an altitude, the sight of reeds on the water rustling gently in the breeze is indeed a sight beautiful beyond compare. 
-wavs/lantern-3.wav|Wangshu Inn is located in the heart of Dihua Marsh, and provides the finest in both food and scenery. 
-wavs/lantern-4.wav|It is no wonder that travelers are fond of staying here. 
-wavs/lantern-5.wav|But Wangshu Inn is no mere guest house. 
-wavs/lantern-6.wav|It was built tall to provide superior visibility for surveying the surrounding terrain. 
-wavs/lantern-7.wav|And it was built here on this road because it is one of the main routes for traffic into the region.
-wavs/lantern-8.wav|This is a strategic location that must be defended at all costs. 
-wavs/lantern-9.wav|Yes, that is one of the primary reasons that he frequents the Inn. 
-wavs/lantern-10.wav|Looking southeast from here, one can see all the way to Guyun Stone Forest.
-wavs/lantern-11.wav|With gods lying sealed beneath those rocks, the area is frequently afflicted with monster activity. 
-wavs/lantern-12.wav|Xiao often goes back and forth between here and Guyun.
-wavs/lantern-13.wav|Being constantly on the move must be tiring for him. 
-wavs/lantern-14.wav|My purpose in coming here was to give him a few words of comfort. 
-wavs/lantern-15.wav|But to my surprise, I did not find him on the roof. 
-wavs/lantern-16.wav|Perhaps so. 
-wavs/lantern-17.wav|Nevertheless, this trip was by no means a waste. 
-wavs/lantern-18.wav|Besides, there shall be no shortage of opportunities to meet in the future. 
-wavs/lantern-19.wav|On the subject of Wongshu Inn, the chef here is highly talented. 
-wavs/lantern-20.wav|If I recall correctly, there was a cooking competition hosted in Liyue harbor during the Moon Chase Festival. 
-wavs/lantern-21.wav|This chef was selected to represent the Dihua Marsh region, entered the finals, and took second prize. 
-wavs/lantern-22.wav|Culinary excellence should always be shared far and wide. 
-wavs/lantern-23.wav|Being up so high reminds me of another lofty location. 
-wavs/lantern-24.wav|Yes, one that the adepti once took control of long ago. 
-wavs/lantern-25.wav|It then fell into disuse. 
-wavs/lantern-26.wav|Whether anyone tends to it these days, I do not know. 
-wavs/lantern-27.wav|All right, then. 
-wavs/lantern-28.wav|That is where I shall go tomorrow. 
-wavs/lantern-29.wav|Here, above the clouds, where the moon sets and the sun rises before your eyes, one sense of time becomes indistinct. 
-wavs/lantern-30.wav|Indeed, you have encountered her several times, correct?
-wavs/lantern-31.wav|You possess a wealth of knowledge and experience, and you have goodness in your heart. 
-wavs/lantern-32.wav|Naturally you are able to have friendly interactions with her. 
-wavs/lantern-33.wav|Cloud Retainer is an expert in the mechanical arts and an avid inventor. 
-wavs/lantern-34.wav|Generous and kind, honest and forthright. 
-wavs/lantern-35.wav|I treasure her as both a friend and teacher, the likes of whom are hard to come by. 
-wavs/lantern-36.wav|An old friend once said to me that if you ever have a question on the most trivial of affairs, 2 hours conversing with Cloud Retainer will leave you better informed than three days and nights talking to every soul in the harbor traveler. 
-wavs/lantern-37.wav|Traveler, would you say you agree? 
-wavs/lantern-38.wav|Cloud Retainer does not waste words. 
-wavs/lantern-39.wav|But this is no bad thing.
-wavs/lantern-40.wav|She may say that she prefers to keep her distance from the mortal realm, but in fact, she cares deeply for humanity. 
-wavs/lantern-41.wav|I believe I have gazed at the mountains long enough. 
-wavs/lantern-42.wav|Time for a change of scenery.
-wavs/lantern-43.wav|Perhaps I will head further north. 
-wavs/lantern-44.wav|Qingce Village is one of the more populated places outside of the harbor. 
-wavs/lantern-45.wav|I think I shall go there. 
-wavs/lantern-46.wav|Compared to the constant hubbub of Lewa Harbor, it is far more serene here. 
-wavs/lantern-47.wav|It is a pleasant and leisurely atmosphere, not unfit for a festival. 
-wavs/lantern-48.wav|On the way over, I saw grandparents preparing meals, children learning to make show lanterns. 
-wavs/lantern-49.wav|It was quite nostalgic for me. 
-wavs/lantern-50.wav|It took me back to the very earliest days of Liyue's history. 
-wavs/lantern-51.wav|Back then, most ablebodied adults were busy supporting the war effort or helping to build the city. 
-wavs/lantern-52.wav|Like now, the oldest and youngest supported each other, living humble lives. 
-wavs/lantern-53.wav|Indeed, their lives were not easy. 
-wavs/lantern-54.wav|But the people of Liyue will have tenacity and optimism in their bones. 
-wavs/lantern-55.wav|They will never stop striving for progress, no matter how much destitution they face. 
-wavs/lantern-56.wav|In ancient times, Qingce village was once ravaged by the Chi. 
-wavs/lantern-57.wav|It is now several thousand years since it was put to rest. 
-wavs/lantern-58.wav|Over the millennia, people built dwellings and worked the fertile land, creating the spectacular view we now see today. 
-wavs/lantern-59.wav|But after it died, its body became the Rocky Mountains and flowing waters of Qingce.
-wavs/lantern-60.wav|I too have heard this story. 
-wavs/lantern-61.wav|The idea is captivating, though I am afraid it is pure fantasy. 
-wavs/lantern-62.wav|Lofty mountains have stood and spring water has flowed here since time immemorial. 
-wavs/lantern-63.wav|But people now inhabit this place is solely because they have toiled to make it so. 
-wavs/lantern-64.wav|Qingce's verdant hills and stunning waters paired with the tranquil atmosphere here make it a place of extraordinary beauty. 
-wavs/lantern-65.wav|A rare blessing indeed. 
-wavs/lantern-66.wav|Oh, one of the villagers generously gifted me with some fresh bamboo shoots. 
-wavs/lantern-67.wav|They will add some seasonal flavor to a meal on my return to Liyue Harbor.
-wavs/lantern-68.wav|Seasonal bamboo shoots are yet another rare blessing offered by Qingce Village. 
-wavs/lantern-69.wav|This year's Xiao Lanterns and fireworks seem more exquisite than ever. 
-wavs/lantern-70.wav|Yes, after a most worthwhile journey. 
-wavs/lantern-71.wav|Had I not heeded your advice, I fear I may have missed out on the scenes I saw. 
-wavs/lantern-72.wav|Thank you, traveler. 
-wavs/lantern-73.wav|Liyue's beauty always gladdens my heart.
-wavs/lantern-74.wav|There is everything from the graceful to the grandiose, from serenity to splendor.
-wavs/lantern-75.wav|And the ways in which the sights of Liyue stir the heart.
-wavs/lantern-76.wav|They must be seen to be experienced. 
-wavs/lantern-77.wav|The people of Liyue today are busier than ever before.
-wavs/lantern-78.wav|Yet still, they head home when the festival season comes, no matter how long the journey takes, just for the chance to sit around the stove and share a joyful time with their loved ones. 
-wavs/lantern-79.wav|Even a glimpse of Liyue's scenery on their homeward journey can serve to comfort their spirits.
-wavs/lantern-80.wav|Traveler, this view belongs to you as much as to anyone else. 
-wavs/lantern-81.wav|Though your journey ahead may be long and much awaits for you to accomplish. 
-wavs/lantern-82.wav|I hope that each time you return to Liyue, sights such as these will put your mind at ease.
-wavs/lantern-83.wav|A safe haven between the mountains, a warm glow that guides you out from a dense forest, like the stars in the sky. 
-wavs/lantern-84.wav|May the lights of this city always shine for you, traveler, even from beyond the clouds. 
-wavs/lantern-85.wav|Tempered Yueyun chili powder mixed with garlic paste and chopped scallions, then seasoned with salt, vinegar, and soy sauce before finally sizzling in hot oil. 
-wavs/lantern-86.wav|This recipe may seem a bit crude, but is entirely hinged on the precise balancing of flavors and seasonings by the chef. 
-wavs/lantern-87.wav|Everything must be balanced just right. 
-wavs/lantern-88.wav|It is the consummate mastery of this balance that turns a humble dish into an exquisite one. 
-wavs/lantern-89.wav|You are too kind Director. 
-wavs/lantern-90.wav|Your eloquence is infamous in Liyue. 
-wavs/lantern-91.wav|We meet again, traveler. 
-wavs/lantern-92.wav|I trust your journey is going well. 
-wavs/lantern-93.wav|Splendid. 
-wavs/lantern-94.wav|Therein lies the value of a journey.
-wavs/lantern-95.wav|Of course, I'll see you later, Director. 
-wavs/lantern-96.wav|Now then Traveler, what brings you to see me today? 
-wavs/lantern-97.wav|Yes, the Yuhung is honest, intelligent, and most diligent. 
-wavs/lantern-98.wav|She is capable of shouldering responsibilities that few others could. 
-wavs/lantern-99.wav|But, everything has a balance, and one's health must certainly weigh in. 
-wavs/lantern-100.wav|If I were still the mighty Rex Lapis, I might be able to help her see reason. 
-wavs/lantern-101.wav|But alas, I'm now nobody but an ordinary consultant. 
-wavs/lantern-102.wav|My words no longer carry the same weight as they once did. 
-wavs/lantern-103.wav|Besides, I am by no means close to the Yuheng. 
-wavs/lantern-104.wav|Taking the liberty to lecture her, may just as easily produce the opposite of the desired effect. 
-wavs/lantern-105.wav|We could take a more subtle, indirect approach to the matter, such as telling a story that resonates with her, containing your message conveyed within it. 
-wavs/lantern-106.wav|Such a story can be achieved by referencing topics from her daily life. 
-wavs/lantern-107.wav|The story could prove even more effective if you weave in something about someone close to her. 
-wavs/lantern-108.wav|I knew you'd understand what to do. 
-wavs/lantern-109.wav|Well done, Traveler. 
-wavs/lantern-110.wav|Go collect some source materials for your story. 
-wavs/lantern-111.wav|Of course, I can always provide you with my advice, if needed. 
-wavs/lantern-112.wav|Once we have formulated the plot, you can tell the story to the Yuheng. 
-wavs/lantern-113.wav|You are on amiable terms with the Yuheng, which makes you the natural candidate. 
-wavs/lantern-114.wav|You are most welcome Yuheng. 
-wavs/lantern-115.wav|It was the least I could do. 
-wavs/lantern-116.wav|Oh, yes, thank you for your kind reminder.
-wavs/lantern-117.wav|That's the Yuheng, efficient, and reliable as ever. 
-wavs/lantern-118.wav|Why, thank you, Paimon.
-wavs/lantern-119.wav|Please don't forget our earlier conversation. 
-wavs/lantern-120.wav|Once you've collected e	nough story material, we can meet here again and discuss things further. 
-wavs/lantern-121.wav|You are welcome, Miss Yun. 
-wavs/lantern-122.wav|Your willingness to hear suggestions is indeed impressive. 
-wavs/lantern-123.wav|It's no wonder your opera performance has only been getting better. 
-wavs/lantern-124.wav|Ah, you've returned. 
-wavs/lantern-125.wav|I am flattered, Miss Yun.
-wavs/lantern-126.wav|It is an honor for an ordinary person like myself to have met the traveler. 
-wavs/lantern-127.wav|Very well. 
-wavs/lantern-128.wav|Goodbye, Miss Yun.
-wavs/lantern-129.wav|So, tell me, what have you learned from your trip? 
-wavs/lantern-130.wav|I see. 
-wavs/lantern-131.wav|Well, traveler. 
-wavs/lantern-132.wav|What do you make of all their opinions? 
-wavs/lantern-133.wav|There's no need to jump to the conclusion. 
-wavs/lantern-134.wav|Why don't you elaborate more on the chef? 
-wavs/lantern-135.wav|Yes. 
-wavs/lantern-136.wav|To gain one's empathy, there must be familiarity. 
-wavs/lantern-137.wav|I would like to understand this chef character of ours a little deeper. 
-wavs/lantern-138.wav|Since you've spoken with others familiar with Keqing, why don't we integrate their thoughts into your story? 
-wavs/lantern-139.wav|That will allow it to become all the more convincing. 
-wavs/lantern-140.wav|That was quite poetic Paimon. 
-wavs/lantern-141.wav|Bravo. 
-wavs/lantern-142.wav|Yes, it is most unwise to put the cart before the horse. 
-wavs/lantern-143.wav|But there must be a reason why he doesn't partake in the delicacies he makes. 
-wavs/lantern-144.wav|The chef is unwilling to delegate tasks to others. 
-wavs/lantern-145.wav|He's overconfident about his own cooking abilities and tries to accomplish everything on his own. 
-wavs/lantern-146.wav|His judgment is clouded by the chores before him. 
-wavs/lantern-147.wav|He is oblivious to mountains in the distance. 
-wavs/lantern-148.wav|Rest is always of great importance. 
-wavs/lantern-149.wav|Although we may come across various difficulties in our lives, pushing ourselves is never a good modus operandi. 
-wavs/lantern-150.wav|The story is quite simple without embellishment, yet deeply meaningful. 
-wavs/lantern-151.wav|If our listener is sensible, then she should quickly grasp the meaning contained within. 
-wavs/lantern-152.wav|Sincerity can allow one to see clearly, and earnest advice can provide sound direction. 
-wavs/lantern-153.wav|The story is indeed good. 
-wavs/lantern-154.wav|The Yuheng is an adroit leader. 
-wavs/lantern-155.wav|I am certain she will understand the message you are trying to convey. 
-wavs/lantern-156.wav|Given that the case involving the treasure hoarders has come to an end, she is inevitably tired. 
-wavs/lantern-157.wav|Now will be the ideal moment to speak with her. 
-wavs/lantern-158.wav|If all goes well, I think your story will be a success. 
-wavs/lantern-159.wav|I wish you luck, traveler.
-wavs/serenitea-1.wav|It's been a while. 
-wavs/serenitea-2.wav|How have you been? 
-wavs/serenitea-3.wav|The atmosphere is pleasant and to my liking. 
-wavs/serenitea-4.wav|In the time that I've known you, I've come to glean some information about your character and principles. 
-wavs/serenitea-5.wav|Your decisions hold my trust. 
-wavs/serenitea-6.wav|Everything comes from nothing, and that which is small becomes large one step at a time. 
-wavs/serenitea-7.wav|While I've lived many years, I'm not inflexible enough to be incapable of appreciating youthful trends. 
-wavs/serenitea-8.wav|Your taste always sets others at ease. 
-wavs/serenitea-9.wav|That would be my pleasure. 
-wavs/serenitea-10.wav|What would you like to discuss? 
-wavs/serenitea-11.wav|The past. 
-wavs/serenitea-12.wav|Then let us find a free day to take our time and talk. 
-wavs/serenitea-13.wav|A millennium's worth of stories cannot be told in one moment. 
-wavs/serenitea-14.wav|If you wish to be comfortable while listening, we'll need a pot of fine tea, two quality chairs and a pleasing courtyard. 
-wavs/serenitea-15.wav|Don't trouble yourself, this place will do just fine. 
-wavs/serenitea-16.wav|We can sit down and take our time chatting. 
-wavs/serenitea-17.wav|So you're interested in my past? 
-wavs/serenitea-18.wav|I have many stories to tell. 
-wavs/serenitea-19.wav|What fills an ordinary person with intrigue is but an aspect of daily life for me.
-wavs/serenitea-20.wav|This topic is a bit unexpected. 
-wavs/serenitea-21.wav|I don't know where to start. 
-wavs/serenitea-22.wav|My story is long and will take up a significant amount of your time. 
-wavs/serenitea-23.wav|But, should you be willing to listen, we can talk over cups of tea. 
-wavs/serenitea-24.wav|As of late, I've been thinking about housing arrangements. 
-wavs/serenitea-25.wav|This residence of yours has unique scenery and elegant furnishings which I find very attractive. 
-wavs/serenitea-26.wav|I frequently come and go. 
-wavs/serenitea-27.wav|Excuse my disturbances. 
-wavs/serenitea-28.wav|Speaking of such things, I ought to contribute something to your realm. 
-wavs/serenitea-29.wav|And so, if it does not bother you, I would like to find a gift for you. 
-wavs/serenitea-30.wav|A pity. 
-wavs/serenitea-31.wav|As they say, only a mighty sword is worthy of a mighty hero. 
-wavs/serenitea-32.wav|A gift befitting you truly is difficult to come by. 
-wavs/serenitea-33.wav|Fortunately, we have plenty of time, so there's no need to rush a decision. 
-wavs/serenitea-34.wav|While I may no longer be the geo archon, I can be considered an old fashioned citizen of Liyue. 
-wavs/serenitea-35.wav|I have my courtesy. 
-wavs/serenitea-36.wav|When the time comes, please accept it without worries. 
-wavs/serenitea-37.wav|As long as you agree to accept it. 
-wavs/serenitea-38.wav|I have witnessed much from you. 
-wavs/serenitea-39.wav|Our time is boundless. 
-wavs/serenitea-40.wav|A carefree life relies upon a resolute and clear heart. 
-wavs/serenitea-41.wav|Being with you like this is truly a lively and joyous experience. 
-wavs/serenitea-42.wav|Thank you friend. 
-wavs/serenitea-43.wav|Good night. 
-wavs/serenitea-44.wav|The night grows darker, so rest when you can. 
-wavs/serenitea-45.wav|May you have pleasant dreams. 
-wavs/serenitea-46.wav|The flourishing city of Liyue developed from small streets dotted with a few shops, just like this one. 
-wavs/serenitea-47.wav|You have a talent for many pursuits, as well as a boldness of spirit. 
-wavs/serenitea-48.wav|To me, each day spent with you is as valuable as gold. 
-wavs/serenitea-49.wav|The people of Liyue follow a multitude of rules when arranging the furniture in a study. 
-wavs/serenitea-50.wav|These decorative arts can largely be organized into three schools of thought and nine areas of specialization. 
-wavs/serenitea-51.wav|You have never heard my explanations on the subject and yet you still avoided every taboo. 
-wavs/serenitea-52.wav|Perhaps some tacit connection is formed between us during our journey together. 
-wavs/story7-1.wav|Oh, here for a few tales?
-wavs/story7-2.wav|I didn't know you two were connoisseurs.
-wavs/story7-3.wav|Ah, something I'm rarely short of.
-wavs/story7-4.wav|Someone who understands geology and ore.
-wavs/story7-5.wav|You appear to have taken his claim quite personally on my behalf.
-wavs/story7-6.wav|I see.
-wavs/story7-7.wav|Well then it will be my pleasure to accompany you.
-wavs/story7-8.wav|But I should inform you that despite my expertise, I cannot necessarily claim to be a leading authority.
-wavs/story7-9.wav|We are at all times adrift in a sea of learning.
-wavs/story7-10.wav|New knowledge should be welcomed with open arms.
-wavs/story7-11.wav|Still, I imagine I will be of help to you in this endeavor.
-wavs/story7-12.wav|If we do encounter an expert, I look forward to broadening my own understandings.
-wavs/story7-13.wav|Let's not get ahead of ourselves.
-wavs/story7-14.wav|Still, I do have acclaimed to some experience in this field.
-wavs/story7-15.wav|I admire your enthusiasm, good sir.
-wavs/story7-16.wav|So you're an appraiser, Mr Kun Jun.
-wavs/story7-17.wav|A glossy exterior, and a fissure that could only have been left in the wake of a volcanic eruption.
-wavs/story7-18.wav|If I'm not mistaken, this is a rough gem from another nation.
-wavs/story7-19.wav|It's no ordinary rough gem.
-wavs/story7-20.wav|Fragile surface layer, black veining.
-wavs/story7-21.wav|My intuition tells me that there's high quality crystal ore inside.
-wavs/story7-22.wav|Everything he said is true.
-wavs/story7-23.wav|Most crystals are born in high temperature environments.
-wavs/story7-24.wav|Heat and water aren't natural bedfellows, of course, which is why crystals with water deposits are so sought after.
-wavs/story7-25.wav|Moreover, this particular crystal contains mountain lake water,
-wavs/story7-26.wav|A rare find indeed.
-wavs/story7-27.wav|I've seen many such stones in my time.
-wavs/story7-28.wav|I recognized it immediately.
-wavs/story7-29.wav|I hope you didn't mind me flaunting my experience, Mr Kun Jun.
-wavs/story7-30.wav|So four miners have disappeared.
-wavs/story7-31.wav|Workers in this trade are usually young men in the prime of their lives.
-wavs/story7-32.wav|Could it be that the four of them left for another mine?
-wavs/story7-33.wav|We'll need to explore the site ourselves before extracting any conclusions.
-wavs/story7-34.wav|A few everyday items.
-wavs/story7-35.wav|They must belong to Uncle Dai in his men.
-wavs/story7-36.wav|The four of them have been gone for six days without a change of clothes.
-wavs/story7-37.wav|Items for washing one's face before the dawn shift.
-wavs/story7-38.wav|Mining equipment.
-wavs/story7-39.wav|Correct.
-wavs/story7-40.wav|Improbable.
-wavs/story7-41.wav|There are four pickaxes missing.
-wavs/story7-42.wav|It seems likely they left with the tools of their trade.
-wavs/story7-43.wav|They had time to take their tools, but not their everyday items?
-wavs/story7-44.wav|One, they were working close by and didn't need to move their personal effects.
-wavs/story7-45.wav|But seeing as they've yet to return, this seems an unlikely hypothesis.
-wavs/story7-46.wav|Or two, they were forced to leave and had no time to think about their supplies.
-wavs/story7-47.wav|Did you find anything?
-wavs/story7-48.wav|"Perceive?" so there's no conjecture at work?
-wavs/story7-49.wav|Stone-seeing, Fascinating.
-wavs/story7-50.wav|A rare ability, indeed.
-wavs/story7-51.wav|It was prudent of uncle died to recruit you, Mr Kun Jun.
-wavs/story7-52.wav|This will take us north, away from the mine.
-wavs/story7-53.wav|Excuse me sir, are you one of the workers here?
-wavs/story7-54.wav|So the men that were out working disappeared with the only one left to tell the tale having been asleep in a shelter.
-wavs/story7-55.wav|Perhaps an accident occurred on site.
-wavs/story7-56.wav|We found three clues in the vicinity.
-wavs/story7-57.wav|First, there are four missing pickaxes, yet everyday items are still in their place.
-wavs/story7-58.wav|They suggest that your men didn't leave of their own accord, but were forced to.
-wavs/story7-59.wav|Who indeed.
-wavs/story7-60.wav|Second, there were five workers at the mine.
-wavs/story7-61.wav|One of them left the site to take respite.
-wavs/story7-62.wav|When he awoke, his colleagues had disappeared without a trace.
-wavs/story7-63.wav|Those who kept working all disappeared.
-wavs/story7-64.wav|The one who left early emerged safe and sound.
-wavs/story7-65.wav|It would appear that the incident occurred on-site.
-wavs/story7-66.wav|This leads me to my third point.
-wavs/story7-67.wav|Mister Kun Jun here made good use of his, uh, expert techniques, to arrive at a conclusion.
-wavs/story7-68.wav|It was a child that took your men away.
-wavs/story7-69.wav|We believe that they followed the road north, away from the mine and toward the ruins.
-wavs/story7-70.wav|Not so fast.
-wavs/story7-71.wav|The incident occurred six days ago.
-wavs/story7-72.wav|Even if they set out on foot, they will have covered a lot of ground by now.
-wavs/story7-73.wav|Wait, I believe we're missing someone.
-wavs/story7-74.wav|Dragonfall is often used in forging.
-wavs/story7-75.wav|What use do you have for it?
-wavs/story7-76.wav|I see.
-wavs/story7-77.wav|If I am able to during our endeavor, I will help you look for this stone.
-wavs/story7-78.wav|Think nothing of it.
-wavs/story7-79.wav|Heading north from the Chasm will reach Lingju Pass.
-wavs/story7-80.wav|If this is indeed the path they chose, there will be traces.
-wavs/story7-81.wav|It would appear that they made their way through Lingju Pass and kept moving.
-wavs/story7-82.wav|We should inquire with anyone nearby.
-wavs/story7-83.wav|If the miners came through here, they may well have seen them.
-wavs/story7-84.wav|Four or five days ago?
-wavs/story7-85.wav|It appears that they were moving slower than we'd anticipated.
-wavs/story7-86.wav|Traversing the geography of Lingju Pass must have held them up.
-wavs/story7-87.wav|Did you see what they look like?
-wavs/story7-88.wav|And they took this road?
-wavs/story7-89.wav|I think that's all we needed to hear.
-wavs/story7-90.wav|Mr Kun Jun, your stone seeing is something I won't forget in a hurry.
-wavs/story8-1.wav|Be that as it may, we would do well to keep our guards high.
-wavs/story8-2.wav|Four fully grown men in a trancelike state, walking ceaselessly day and night, over hills and mountains, led by a child.
-wavs/story8-3.wav|This is no ordinary incident.
-wavs/story8-4.wav|That's not all.
-wavs/story8-5.wav|Our scholar was attacked by geobishop hatchlings, but the level of aggression they exhibited was unusual.
-wavs/story8-6.wav|We have encountered many clues along the way so far.
-wavs/story8-7.wav|They've pointed us in the right direction.
-wavs/story8-8.wav|The miners headed in the direction of Nantianmen the day before yesterday.
-wavs/story8-9.wav|From here, they would have had to navigate a perilous mountain road.
-wavs/story8-10.wav|If their destination is indeed Nantianmen, we should be able to catch up with them.
-wavs/story8-11.wav|I left a mark in the vicinity just now.
-wavs/story8-12.wav|If Uncle Dai does pass through here, it should guide him to us.
-wavs/story8-13.wav|Judging by his appearance, he must have collapsed from exhaustion.
-wavs/story8-14.wav|It seems that he thinks he still has work to do.
-wavs/story8-15.wav|Something's not right.
-wavs/story8-16.wav|There's a camp nearby.
-wavs/story8-17.wav|We should take him there and monitor his condition before deciding our next move.
-wavs/story8-18.wav|He's worked himself into a stupor.
-wavs/story8-19.wav|Thankfully he's not in serious danger.
-wavs/story8-20.wav|It's certainly a possibility.
-wavs/story8-21.wav|How he came to be here is what we need to understand.
-wavs/story8-22.wav|Unless something happened, something that led him to fall behind.
-wavs/story8-23.wav|Something, for us?
-wavs/story8-24.wav|On the contrary.
-wavs/story8-25.wav|I just hadn't anticipated receiving a gift during the current circumstances.
-wavs/story8-26.wav|But thank you.
-wavs/story8-27.wav|I will take good care of it.
-wavs/story8-28.wav|I surveyed the area.
-wavs/story8-29.wav|There's no danger here.
-wavs/story8-30.wav|Oh, however there is something I wanted to discuss with you.
-wavs/story8-31.wav|Does Dragonfall mean anything to you?
-wavs/story8-32.wav|Dragonfall is an incredibly rare ore used in forging.
-wavs/story8-33.wav|The majority of regular crystals are formed in high temperature environments.
-wavs/story8-34.wav|Dragonfall, on the other hand, is formed as a product of elemental reactions.
-wavs/story8-35.wav|Indeed they can.
-wavs/story8-36.wav|However, only a minority can survive for long periods of time.
-wavs/story8-37.wav|Dragonfall first emerged in the midst of a great battle thousands of years ago.
-wavs/story8-38.wav|Powerful clashes of elemental energy gave birth to elemental crystals.
-wavs/story8-39.wav|When the fighting ceased, these geological remnants were miraculously preserved.
-wavs/story8-40.wav|And yet they are crystal creations all the same, few and far between, relatively unknown.
-wavs/story8-41.wav|A few hundred years ago, they were virtually mined into obscurity.
-wavs/story8-42.wav|Why is it, then, that a citizen of Liyue now wishes to strike upon ore that has long since vanished from the earth?
-wavs/story8-43.wav|There are those in the mining trade who retain a keen interest in Dragonfall.
-wavs/story8-44.wav|But for someone like Mr Kun Jun, whose motivations for seeking it are unclear even unto himself, it's practically unheard of a conclusion that is presently impossible to reach.
-wavs/story8-45.wav|We must watch and wait.
-wavs/story8-46.wav|Don't forget, rescuing those miners is the primary objective.
-wavs/story8-47.wav|As for anything else, sooner or later the tide will reveal the lie of the land.
-wavs/story8-48.wav|We're drawing closer to our goal.
-wavs/story8-49.wav|I believe we should continue to follow this road through.
-wavs/story8-50.wav|Now that we've found one, the others won't be far away.
-wavs/story8-51.wav|When you're well rested, call Mr Kun Jun over to us.
-wavs/story8-52.wav|We still have more investigation ahead.
-wavs/story8-53.wav|We should ensure this miner is settled here at the camp.
-wavs/story8-54.wav|Once we've brought this matter to a close, we can return and attend to him.
-wavs/story8-55.wav|I suggest we leave a note for Uncle Dai.
-wavs/story8-56.wav|If he does find the camp, he'll know what to do.
-wavs/story8-57.wav|Any results, Mr Kun jun?
-wavs/story8-58.wav|This ancient tree.
-wavs/story8-59.wav|Let's conduct separate investigations.
-wavs/story8-60.wav|I'll take that area.
-wavs/story8-61.wav|Perhaps you could survey this section.
-wavs/story8-62.wav|All right, then.
-wavs/story8-63.wav|All of you, come here.
-wavs/story8-64.wav|This has been newly dug.
-wavs/story8-65.wav|It would appear our answer is up ahead.
-wavs/story8-66.wav|Compose yourselves.
-wavs/story8-67.wav|I will lead us in.
-wavs/story8-68.wav|There is an unusual presence emanating from inside the tunnel.
-wavs/story8-69.wav|Prepare yourselves and tread lightly.
-wavs/story8-70.wav|You should call it by its name, Azhdaha.
-wavs/story8-71.wav|During the battle, you imbued us with your power.
-wavs/story8-72.wav|I had sensed that something was amiss when you mentioned Dragonfall.
-wavs/story8-73.wav|Had your power been but a little stronger, I would have recognized you.
-wavs/story8-74.wav|There would be no harm in it.
-wavs/story8-75.wav|The decision is yours.
-wavs/story8-76.wav|Are you satisfied, Azhdaha?
-wavs/story8-77.wav|I hardly lifted a finger.
-wavs/story8-78.wav|Think nothing of it.
-wavs/story8-79.wav|Your power is nearly spent.
-wavs/story8-80.wav|Shall we get going, you and I?
-wavs/story8-81.wav|Indeed.
-wavs/story8-82.wav|Hence the need to get going to fix the damage left in your wake.
-wavs/story8-83.wav|They're exhausted, but not in danger.
-wavs/story8-84.wav|Don't worry.
-wavs/story8-85.wav|You always did have a great admiration for blacksmiths.
-wavs/story8-86.wav|I am no longer the Geo Archon.
-wavs/story8-87.wav|Today, I am just an ordinary citizen of Liyue.
-wavs/story8-88.wav|No matter, if that day comes to pass, Liyue must prepare itself to face you.
-wavs/story8-89.wav|Even without a god, above this remains a nation of men.
-wavs/story8-90.wav|I was once their god.
-wavs/story8-91.wav|I ought to be here to witness their rise and fall.
-wavs/story8-92.wav|I do not pretend to match your rhetoric when it comes to the subject of a life long lived.
-wavs/story8-93.wav|I fear that the life of an elemental being is longer than any in this world.
-wavs/story8-94.wav|You've brought a smile to my face.
-wavs/story8-95.wav|When all is said and done, a reunion between old friends is an auspicious occasion.
-wavs/story8-96.wav|A heart of stone is a heart nonetheless.
-wavs/story8-97.wav|But I am the god of Contracts and was, for a time, a god of the people of Liyue.
-wavs/story8-98.wav|The movements of the Earth Dragon can tremble the earth and shake the heavens.
-wavs/story8-99.wav|With your abilities, even at my full strength, I struggled to confront you, let alone seal you away.
-wavs/story8-100.wav|Thank you, Azhdaha.
-wavs/story8-101.wav|You're leaving?
-wavs/story8-102.wav|Don't be alarmed, he's only asleep.
-wavs/story8-103.wav|In fact, we have yet to meet the real Kun Jun.
-wavs/story8-104.wav|He was.
-wavs/story8-105.wav|Centuries may have passed since then, but events from a thousand years ago remain crystal clear in my mind.
-wavs/story8-106.wav|A thousand years ago, Azhdaha attacked the Chasm.
-wavs/story8-107.wav|I tried to obstruct him, fighting him tooth and nail, down the length and breadth of the mine.
-wavs/story8-108.wav|Finally, I brought him down, and sealed him underground.
-wavs/story8-109.wav|During that battle, Dragonfall was born.
-wavs/story8-110.wav|Azhdaha could sense the stone.
-wavs/story8-111.wav|Subconsciously, he wanted to use it to find me.
-wavs/story8-112.wav|Despite being the victor, I could not claim to be stronger than he.
-wavs/story8-113.wav|And in his heart, he still retained an ounce of good will towards me, towards Liyue, towards life above ground.
-wavs/story8-114.wav|He was willing to be sealed away, but as the erosion set in, he forgot.
-wavs/story8-115.wav|Even I cannot avoid it.
-wavs/story8-116.wav|But there is something I understand better than most.
-wavs/story8-117.wav|When the door opens, it is time to leave.
-wavs/story8-118.wav|The greater the power, the greater the danger erosion may bring about.
-wavs/story8-119.wav|The millennia may come and go, but even a stone may tire.
-wavs/story8-120.wav|Personally sealing away an old friend.
-wavs/story8-121.wav|This is just one form of erosion I have endured.
-wavs/story8-122.wav|People abandon and surrender the things they love to pursue the right path.
-wavs/story8-123.wav|Perhaps this is the erosion imposed on me by the natural order of this world.
-wavs/story8-124.wav|That I was a god of mankind.
-wavs/story8-125.wav|My identity may change, but my eyes will bear witness to the history of humanity.
-wavs/story8-126.wav|Call it part of my duty.
-wavs/story8-127.wav|I must thank you both.
-wavs/story8-128.wav|Oh, about what?
-wavs/story8-129.wav|I cannot say.
-wavs/story8-130.wav|I understand.
-wavs/story8-131.wav|But I must apologize.
-wavs/story8-132.wav|This is my contract.
-wavs/story8-133.wav|It was signed before it all began.
-wavs/story8-134.wav|I have always honored the contract and kept my silence.
-wavs/story8-135.wav|You two are friends to me.
-wavs/story8-136.wav|I can assure it brings me no pleasure to disappoint you.
-wavs/story8-137.wav|But as the god of contracts, I cannot go back on my word.
-wavs/story8-138.wav|It appears your understanding of this world continues to grow.
-wavs/story8-139.wav|There are many events of ages past, many secrets that lie hidden.
-wavs/story8-140.wav|They have been eroded by time, forgotten by the people.
-wavs/story8-141.wav|But you are capable of finding them and bringing them into the light.
-wavs/story8-142.wav|Those who come to witness, will witness.
-wavs/story8-143.wav|Those who are born to remember, will remember.
-wavs/story8-144.wav|If you take the same road as that person, there may be more difficulties ahead.
-wavs/story8-145.wav|But as long as you firmly believe that you are on the right path, everything has meaning.
-wavs/voiceover-1.wav|A new contract?
-wavs/voiceover-2.wav|I'm still on leave, but I can accompany you for a while.
-wavs/voiceover-3.wav|What name should I use on the contract?
-wavs/voiceover-4.wav|I have a great many names, though when on leave I tend to go by Zhongli. 
-wavs/voiceover-5.wav|And you, Traveler? 
-wavs/voiceover-6.wav|What name will you be signing on this contract? 
-wavs/voiceover-7.wav|Every journey has its final day. 
-wavs/voiceover-8.wav|Don't rush. 
-wavs/voiceover-9.wav|Where do you want to go next? 
-wavs/voiceover-10.wav|If you'd like to see Liyue's tourist spots, I have a few references. 
-wavs/voiceover-11.wav|Boats are made for transferring commodities back and forth, and those that come across Liyue tend to stay a while, so it is where many things come to settle. 
-wavs/voiceover-12.wav|Osmanthus wine tastes the same as I remember, but where are those who share the memory? 
-wavs/voiceover-13.wav|Violetgrass is a plant that enjoys a moist environment and is best picked after it rains. 
-wavs/voiceover-14.wav|If you should choose to pick any, be sure to store them appropriately. 
-wavs/voiceover-15.wav|We should look for a place to take shelter. 
-wavs/voiceover-16.wav|I'll be fine, but we don't want you catching a cold. 
-wavs/voiceover-17.wav|This weather is no good for being on vacation. 
-wavs/voiceover-18.wav|We should go and take in an opera. 
-wavs/voiceover-19.wav|I hope today too shall be prosperous. 
-wavs/voiceover-20.wav|Want a quick meal to pick us back up? 
-wavs/voiceover-21.wav|I know a good place in Chihu Rock. 
-wavs/voiceover-22.wav|By this time of night, we will have already missed Ms Yun's play, but Liyue is full of interesting places to explore, even at night. 
-wavs/voiceover-23.wav|The market is closed and the port has settled. 
-wavs/voiceover-24.wav|Go get some rest. 
-wavs/voiceover-25.wav|Nothing can be accomplished without rules or standards. 
-wavs/voiceover-26.wav|No matter if it is mortals or adepti, everyone has their place. 
-wavs/voiceover-27.wav|This rule keeps Liyue in peace. 
-wavs/voiceover-28.wav|Gold is Liyue's treasure. 
-wavs/voiceover-29.wav|It is the blood that runs through her heart. 
-wavs/voiceover-30.wav|As for whether your own heart shines like gold, we will have to wait and see. 
-wavs/voiceover-31.wav|You and I have a contract, so feel free to discuss anything at all within the scope of said contract. 
-wavs/voiceover-32.wav|We can discuss matters that fall outside of our contract too. 
-wavs/voiceover-33.wav|After all, I have been on this land for a time, and have come to know a thing or two. 
-wavs/voiceover-34.wav|Of course, I do hope you can do some things for me as well. 
-wavs/voiceover-35.wav|That would only be fair. 
-wavs/voiceover-36.wav|Contracts cannot be used to define friendship, nor measure sentiment. 
-wavs/voiceover-37.wav|So just what can we use to measure the weight of our emotions? 
-wavs/voiceover-38.wav|Do you know the answer, friend? 
-wavs/voiceover-39.wav|Visions are also a type of contract. 
-wavs/voiceover-40.wav|You should know that all power comes at a price. 
-wavs/voiceover-41.wav|For every bit of power you gain, so too do you gain more responsibility. 
-wavs/voiceover-42.wav|Trade relies on both contracts and fairness. 
-wavs/voiceover-43.wav|There is one thing you must never forget when making and abiding by a contract: if fairness is lost, then the contract shall become proof of one's deception. 
-wavs/voiceover-44.wav|If you're heading to Jueyun Karst, please bring me back a bunch of Qingxin. 
-wavs/voiceover-45.wav|Just one bunch is enough. 
-wavs/voiceover-46.wav|Ah, I almost forgot, during the effective period of our contract, travel expenses are to be paid for by yourself. 
-wavs/voiceover-47.wav|Sorry to bother you. 
-wavs/voiceover-48.wav|You speak of the young adeptus of Guili Plains. 
-wavs/voiceover-49.wav|Still fulfilling his duty to this very day. 
-wavs/voiceover-50.wav|Please give these painkillers to him on my behalf. 
-wavs/voiceover-51.wav|Oh, and--be sure not to let Paimon eat them. 
-wavs/voiceover-52.wav|Nothing of this world can withstand the power of this medicine.
-wavs/voiceover-53.wav|It reeks of wine. 
-wavs/voiceover-54.wav|That bard has just been through here, hasn't he? 
-wavs/voiceover-55.wav|That drunkard is a disgrace to the arts. 
-wavs/voiceover-56.wav|Oh, Has he tricked you into getting drunk? 
-wavs/voiceover-57.wav|You're slurring a little. 
-wavs/voiceover-58.wav|Wait a moment, I'll brew a pot of sobering tea. 
-wavs/voiceover-59.wav|It'll be ready in only six hours, so just wait a moment. 
-wavs/voiceover-60.wav|Despite the multitude of affairs she deals with in a day, Ningguang always continues to press on. 
-wavs/voiceover-61.wav|A rare gem indeed. 
-wavs/voiceover-62.wav|I'm reminded of the time that she used to walk barefoot from Yaoguang Shoal to the south wharf, trying to sell her wares as she went. 
-wavs/voiceover-63.wav|Time is cruel to humans. 
-wavs/voiceover-64.wav|The current overseer of the funeral parlor? 
-wavs/voiceover-65.wav|I cannot deal with that child. 
-wavs/voiceover-66.wav|That rascal from Snezhnaya has yet to depart from Liyue? 
-wavs/voiceover-67.wav|No matter, just let me know if he gives you any trouble. 
-wavs/voiceover-68.wav|I shall deal with the matter swiftly.
-wavs/voiceover-69.wav|It's said that Childe and his reputation have yet again stirred up waves among the inner-ranks of the Fatui. 
-wavs/voiceover-70.wav|Knowing his type, he will be sure to swiftly depose anyone who dares to challenge his actions. 
-wavs/voiceover-71.wav|Hm, Come to think of it, there will be a lot of interesting news to be heard the next time we gather for drinks. 
-wavs/voiceover-72.wav|Care to join me when the time comes, Traveler? 
-wavs/voiceover-73.wav|Liyue's prosperity has not been merely built on Rex Lapis' oracles or wisdom, it is also thanks to the countless servants of the Geo Archon who have honored their end of the contract. 
-wavs/voiceover-74.wav|Of them, Ganyu is the one who has served for the longest time. 
-wavs/voiceover-75.wav|If you want to know about her past, you should ask her about it. 
-wavs/voiceover-76.wav|I fear my wording would not be delicate enough to receive her approval. 
-wavs/voiceover-77.wav|She is the most impious of the Qixing--but I actually find the conviction of such people quite endearing. 
-wavs/voiceover-78.wav|The only reason I was able to consider taking a step back from such overarching management of Liyue was because there are people like her. 
-wavs/voiceover-79.wav|Despite never having signed a contract with me, she upholds order within many strata of Liyue society in her own way, dispelling misconceptions and correcting biases. 
-wavs/voiceover-80.wav|Should her father one day return from his travels, I imagine that he would be even more delighted than I. 
-wavs/voiceover-81.wav|Time tempers all volition. 
-wavs/voiceover-82.wav|Yet she would give up everyone for her beliefs. 
-wavs/voiceover-83.wav|Perhaps it is for this very reason that she has come to where she stands today.
-wavs/voiceover-84.wav|Should the chance come by me, I too would like to learn of the Eternity for which she so earnestly endeavors. 
-wavs/voiceover-85.wav|Why is it that, once you finally get a break, rather than taking a rest, you instead come to me? 
-wavs/voiceover-86.wav|Is it that you want to hear one of my stories? 
-wavs/voiceover-87.wav|Have you heard of the origin of the Blackcliff Forge? 
-wavs/voiceover-88.wav|In the past, they would mine the ore veins of Mt Tianheng, and then replace the cavities with factory equipment. 
-wavs/voiceover-89.wav|Tunnels run in all directions throughout the mountain--some even run to the ruins deep within the earth. 
-wavs/voiceover-90.wav|I doubt there is a person today who could map out all the tunnels. 
-wavs/voiceover-91.wav|Have you heard of the origins of the Lantern Rite? 
-wavs/voiceover-92.wav|In a war, long ago, the people of Liyue would release lanterns to remind their soldiers of the way home, and to never lose sight of themselves. 
-wavs/voiceover-93.wav|Though in this day and age, I doubt there are any that remember. 
-wavs/voiceover-94.wav|The God of Contracts. 
-wavs/voiceover-95.wav|Have you heard of him? 
-wavs/voiceover-96.wav|He has an impressive memory. 
-wavs/voiceover-97.wav|He remembers the name of every person he comes across, and the date that every ship in Liyue sets sail. 
-wavs/voiceover-98.wav|After all, only in being able to do so can he memorize all of the contracts he holds. 
-wavs/voiceover-99.wav|With that said, not every memory is a happy one.
-wavs/voiceover-100.wav|For those that live too long, the friends of days gone by and scenes from their adventures live on in their memories. 
-wavs/voiceover-101.wav|As such I have no regrets in meeting you, friend. 
-wavs/voiceover-102.wav|Should the day ever come that we are not together, you will continue to shine like gold in my memories. 
-wavs/voiceover-103.wav|I enjoy partaking in walks through the city when time permits. 
-wavs/voiceover-104.wav|I find it very calming. 
-wavs/voiceover-105.wav|Yes, just when did this feeling begin? 
-wavs/voiceover-106.wav|To get people to abide by a contract, and act in accordance with the guidelines set out within, is simply to ask them to respect the concept of fairness. 
-wavs/voiceover-107.wav|It is not a large request. 
-wavs/voiceover-108.wav|How are there those who still do not understand such simplicity? 
-wavs/voiceover-109.wav|There was once a drink I used to enjoy with friends long ago. 
-wavs/voiceover-110.wav|Is it because the climate has changed? 
-wavs/voiceover-111.wav|A shame I will never be able to relish in its smooth flavor again. 
-wavs/voiceover-112.wav|I don't like seafood. 
-wavs/voiceover-113.wav|Just seeing it reminds me of that slimy texture, and that scent that just won't wash off. 
-wavs/voiceover-114.wav|As for why I hate it, it's a long story, so let's just say my memory is a little too good. 
-wavs/voiceover-115.wav|The finest ingredients cooked with true expertise. 
-wavs/voiceover-116.wav|This is no small feat. 
-wavs/voiceover-117.wav|The art of gastronomy is a fascinating one. 
-wavs/voiceover-118.wav|That it appeals to you comes as no surprise. 
-wavs/voiceover-119.wav|Since you seem to have some time on your hands, why don't we find a quiet place and I'll share one of my stories with you. 
-wavs/voiceover-120.wav|Happy Birthday. 
-wavs/voiceover-121.wav|This is a dried glaze lily that came into bloom on the day of your birth. 
-wavs/voiceover-122.wav|Long ago, the people of Liyue would say that this flower blooms bearing the weight of the beautiful memories and prayers of the land. 
-wavs/voiceover-123.wav|I believe this to have been applied on the day you were born as well. 
-wavs/voiceover-124.wav|It seems my strength is returning. 
-wavs/voiceover-125.wav|Not a lot, but enough. 
-wavs/voiceover-126.wav|My power is growing, and so with it grows the burden on my body.
-wavs/voiceover-127.wav|I'm okay. 
-wavs/voiceover-128.wav|My structure is not the same as that of normal people. 
-wavs/voiceover-129.wav|Please do not worry yourself. 
-wavs/voiceover-130.wav|I see. 
-wavs/voiceover-131.wav|Using a Vision harnesses elements. 
-wavs/voiceover-132.wav|As far as the common folk are concerned, this is no small feat. 
-wavs/voiceover-133.wav|They were aware of this as they stood beside me.
-wavs/voiceover-134.wav|After letting go of my Gnosis I never expected to see a day like this again. 
-wavs/voiceover-135.wav|Thank you, friend. 
-wavs/voiceover-136.wav|Ah, yes, I have a new contract here. 
-wavs/voiceover-137.wav|Care to take a look at it together?
-wavs/voiceover-138.wav|This tablet was erected by Mountain Shaper. 
-wavs/voiceover-139.wav|It names Azhdaha as a terrible dragon, and serves as a warning for later generations to stay away from this place.
-wavs/voiceover-140.wav|It's a shame.
-wavs/voiceover-141.wav|There is a fine line between good and evil.
-wavs/voiceover-142.wav|If the good and evil within him could be summarized in a single sentence.
+wavs/lantern-1|"Where the clear blue water runs into the sky, and an ocean of silver grass stretches out before the eye," that was written about Diua marsh.
+wavs/lantern-2|From an altitude, the sight of reeds on the water rustling gently in the breeze is indeed a sight beautiful beyond compare.
+wavs/lantern-3|Wangshu Inn is located in the heart of Dihua Marsh, and provides the finest in both food and scenery.
+wavs/lantern-4|It is no wonder that travelers are fond of staying here.
+wavs/lantern-5|But Wangshu Inn is no mere guest house.
+wavs/lantern-6|It was built tall to provide superior visibility for surveying the surrounding terrain.
+wavs/lantern-7|And it was built here on this road because it is one of the main routes for traffic into the region
+wavs/lantern-8|This is a strategic location that must be defended at all costs.
+wavs/lantern-9|Yes, that is one of the primary reasons that he frequents the Inn.
+wavs/lantern-10|Looking southeast from here, one can see all the way to Guyun Stone Forest.
+wavs/lantern-11|With gods lying sealed beneath those rocks, the area is frequently afflicted with monster activity.
+wavs/lantern-12|Xiao often goes back and forth between here and Guyun.
+wavs/lantern-13|Being constantly on the move must be tiring for him.
+wavs/lantern-14|My purpose in coming here was to give him a few words of comfort.
+wavs/lantern-15|But to my surprise, I did not find him on the roof.
+wavs/lantern-16|Perhaps so.
+wavs/lantern-17|Nevertheless, this trip was by no means a waste.
+wavs/lantern-18|Besides, there shall be no shortage of opportunities to meet in the future.
+wavs/lantern-19|On the subject of Wongshu Inn, the chef here is highly talented.
+wavs/lantern-20|If I recall correctly, there was a cooking competition hosted in Liyue harbor during the Moon Chase Festival.
+wavs/lantern-21|This chef was selected to represent the Dihua Marsh region, entered the finals, and took second prize.
+wavs/lantern-22|Culinary excellence should always be shared far and wide.
+wavs/lantern-23|Being up so high reminds me of another lofty location.
+wavs/lantern-24|Yes, one that the adepti once took control of long ago.
+wavs/lantern-25|It then fell into disuse.
+wavs/lantern-26|Whether anyone tends to it these days, I do not know.
+wavs/lantern-27|All right, then.
+wavs/lantern-28|That is where I shall go tomorrow.
+wavs/lantern-29|Here, above the clouds, where the moon sets and the sun rises before your eyes, one sense of time becomes indistinct.
+wavs/lantern-30|Indeed, you have encountered her several times, correct?
+wavs/lantern-31|You possess a wealth of knowledge and experience, and you have goodness in your heart.
+wavs/lantern-32|Naturally you are able to have friendly interactions with her.
+wavs/lantern-33|Cloud Retainer is an expert in the mechanical arts and an avid inventor.
+wavs/lantern-34|Generous and kind, honest and forthright.
+wavs/lantern-35|I treasure her as both a friend and teacher, the likes of whom are hard to come by.
+wavs/lantern-36|An old friend once said to me that if you ever have a question on the most trivial of affairs, 2 hours conversing with Cloud Retainer will leave you better informed than three days and nights talking to every soul in the harbor traveler.
+wavs/lantern-37|Traveler, would you say you agree?
+wavs/lantern-38|Cloud Retainer does not waste words.
+wavs/lantern-39|But this is no bad thing.
+wavs/lantern-40|She may say that she prefers to keep her distance from the mortal realm, but in fact, she cares deeply for humanity.
+wavs/lantern-41|I believe I have gazed at the mountains long enough.
+wavs/lantern-42|Time for a change of scenery.
+wavs/lantern-43|Perhaps I will head further north.
+wavs/lantern-44|Qingce Village is one of the more populated places outside of the harbor.
+wavs/lantern-45|I think I shall go there.
+wavs/lantern-46|Compared to the constant hubbub of Lewa Harbor, it is far more serene here.
+wavs/lantern-47|It is a pleasant and leisurely atmosphere, not unfit for a festival.
+wavs/lantern-48|On the way over, I saw grandparents preparing meals, children learning to make show lanterns.
+wavs/lantern-49|It was quite nostalgic for me.
+wavs/lantern-50|It took me back to the very earliest days of Liyue's history.
+wavs/lantern-51|Back then, most ablebodied adults were busy supporting the war effort or helping to build the city.
+wavs/lantern-52|Like now, the oldest and youngest supported each other, living humble lives.
+wavs/lantern-53|Indeed, their lives were not easy.
+wavs/lantern-54|But the people of Liyue will have tenacity and optimism in their bones.
+wavs/lantern-55|They will never stop striving for progress, no matter how much destitution they face.
+wavs/lantern-56|In ancient times, Qingce village was once ravaged by the Chi.
+wavs/lantern-57|It is now several thousand years since it was put to rest.
+wavs/lantern-58|Over the millennia, people built dwellings and worked the fertile land, creating the spectacular view we now see today.
+wavs/lantern-59|But after it died, its body became the Rocky Mountains and flowing waters of Qingce.
+wavs/lantern-60|I too have heard this story.
+wavs/lantern-61|The idea is captivating, though I am afraid it is pure fantasy.
+wavs/lantern-62|Lofty mountains have stood and spring water has flowed here since time immemorial.
+wavs/lantern-63|But people now inhabit this place is solely because they have toiled to make it so.
+wavs/lantern-64|Qingce's verdant hills and stunning waters paired with the tranquil atmosphere here make it a place of extraordinary beauty.
+wavs/lantern-65|A rare blessing indeed.
+wavs/lantern-66|Oh, one of the villagers generously gifted me with some fresh bamboo shoots.
+wavs/lantern-67|They will add some seasonal flavor to a meal on my return to Liyue Harbor.
+wavs/lantern-68|Seasonal bamboo shoots are yet another rare blessing offered by Qingce Village.
+wavs/lantern-69|This year's Xiao Lanterns and fireworks seem more exquisite than ever.
+wavs/lantern-70|Yes, after a most worthwhile journey.
+wavs/lantern-71|Had I not heeded your advice, I fear I may have missed out on the scenes I saw.
+wavs/lantern-72|Thank you, traveler.
+wavs/lantern-73|Liyue's beauty always gladdens my heart.
+wavs/lantern-74|There is everything from the graceful to the grandiose, from serenity to splendor
+wavs/lantern-75|And the ways in which the sights of Liyue stir the heart.
+wavs/lantern-76|They must be seen to be experienced.
+wavs/lantern-77|The people of Liyue today are busier than ever before.
+wavs/lantern-78|Yet still, they head home when the festival season comes, no matter how long the journey takes, just for the chance to sit around the stove and share a joyful time with their loved ones.
+wavs/lantern-79|Even a glimpse of Liyue's scenery on their homeward journey can serve to comfort their spirits.
+wavs/lantern-80|Traveler, this view belongs to you as much as to anyone else.
+wavs/lantern-81|Though your journey ahead may be long and much awaits for you to accomplish.
+wavs/lantern-82|I hope that each time you return to Liyue, sights such as these will put your mind at ease.
+wavs/lantern-83|A safe haven between the mountains, a warm glow that guides you out from a dense forest, like the stars in the sky.
+wavs/lantern-84|May the lights of this city always shine for you, traveler, even from beyond the clouds.
+wavs/lantern-85|Tempered Yueyun chili powder mixed with garlic paste and chopped scallions, then seasoned with salt, vinegar, and soy sauce before finally sizzling in hot oil.
+wavs/lantern-86|This recipe may seem a bit crude, but is entirely hinged on the precise balancing of flavors and seasonings by the chef.
+wavs/lantern-87|Everything must be balanced just right.
+wavs/lantern-88|It is the consummate mastery of this balance that turns a humble dish into an exquisite one.
+wavs/lantern-89|You are too kind Director.
+wavs/lantern-90|Your eloquence is infamous in Liyue.
+wavs/lantern-91|We meet again, traveler.
+wavs/lantern-92|I trust your journey is going well.
+wavs/lantern-93|Splendid.
+wavs/lantern-94|Therein lies the value of a journey.
+wavs/lantern-95|Of course, I'll see you later, Director.
+wavs/lantern-96|Now then Traveler, what brings you to see me today?
+wavs/lantern-97|Yes, the Yuhung is honest, intelligent, and most diligent.
+wavs/lantern-98|She is capable of shouldering responsibilities that few others could.
+wavs/lantern-99|But, everything has a balance, and one's health must certainly weigh in.
+wavs/lantern-100|If I were still the mighty Rex Lapis, I might be able to help her see reason.
+wavs/lantern-101|But alas, I'm now nobody but an ordinary consultant.
+wavs/lantern-102|My words no longer carry the same weight as they once did.
+wavs/lantern-103|Besides, I am by no means close to the Yuheng.
+wavs/lantern-104|Taking the liberty to lecture her, may just as easily produce the opposite of the desired effect.
+wavs/lantern-105|We could take a more subtle, indirect approach to the matter, such as telling a story that resonates with her, containing your message conveyed within it.
+wavs/lantern-106|Such a story can be achieved by referencing topics from her daily life.
+wavs/lantern-107|The story could prove even more effective if you weave in something about someone close to her.
+wavs/lantern-108|I knew you'd understand what to do.
+wavs/lantern-109|Well done, Traveler.
+wavs/lantern-110|Go collect some source materials for your story.
+wavs/lantern-111|Of course, I can always provide you with my advice, if needed.
+wavs/lantern-112|Once we have formulated the plot, you can tell the story to the Yuheng.
+wavs/lantern-113|You are on amiable terms with the Yuheng, which makes you the natural candidate.
+wavs/lantern-114|You are most welcome Yuheng.
+wavs/lantern-115|It was the least I could do.
+wavs/lantern-116|Oh, yes, thank you for your kind reminder.
+wavs/lantern-117|That's the Yuheng, efficient, and reliable as ever.
+wavs/lantern-118|Why, thank you, Paimon.
+wavs/lantern-119|Please don't forget our earlier conversation.
+wavs/lantern-120|Once you've collected e	nough story material, we can meet here again and discuss things further.
+wavs/lantern-121|You are welcome, Miss Yun.
+wavs/lantern-122|Your willingness to hear suggestions is indeed impressive.
+wavs/lantern-123|It's no wonder your opera performance has only been getting better.
+wavs/lantern-124|Ah, you've returned.
+wavs/lantern-125|I am flattered, Miss Yun.
+wavs/lantern-126|It is an honor for an ordinary person like myself to have met the traveler.
+wavs/lantern-127|Very well.
+wavs/lantern-128|Goodbye, Miss Yun.
+wavs/lantern-129|So, tell me, what have you learned from your trip?
+wavs/lantern-130|I see.
+wavs/lantern-131|Well, traveler.
+wavs/lantern-132|What do you make of all their opinions?
+wavs/lantern-133|There's no need to jump to the conclusion.
+wavs/lantern-134|Why don't you elaborate more on the chef?
+wavs/lantern-135|Yes.
+wavs/lantern-136|To gain one's empathy, there must be familiarity.
+wavs/lantern-137|I would like to understand this chef character of ours a little deeper.
+wavs/lantern-138|Since you've spoken with others familiar with Keqing, why don't we integrate their thoughts into your story?
+wavs/lantern-139|That will allow it to become all the more convincing.
+wavs/lantern-140|That was quite poetic Paimon.
+wavs/lantern-141|Bravo.
+wavs/lantern-142|Yes, it is most unwise to put the cart before the horse.
+wavs/lantern-143|But there must be a reason why he doesn't partake in the delicacies he makes.
+wavs/lantern-144|The chef is unwilling to delegate tasks to others.
+wavs/lantern-145|He's overconfident about his own cooking abilities and tries to accomplish everything on his own.
+wavs/lantern-146|His judgment is clouded by the chores before him.
+wavs/lantern-147|He is oblivious to mountains in the distance.
+wavs/lantern-148|Rest is always of great importance.
+wavs/lantern-149|Although we may come across various difficulties in our lives, pushing ourselves is never a good modus operandi.
+wavs/lantern-150|The story is quite simple without embellishment, yet deeply meaningful.
+wavs/lantern-151|If our listener is sensible, then she should quickly grasp the meaning contained within.
+wavs/lantern-152|Sincerity can allow one to see clearly, and earnest advice can provide sound direction.
+wavs/lantern-153|The story is indeed good.
+wavs/lantern-154|The Yuheng is an adroit leader.
+wavs/lantern-155|I am certain she will understand the message you are trying to convey.
+wavs/lantern-156|Given that the case involving the treasure hoarders has come to an end, she is inevitably tired.
+wavs/lantern-157|Now will be the ideal moment to speak with her.
+wavs/lantern-158|If all goes well, I think your story will be a success.
+wavs/lantern-159|I wish you luck, traveler.
+wavs/serenitea-1|It's been a while.
+wavs/serenitea-2|How have you been?
+wavs/serenitea-3|The atmosphere is pleasant and to my liking.
+wavs/serenitea-4|In the time that I've known you, I've come to glean some information about your character and principles.
+wavs/serenitea-5|Your decisions hold my trust.
+wavs/serenitea-6|Everything comes from nothing, and that which is small becomes large one step at a time.
+wavs/serenitea-7|While I've lived many years, I'm not inflexible enough to be incapable of appreciating youthful trends.
+wavs/serenitea-8|Your taste always sets others at ease.
+wavs/serenitea-9|That would be my pleasure.
+wavs/serenitea-10|What would you like to discuss?
+wavs/serenitea-11|The past.
+wavs/serenitea-12|Then let us find a free day to take our time and talk.
+wavs/serenitea-13|A millennium's worth of stories cannot be told in one moment.
+wavs/serenitea-14|If you wish to be comfortable while listening, we'll need a pot of fine tea, two quality chairs and a pleasing courtyard.
+wavs/serenitea-15|Don't trouble yourself, this place will do just fine.
+wavs/serenitea-16|We can sit down and take our time chatting.
+wavs/serenitea-17|So you're interested in my past?
+wavs/serenitea-18|I have many stories to tell.
+wavs/serenitea-19|What fills an ordinary person with intrigue is but an aspect of daily life for me.
+wavs/serenitea-20|This topic is a bit unexpected.
+wavs/serenitea-21|I don't know where to start.
+wavs/serenitea-22|My story is long and will take up a significant amount of your time.
+wavs/serenitea-23|But, should you be willing to listen, we can talk over cups of tea.
+wavs/serenitea-24|As of late, I've been thinking about housing arrangements.
+wavs/serenitea-25|This residence of yours has unique scenery and elegant furnishings which I find very attractive.
+wavs/serenitea-26|I frequently come and go.
+wavs/serenitea-27|Excuse my disturbances.
+wavs/serenitea-28|Speaking of such things, I ought to contribute something to your realm.
+wavs/serenitea-29|And so, if it does not bother you, I would like to find a gift for you.
+wavs/serenitea-30|A pity.
+wavs/serenitea-31|As they say, only a mighty sword is worthy of a mighty hero.
+wavs/serenitea-32|A gift befitting you truly is difficult to come by.
+wavs/serenitea-33|Fortunately, we have plenty of time, so there's no need to rush a decision.
+wavs/serenitea-34|While I may no longer be the geo archon, I can be considered an old fashioned citizen of Liyue.
+wavs/serenitea-35|I have my courtesy.
+wavs/serenitea-36|When the time comes, please accept it without worries.
+wavs/serenitea-37|As long as you agree to accept it.
+wavs/serenitea-38|I have witnessed much from you.
+wavs/serenitea-39|Our time is boundless.
+wavs/serenitea-40|A carefree life relies upon a resolute and clear heart.
+wavs/serenitea-41|Being with you like this is truly a lively and joyous experience.
+wavs/serenitea-42|Thank you friend.
+wavs/serenitea-43|Good night.
+wavs/serenitea-44|The night grows darker, so rest when you can.
+wavs/serenitea-45|May you have pleasant dreams.
+wavs/serenitea-46|The flourishing city of Liyue developed from small streets dotted with a few shops, just like this one.
+wavs/serenitea-47|You have a talent for many pursuits, as well as a boldness of spirit.
+wavs/serenitea-48|To me, each day spent with you is as valuable as gold.
+wavs/serenitea-49|The people of Liyue follow a multitude of rules when arranging the furniture in a study.
+wavs/serenitea-50|These decorative arts can largely be organized into three schools of thought and nine areas of specialization.
+wavs/serenitea-51|You have never heard my explanations on the subject and yet you still avoided every taboo.
+wavs/serenitea-52|Perhaps some tacit connection is formed between us during our journey together.
+wavs/story1-1|It is an honor to meet you.
+wavs/story1-2|I have heard tell of you from Monstadt.
+wavs/story1-3|Indeed, it is as you have guessed.
+wavs/story1-4|The Wansheng Funeral Parlor organizes burials.
+wavs/story1-5|We ensure that those who pass on do so in peace.
+wavs/story1-6|Because I, can bring you to see Rex Lapis' vessel.
+wavs/story1-7|Rex Lapis may be the Prime of Adepti, but he is ultimately an adeptus.
+wavs/story1-8|Many adepti have left us over the millennia- this is the inexorable trend.
+wavs/story1-9|The times have changed- you must have felt it too, when you were at Jueyun Karst.
+wavs/story1-10|Archons go by many names.
+wavs/story1-11|The god of contracts, the god of commerce, the warrior god, Morax, Rex Lapis, is the idea that he also has the title of Adeptus so strange?
+wavs/story1-12|As you have seen, the time of the adepti is ending, and the time of mankind is slowly dawning.
+wavs/story1-13|In years past, Liyue's tradition was that a huge memorial service be held to mark the passing of every adeptus.
+wavs/story1-14|But this time, the Qixing have made no attempt whatsoever to respect this tradition.
+wavs/story1-15|It is sacrilege.
+wavs/story1-16|Decide or not, the concern of the Wansheng Funeral Parlor is this: When the ritual to receive this god is so kingly, it is all the more egregious for his final send-off to go unattended to.
+wavs/story1-17|Traveler, Childe has told me a lot about you.
+wavs/story1-18|Since you have had dealings with the Anemo Archon, could I ask you to help me prepare the Geo Archon's last rites?
+wavs/story1-19|Only by participating in the Rite of Parting will you be able to see the form of Rex Lapis again.
+wavs/story1-20|If we are agreed, come with me.
+wavs/story1-21|We will speak of the details as we walk.
+wavs/story1-22|After having experienced the land of the absentee archon, Traveler, how does it feel to know that our archon and adepti are here all around you in Liyue?
+wavs/story1-23|I see, so you're that sort of person.
+wavs/story1-24|It's not a bad thing.
+wavs/story1-25|But I suppose you have yet to experience the substance of Liyue as 3700 years of divinity.
+wavs/story1-26|The weight of 3700 years worth of history runs deepest in the true divinity of Liyue.
+wavs/story1-27|Organizing the Rite of Parting should prove to be an enlightening part of your travels.
+wavs/story1-28|Liyue is the most prosperous of the seven nations, defended by deities and ruled by the Qixing.
+wavs/story1-29|As such, the diplomatic maneuverings of the Fatui have gained no purchase here.
+wavs/story1-30|Ningguang of the Qixing has always been on her guard against the Fatui.
+wavs/story1-31|That is in all likelihood why Childe wants to make use of the Wansheng Funeral Parlor's connections.
+wavs/story1-32|I neither know nor do I wish to know.
+wavs/story1-33|As far as I am concerned, the Fatui are merely financial sponsors.
+wavs/story1-34|I only wish for Liyue's traditions to endure.
+wavs/story1-35|These are the advanced funds that Childe has provided.
+wavs/story1-36|If you use them up, you can go to him to apply for any subsequent funding.
+wavs/story1-37|Well then, let us be off.
+wavs/story1-38|The first step in our preparations shall be to obtain some prize Noctilucous Jade worthy of a deity.
+wavs/story1-39|Noctilucous jade, of radiant grade at the very least.
+wavs/story1-40|Very good.
+wavs/story1-41|It seems you have learned some tricks of the trade.
+wavs/story1-42|You want me to decide?
+wavs/story1-43|That is fine as well.
+wavs/story1-44|If it were me, the answer would be simple.
+wavs/story1-45|I'll take them all, boss.
+wavs/story1-46|It is as you say.
+wavs/story1-47|I suppose I overlooked this particular aspect of the transaction.
+wavs/story1-48|If one must always consider Mora before acting, then in all things one is bound by Mora.
+wavs/story1-49|All Mora is currency, but not all currency is Mora.
+wavs/story1-50|No need to waver.
+wavs/story1-51|Even when I am constrained by Mora, I have ways of working around my limitations.
+wavs/story1-52|Evaluating the quality of Noctilucous Jade is indeed very tricky.
+wavs/story1-53|As crude ore, there is little difference in texture, lustrousness, and internal pattern between good and bad jade.
+wavs/story1-54|Only after the item made using Noctilucous Jade has taken shape, will you be able to see whether it is up to par or not.
+wavs/story1-55|If you return to those crafty merchants to quibble, they will counter by saying that your crafting bench is to blame or that your heat control was poor.
+wavs/story1-56|But there is a way to truly evaluate this jade, and a true insider would know it.
+wavs/story1-57|A fool sees the pointer, and misses the moon.
+wavs/story1-58|If you point at the moon with your finger, a wise man knows that you are pointing at the moon, while a fool will only see the finger.
+wavs/story1-59|The patterns, the facade, these are all the finger.
+wavs/story1-60|Noctilucous Jade is a mystical stone used to light up the darkness, and so its brightness is the important thing- it is the moon.
+wavs/story1-61|Noctilucous Jade of excellent quality would have superior Pyro affinity.
+wavs/story1-62|In other words, the bluer and brighter the luster of the ore under high temperature, the higher its quality.
+wavs/story1-63|I have imparted the priceless secrets of the jade trade to you.
+wavs/story1-64|Now, all that's left is to put it into practice.
+wavs/story1-65|Don't worry, I know the rules.
+wavs/story1-66|As long as we can prove that it is good jade, you will not take a loss.
+wavs/story1-67|It can't be helped.
+wavs/story1-68|Trying to deprive a merchant of his profits would be like forcing a ravenous wolf to vomit up the food in its stomach.
+wavs/story1-69|Nonetheless, under the right conditions, these thin slices will serve.
+wavs/story1-70|While we add the high temperatures using pyro, we can use hydro to reinforce it from within.
+wavs/story1-71|This way, the samples will not disintegrate immediately.
+wavs/story1-72|Strictly speaking, asking for samples when we have not yet agreed to purchase the goods is unfair.
+wavs/story1-73|Trade in Liyue must be based upon fairness.
+wavs/story1-74|It has been a long time since I last set foot in the nation of wind.
+wavs/story1-75|A friend of mine from Mondstadt would always bring a few bottles of locally brewed dandelion wine whenever he came to visit me in Liyue.
+wavs/story1-76|It must be said that the famed liquor of the Land of Pastorals is far better than Sumeru's frigid snake wine.
+wavs/story1-77|Then we'll take a box of the third type of jade.
+wavs/story1-78|I suppose it would not hurt to tell you.
+wavs/story1-79|We need them to make implements for the Rite of Parting.
+wavs/story1-80|In the safe hands of the Liyue Qixing and good, honest merchants such as yourself, I, for one, believe that Liyue we will continue to prosper, as it always has done.
+wavs/story1-81|Now that we've made our choice, let's take this Noctilucous Jade back.
+wavs/story1-82|I must have forgotten to do that too.
+wavs/story1-83|Let me see.
+wavs/story1-84|As I thought, I didn't bring any.
+wavs/story1-85|My apologies, another oversight on my part.
+wavs/story1-86|Well, it settled then.
+wavs/story1-87|Let's take this jade to Yujing Terrace.
+wavs/story1-88|That's where we plan to hold the Rite,
+wavs/story1-89|I will do my best.
+wavs/story1-90|You have my thanks.
+wavs/story1-91|It seems that we must.
+wavs/story1-92|I will keep that in mind.
+wavs/story1-93|Thanks, both of you.
+wavs/story1-94|We can leave the jade here.
+wavs/story1-95|I have already called for a jewelsmith to shape them into the implements that we will need.
+wavs/story1-96|I have yet to go and see Childe.
+wavs/story1-97|So as for the jewelsmith's remuneration.
+wavs/story1-98|Yes, I have already rented this location, and have begun making preparations for the rite.
+wavs/story1-99|The Liyue Qixing have acquiesced to using the same location.
+wavs/story1-100|The Liyue Qixing have agreed to this arrangement.
+wavs/story1-101|Traditionally, we call it the Exuvia.
+wavs/story1-102|One must think that they already have someone in mind.
+wavs/story1-103|Or perhaps they already know.
+wavs/story1-104|Surely they must have found all the evidence that there is to find here.
+wavs/story1-105|These things are for the authorities in Yujing Terrace to consider.
+wavs/story1-106|Trying to help would probably only add to their troubles.
+wavs/story1-107|Before the rite is conducted, the Exuvia will be kept temporarily in the Golden House.
+wavs/story1-108|The only mint in Liyue, which is to say, the only mint in Teyvat.
+wavs/story1-109|All the Mora that flows throughout the world is minted there.
+wavs/story1-110|Since the Rite of Parting has the approval of the Qixing, it is a semi-official event.
+wavs/story1-111|As such, there is already some limited information available.
+wavs/story1-112|Perhaps each has their motives, but this is the capital of commerce.
+wavs/story1-113|A little exploitation once in a while is not unacceptable.
+wavs/story1-114|In Liyue, where the God of Contracts reigns, only contracts may not be betrayed.
+wavs/story1-115|I, for one, have no issue with little maneuvers outside their remit.
+wavs/story1-116|Well then, we should go and prepare the perfumes used in the rite.
+wavs/story1-117|No, perfumes used to honor the gods must be freshly decocted.
+wavs/story1-118|The quality of the Silk Flowers we require is also special.
+wavs/story1-119|Silk Flower petals contain a fibrous material of good quality, often used in brocade-making.
+wavs/story1-120|Its scent, however, is most elegant, and is especially suited for solemn events like giving offerings to gods and adepti.
+wavs/story1-121|We shall not speak of the details right now.
+wavs/story1-122|Follow me, we shall go to the merchants to purchase our ingredients.
+wavs/story1-123|Golden House Maiden, Valley Weaver, and Fate's Yearning.
+wavs/story1-124|One of each to start with, if you don't mind.
+wavs/story2-1|Silk flowers exhibit different properties based on how their environmental conditions differ from their ancestral habitat.
+wavs/story2-2|Nevertheless, these are fine specimens.
+wavs/story2-3|Excellently preserved.
+wavs/story2-4|Just look at the abundant foliage here.
+wavs/story2-5|And these stamens, glamorous as a maiden of the Golden House.
+wavs/story2-6|This strain is an evergreen, and mostly grows under complex hydrological conditions.
+wavs/story2-7|By contrast, this variety thrives in any dark, damp location, often in large clusters.
+wavs/story2-8|Morphologically, it is distinguished by the profusion of petals and densely packed stamens, though its powerful scent gives it away just as easily.
+wavs/story2-9|Lastly, this strain is quite the recluse.
+wavs/story2-10|Unlike its exuberant cousins, flowers and foliage are minimal, and when in season, it has a subtle yet enduring scent.
+wavs/story2-11|It was first discovered by the ancients when they scaled the mountains in search of the adepti.
+wavs/story2-12|Silk flowers have all but disappeared from the wild today, due to geographical changes over Liyue's history.
+wavs/story2-13|Most are now grown by horticulturalists.
+wavs/story2-14|I possess but a smattering of trivial knowledge.
+wavs/story2-15|My traveler friend is the one to watch -- they are on track to set foot in every corner of the world.
+wavs/story2-16|I'll take them all, boss.
+wavs/story2-17|How can I put this, when purchasing opera tickets, it is natural to decide based on which singer has the most melodious voice.
+wavs/story2-18|The same logic applies when purchasing a pet bird.
+wavs/story2-19|But this Silk Flower purchas is not an analogous case.
+wavs/story2-20|The same logic does not apply.
+wavs/story2-21|Perhaps you don't know.
+wavs/story2-22|Tradition states that we should decoct perfume from different sub-species of Silk Flower when making an offering to a Statue of the Seven.
+wavs/story2-23|Rex Lapis will then make his own choice between the scents.
+wavs/story2-24|Like several other tedious and complicated traditions, this one has become simplified over time.
+wavs/story2-25|But this is the only Rite of Parting to take place for one of The Seven in 3700 years.
+wavs/story2-26|As such, I do think we should honor tradition down to the last detail in this case.
+wavs/story2-27|Now that settled, a question.
+wavs/story2-28|Do you have any Mora on you?
+wavs/story2-29|Thank you, boss.
+wavs/story2-30|I think I speak for all of us when I say that your generosity has saved our skins.
+wavs/story2-31|Ideally with the help of an expert.
+wavs/story2-32|Unfortunately, none of my acquaintances have personal experience in the art of decoction,
+wavs/story2-33|Hence, I need you to help by asking around in the city.
+wavs/story2-34|Try the common folk, especially women.
+wavs/story2-35|I will wait for you near the Statue of the Seven.
+wavs/story2-36|Meet me there when the perfume is ready.
+wavs/story2-37|Don't worry, I haven't waited long.
+wavs/story2-38|Compared to the watch that Rex Lapis' statues have kept over Liyue, this was but a brief moment.
+wavs/story2-39|That is true.
+wavs/story2-40|Well, have you brought the perfumes?
+wavs/story2-41|Thank you both, let us offer them up.
+wavs/story2-42|Rex Lapis has taken on countless forms.
+wavs/story2-43|Perhaps that really was one of them.
+wavs/story2-44|We can leave that to the authorities.
+wavs/story2-45|Let us focus on the fond farewell for Rex Lapis.
+wavs/story2-46|Next, I would like the two of you to help me borrow the Cleansing Bell.
+wavs/story2-47|At present, a friend of mine named Madame Ping is the guardian of the Cleansing Bell.
+wavs/story2-48|She lives near Yujing Terrace.
+wavs/story2-49|If you ask her, she will know what to do.
+wavs/story2-50|Ah, I have certain reasons why I cannot be there in person; please, do this for me.
+wavs/story2-51|Indeed, this is the Cleansing Bell.
+wavs/story2-52|Hmm, it's in good condition.
+wavs/story2-53|Let's place the perfume we've prepared inside.
+wavs/story2-54|Of course.
+wavs/story2-55|How would I know that the bell was with her otherwise?
+wavs/story2-56|An adeptus, that tone does not suit you.
+wavs/story2-57|Still, her teapot is indeed very good.
+wavs/story2-58|There are none better for brewing tea.
+wavs/story2-59|When a suitable time arrives, I'll bring a spot of fine tea and pay her a visit.
+wavs/story2-60|Next, we need to purchase kites.
+wavs/story2-61|Kites are children's toys, yes, but they also play various symbolic roles in Liyue's rituals.
+wavs/story2-62|I will explain it to you.
+wavs/story2-63|But our next course of action should probably be to purchase the kites first.
+wavs/story2-64|Well that's because I prefer to share fun things with you.
+wavs/story2-65|Indeed, these are decorations used in the Rite of Parting.
+wavs/story2-66|The seven kites represent The Seven.
+wavs/story2-67|The design of this kite displays a firm grasp on the cyclicality and eternity so dear to the Electro Archon.
+wavs/story2-68|These markings of tree, and leaf, pay due honor to wisdom in the passage of time.
+wavs/story2-69|All this on a single kite, truly astonishing.
+wavs/story2-70|Justice flows across the surface of the waters, war rages like a flame, as does that which the Cryo Archon once, yes, these details are masterfully done.
+wavs/story2-71|Well then Granny Shan, I shall take these back with me.
+wavs/story2-72|As for the payment, Childe, you are as fond of jokes as ever.
+wavs/story2-73|Well then, since we've purchased our kites without incident, there is no need to take a break before moving to the next step in our preparations.
+wavs/story2-74|The Rite of Parting requires helping hands as well as materials.
+wavs/story2-75|We should be able to find some people near the harbor.
+wavs/story2-76|Next, we need some Everlasting incense.
+wavs/story2-77|For this, we need to go to Bubu Pharmacy, the finest pharmacy in all of -- is, everything okay?
+wavs/story2-78|Hello, little girl, do you sell Everlasting incense here?
+wavs/story2-79|Surely no prescription is needed to purchase Everlasting Incense?
+wavs/story2-80|It's not a controlled substance.
+wavs/story2-81|I'm afraid that she's probably right -- it's to do with her orders.
+wavs/story2-82|Zombies are limited to acting within the confines of their orders.
+wavs/story2-83|And somehow, in this case, the zombie issues her own orders to herself.
+wavs/story2-84|My dear Qiqi, we didn't bring a prescription, I'm afraid.
+wavs/story2-85|But we do hope that you can still help us find some Everlasting incense.
+wavs/story2-86|Never mind, just think of it as a peer-to-peer transaction, that way everybody wins.
+wavs/story2-87|Sometimes in Liyue, the art of the deal is simply about victory via mental gymnastics.
+wavs/story2-88|Guizhong Ballista, I have heard of this device before.
+wavs/story2-89|I don't believe so.
+wavs/story2-90|The Guizhong Ballista, at least, I have heard of before.
+wavs/story2-91|It's a kind of crossbow turret, installed on Mount Tianheng by an adeptus in the distant past.
+wavs/story2-92|An early mechanical device.
+wavs/story2-93|Located in Tianheng Pass, it was designed to automatically fire at large monsters, protecting Liyue from external threats.
+wavs/story2-94|Apparently not quite, This is the first I have ever heard of the Cocogoat.
+wavs/story2-95|Very well then, let's start by investigating near the Guizhong Ballista.
+wavs/story2-96|Perhaps we will find some clues.
+wavs/story2-97|It is currently inoperable, in any case.
+wavs/story2-98|This device is broken.
+wavs/story2-99|After millennia of wear and tear, even adepti contraptions are difficult to maintain.
+wavs/story2-100|You almost make it sound like I'm some sort of, bourgeois parasite, whose only utility lies in providing quaint pieces of trivia on demand.
+wavs/story2-101|That said, let me think for a moment.
+wavs/story2-102|Spare parts were made for the Guizhong Ballista when it was first built, in case it was damaged in battle.
+wavs/story2-103|As I recall, there is a military supply post from that period somewhere inside the pass.
+wavs/story2-104|If we can retrieve the spare parts from where they are stored, we may be able to repair the Guizhong Ballista.
+wavs/story2-105|One just needs to understand the basic working principles of the device.
+wavs/story2-106|I have a smattering of knowledge on the topic.
+wavs/story2-107|With the parts in hand, I could at least tinker with it.
+wavs/story2-108|These parts look useful.
+wavs/story2-109|One moment, I will try to repair the device,
+wavs/story2-110|It is done.
+wavs/story2-111|The Guizhong Ballista is more intricately designed than I thought.
+wavs/story2-112|It's easy enough.
+wavs/story2-113|We simply need to do this; look, it even has a scope.
+wavs/story2-114|Not a turret, a Guizhong Ballista.
+wavs/story2-115|Also, kindly state your name before you ask a question, it's just good manners.
+wavs/story2-116|Vandalizing the legacy of an adeptus for selfish gain, disgraceful behavior.
+wavs/story2-117|It is not we who need reprimanding, but you.
+wavs/story2-118|Troubling ourselves over this rabble is not worth the time.
+wavs/story2-119|We should focus on our contract with Qiqi.
+wavs/story2-120|A search using the Guizhong Ballista revealed no significant life forms nearby, save for the usual wildlife.
+wavs/story2-121|What's more, a contraption built using adeptus technology should have no trouble detecting an adeptibeat as Qiqi put it.
+wavs/story2-122|We won't solve anything while standing here and racking our brains.
+wavs/story2-123|Let's return to Bubu Pharmacy, explain that we could not find a Cocogoat, and review our next step.
+wavs/story2-124|Forgive us, we were unable to fulfill our end of the contract.
+wavs/story2-125|We found no trace of the Cocogoat adeptibeast of which you speak.
+wavs/story2-126|I, owe you both an apology.
+wavs/story2-127|I hastily agreed to what appeared to be an equitable agreement with this zombie child, when perhaps I should have undertaken further due diligence.
+wavs/story2-128|Might I ask, who?
+wavs/story2-129|Do you sell everlasting incense in this fine establishment?
+wavs/story2-130|An innocuous number in and of itself, though practically speaking, it could be a hard sum to come by.
+wavs/story2-131|This is correct.
+wavs/story2-132|Also an innocuous number in and of itself, though practically speaking, it is a whole 10,000 less than the original sum of 3 million.
+wavs/story2-133|Well, now that this is settled, we must head back to Yujing Terrace.
+wavs/story2-134|Mr. Childe, Dr. Baizhu, Little Miss Qiqi, see you soon.
+wavs/story2-135|Well, as it stands, we've hired helpers, and we've acquired the everlasting incense.
+wavs/story2-136|The completion of our preparations is not far off.
+wavs/story2-137|Well, traveler, have you gained anything from our adventure so far?
+wavs/story2-138|Which is it, I wonder?
+wavs/story2-139|The questions that such travels raise are ever so complicated.
+wavs/story2-140|Well, I'll leave you to ruminate over it yourself.
+wavs/story2-141|As to remuneration for your help, I've decided, to treat you to a meal.
+wavs/story2-142|I will remember to bring the mora this time.
+wavs/story2-143|Tonight, I shall take you both to an old hole in the wall, praised throughout Liyue
+wavs/story2-144|Let us meet near the harbor at third round knockout.
+wavs/story2-145|There's no need to order, I've already done so.
+wavs/story2-146|Third round knockout is not for lightweights, like those taverns in Mondstadt.
+wavs/story2-147|Here, the owner does not take such unorthodox orders as fruit juice.
+wavs/story2-148|I ordered some wine fermented sweet rice balls for you, if that counts.
+wavs/story2-149|Besides fine wine, the excellent ambience is the reason why this place is so well loved.
+wavs/story2-150|But when I say ambience, I refer to a different sort from the one the Teyvat Travel Guide uses to judge other establishments.
+wavs/story2-151|An invitation to visit the Jade Chamber is a rare honor, indeed.
+wavs/story2-152|You'd best be on your way now.
+wavs/story2-153|But don't forget about the Rite of Parting.
+wavs/story2-154|Once you've finished at the jade chamber, meet me at Dihua Marsh.
+wavs/story3-1|Right on time, I myself only arrived moments ago.
+wavs/story3-2|Did you enjoy your visit to the Jade Chamber?
+wavs/story3-3|Indeed, it's second to none in all of Liyue.
+wavs/story3-4|Then you met with Ningguang, I trust?
+wavs/story3-5|What did you talk about with her?
+wavs/story3-6|Oh, so you also met with Keqing then?
+wavs/story3-7|What did she have to say?
+wavs/story3-8|No respect for the divine.
+wavs/story3-9|Indeed, contrary to the ever-bold Keqing, Ningguang is more of a businesswoman at heart, though they are both members of the Qixing.
+wavs/story3-10|Although she's friendly, there's no way of clearly discerning her true intentions.
+wavs/story3-11|Yes, she has only relied on herself to rise to her current position.
+wavs/story3-12|No ordinary person could ever achieve that.
+wavs/story3-13|It's said that she's the one behind the constant expansion of the Jade Chamber.
+wavs/story3-14|It's the second most important thing to her.
+wavs/story3-15|Even if she ever gave up the position of Tianquan she would never give up the Jade Chamber.
+wavs/story3-16|Why, Mora, of course.
+wavs/story3-17|That is how the Fatui have always been.
+wavs/story3-18|It doesn't surprise me in the least
+wavs/story3-19|No matter what they may be planning, you must be careful when dealing with the Fatui.
+wavs/story3-20|Always be on your guard.
+wavs/story3-21|Yes, as a matter of fact, there is.
+wavs/story3-22|Today, we'll be gathering wild glaze lilies.
+wavs/story3-23|No, those lilies have all been garden by people.
+wavs/story3-24|They won't do it all.
+wavs/story3-25|Dihua Marsh used to be full of glaze lilies.
+wavs/story3-26|It is a sort of joyful flower that listens to human song.
+wavs/story3-27|Before the Archon War, Dihua Marsh was all dry land and fertile soil.
+wavs/story3-28|But the war caused landslides and the land was flooded, turning it into the marsh you see now.
+wavs/story3-29|Nearly all the glaze lilies were wiped out.
+wavs/story3-30|Of course, there are some kinds of flowers that have been preserved and gardened by people in the city.
+wavs/story3-31|But very few people know that glaze lilies may still be found in the wild.
+wavs/story3-32|Wild glaze lilies have the strongest fragrance.
+wavs/story3-33|If we want to follow the true tradition of the Rite of Parting, we must grind up the wild lilies and place the powder in a censor of Everlasting Incense.
+wavs/story3-34|But I'll need your assistance in gathering these flowers.
+wavs/story3-35|No, I need you to sing to them.
+wavs/story3-36|Singing to the flowers will make them more fragrant.
+wavs/story3-37|Your singing will surely bring out the strongest fragrance from the flowers.
+wavs/story3-38|We'll only know once she starts singing.
+wavs/story3-39|This little monster is known as a whopperflower.
+wavs/story3-40|Strange, These petals look interesting.
+wavs/story3-41|The glaze lilies used as a disguise were buried with a whopperflower for too long.
+wavs/story3-42|The result seems to have surprisingly potent medicinal value.
+wavs/story3-43|Let's collect what we can of these petals.
+wavs/story3-44|So, what do you think of this, farewell?
+wavs/story3-45|We dare not refuse it.
+wavs/story3-46|And that just about does it.
+wavs/story3-47|Our preparations for the Rite of Parting are mostly finished.
+wavs/story3-48|Given the ease of picking glaze lilies, I think this was a fitting end to our tasks, in more ways than one.
+wavs/story3-49|I've had enough ventures in my life already.
+wavs/story3-50|Beginning a new undertaking is always difficult at first and requires no small amount of effort.
+wavs/story3-51|And once business is at full steam, the stress of it all only wears away at you over time.
+wavs/story3-52|So you must be careful to take the time to step back and reexamine yourself.
+wavs/story3-53|If left unchecked, the wear and tear on your heart may go well past mending.
+wavs/story3-54|Desperate times?
+wavs/story3-55|Do they intend to exercise force?
+wavs/story3-56|It seems inevitable, given the current situation.
+wavs/story3-57|Surely the Liyue Qixing are not the sort to give in so easily?
+wavs/story3-58|And what now?
+wavs/story3-59|How is it that the Fatui have come under fire?
+wavs/story3-60|Do you intend to use your neutral identity as an intermediary between both sides?
+wavs/story3-61|Or, will you use your sword to turn the balance?
+wavs/story3-62|Neither path is an easy one.
+wavs/story3-63|Things are taking a turn for the worse.
+wavs/story3-64|I'm afraid I must leave now to handle things back at Wangsheng Funeral Parlor.
+wavs/story3-65|I hope that Master, who has been able to keep things under control for the moment.
+wavs/story3-66|Consider your next course of action carefully, traveler.
+wavs/story3-67|If you're trying to prevent an explosion, it may be wisest to look for the fuse first.
+wavs/story3-68|The contract is fulfilled.
+wavs/story3-69|That which thou seeketh is now bestowed unto thee, for my promise is solid as stone.
+wavs/story3-70|I do not give it for free.
+wavs/story3-71|I give it as agreed upon in the contract, for it is a matter solely between the Tsaritsa and I.
+wavs/story3-72|Perhaps it's best that I explain.
+wavs/story3-73|As you know, I've dwelt upon this world for more than 6000 years.
+wavs/story3-74|I witnessed the founding of Liyue, together with the adepti 3700 years ago.
+wavs/story3-75|Even boulders that can withstand whirlpools will erode with the passing of time.
+wavs/story3-76|I kept convincing myself that cracks had not begun to form and that the end of my time had not yet come.
+wavs/story3-77|Until one drizzly day, as I was strolling along the harbor, I heard a merchant tell one of his workers, you finished your duties, go ahead and call it a day.
+wavs/story3-78|I stood motionless among the crowds, asking myself, have I already finished my duties?
+wavs/story3-79|But as I began to consider relinquishing my divine role, I soon discovered that many reasons still remained to not hastily depart.
+wavs/story3-80|Was Liyue, the city I had dwelt in for so long, already prepared to enter its next age?
+wavs/story3-81|I decided that a test was needed in order to reveal the answer.
+wavs/story3-82|So I feigned my own death, and gathered the cast of Childe, the adepti and the Liyue Qixing to play their roles together on the stage that was Liyue.
+wavs/story3-83|The Gnosis which I had kept for so many years suddenly seemed to have lost its meaning.
+wavs/story3-84|That's right, which is why I continued to safeguard the Gnosis until now.
+wavs/story3-85|I was, pleasantly surprised with the finale of the show that you all put on.
+wavs/story3-86|Why, you even deserved an encore.
+wavs/story3-87|The adepti deserve the greatest applause, considering their years of seclusion, they hardly recognized the city.
+wavs/story3-88|Yet, faced with such a crisis, they exerted the greatest amount of restraint.
+wavs/story3-89|Not only did they manage to cooperate with the Qixing, but in the end, they even tried to understand the heart of the people.
+wavs/story3-90|And hats off to the emissary dispatched by the Cryo Archon to fulfill our contract, Signora.
+wavs/story3-91|She managed to keep everything she knew in strict confidence, far from the eavesdropping ears of her colleague Childe.
+wavs/story3-92|Just as I had requested.
+wavs/story3-93|All the while, I carried on as Zhongli, and fulfilled the traditions of Liyue, in this mortal form.
+wavs/story3-94|Thank you for walking that path with me, traveler.
+wavs/story3-95|These things were all a part of my script.
+wavs/story3-96|The only unforeseen plot twist was the conduct of the Liyue Qixing.
+wavs/story3-97|I had expected them to do no more than the adepti, to come to the defense of Liyue.
+wavs/story3-98|But when all was said and done, they seized the opportunity to supplant Liyue's divine protectors and used the subsequent power vacuum left by my death to quickly gain complete control of Liyue.
+wavs/story3-99|On the contrary, I think it is excellent.
+wavs/story3-100|I had always feared that it was too soon for them to take over from me, and it was also that which I longed for the most.
+wavs/story3-101|As such, this is the best parting gift anyone could have given this god of old.
+wavs/story3-102|Now then, is there anything else you wish to ask me?
+wavs/story3-103|Realistically speaking, there is no such thing.
+wavs/story3-104|However, I am the god of contracts.
+wavs/story3-105|For thousands of years, I have made countless contracts.
+wavs/story3-106|If the deal was of no benefit, then I certainly would not be inclined to agree to it.
+wavs/story3-107|My agreement with the Cryo Archon will be the last of my contracts as the Geo Archon, my contract to end all contracts.
+wavs/story3-108|As for the bargaining chip that the Tsaritsa used to balance the scales, uncover that answer for yourself in your future journeys.
+wavs/story3-109|Oh, why are you hanging back here?
+wavs/story3-110|Don't you want to get closer to the action?
+wavs/story3-111|You went through a lot to organize this, rite and this is a rare opportunity to see your journey bear fruit with your own eyes.
+wavs/story3-112|You should make the most of it.
+wavs/story4-1|Why would I not feel more at ease after laying down the burden I have borne for 3700 years?
+wavs/story4-2|Right, if the two of you can spare the time, I should treat you to a meal at the Xinyue Kiosk.
+wavs/story4-3|You're right, I do lack the Mora.
+wavs/story4-4|As the Rex Lapis Morax, I can easily create Mora.
+wavs/story4-5|But since I have chosen to walk this earth as the mortal Zhongli, I should abide by the same rules that mortals do.
+wavs/story4-6|When I was journeying with you, though I still had the Gnosis in hand, I knew that I must soon retire from my role as an archon.
+wavs/story4-7|So I had to, rehearse a little, for my new life.
+wavs/story4-8|Well, we were only spending Fatui money.
+wavs/story4-9|You don't have to say it like that.
+wavs/story4-10|In the city of commerce, we do not merely exchange money or goods.
+wavs/story4-11|We also exchange knowledge, memories, and foresight, as well as positions, roles, and lives.
+wavs/story4-12|The archon, Morax, could never experience life as the true mortal Zhongli could, no matter how many times he descended to be with his people.
+wavs/story4-13|I must thank you for that.
+wavs/story4-14|I will treasure the memories that I made as Zhongli, traveling the streets of Liyue with you.
+wavs/story4-15|That is true, but there is no journey that does not end.
+wavs/story4-16|No meetings without partings.
+wavs/story4-17|I fear that continuing your journey may be difficult.
+wavs/story4-18|The nation that neighbors Liyue by the sea, Inazuma, is presently closed.
+wavs/story4-19|Yes, the nation has been closed by order of its deity, the Electro Archon, Baal.
+wavs/story4-20|And just as the people of Liyue preferred to call me Rex Lapix, she too goes by another name among locals in Inazuma.
+wavs/story4-21|That is the case.
+wavs/story4-22|And since Raiden is also the Shogun of the Inazuma Bakufu, people call her the Raiden Shogun.
+wavs/story4-23|It's because of visions.
+wavs/story4-24|When faced with circumstances beyond their control, humans often bemoan their lack of power.
+wavs/story4-25|But if a person shows true strength of will at a desperate and fateful moment in their life, the gods will look upon them with favor.
+wavs/story4-26|This is what visions are.
+wavs/story4-27|Magical foci bestowed upon those who have been acknowledged by the gods.
+wavs/story4-28|But starting from last year, the Raiden Shogun began promulgating the Vision Hunt Decree.
+wavs/story4-29|It was an order to seize all visions within Inazuma's borders, and to inlay them upon the hands of a statue of the Thousand-Armed, Hundred-Eyed God.
+wavs/story4-30|I should think that in the Raiden Shogun's eyes, it is precisely because they are divine blessings, that they should be under the sole dominion of divinity.
+wavs/story4-31|The Anemo Archon is the god of freedom, and the Geo Archon is the God of Contracts.
+wavs/story4-32|For her part, the Raiden Shogun is the God of Eternity.
+wavs/story4-33|It seems as though she has finally decided to eliminate any unstable elements that could pose a threat to her eternal realm.
+wavs/story4-34|The fact that even I, the oldest of the seven, have now passed away will only strengthen her resolve to pursue eternity.
+wavs/story4-35|Knowing her, she must have again quoted that adage she is most fond of when proclaiming that decree to her people.
+wavs/story4-36|Seven ideals for seven gods, and of these, Eternity is nearest unto Heaven.
+wavs/story4-37|Was there anything else you wish to know?
+wavs/story4-38|That was a good one.
+wavs/story4-39|Failing a divine trial?
+wavs/story4-40|Hhow they came up with that excuse, I will never know.
+wavs/story4-41|That said, the reason why the Qixing were so eager to resolve the incident and stop pursuing the culprit was indeed because they received news in secret that Rex Lapis was not dead.
+wavs/story4-42|I hinted as much to the adepti as well.
+wavs/story4-43|How did I accomplish that, you ask?
+wavs/story4-44|Have you ever heard of this particularly convenient adepti art known as Gifting Dreams and visions?
+wavs/story4-45|These are indeed false accusations, but it remains undeniably true that Childe did send people to the Jade Chamber to prevent the adepti and the Qixing from defeating the ancient god.
+wavs/story4-46|I've heard that Ningguang is busy milking that for all its worth on the foreign relations front, at the moment browbeating the envoys of the Fatui.
+wavs/story4-47|Those poor Schneznayan diplomats.
+wavs/story4-48|If it were not for Childe's exalted position as a harbinger, I'm certain that they would have shifted all the blame to him, and called for his dismissal by now.
+wavs/story4-49|The time of the adepti has long passed.
+wavs/story4-50|If even the Liyue Qixing don't want to face that truth, then what future is there for Liyue?
+wavs/story4-51|Keqing is absolutely right in saying this.
+wavs/story4-52|Now, though I did laud Ningguang's desire for power, believing this to be a good thing, and thought as a matter of course that she must have been behind the Qixing's plan to take governing power over Liyue from the hands of the gods and adepti.
+wavs/story4-53|Could the original person who brought up the idea of seizing power have been?
+wavs/story4-54|The mora present now will not vanish.
+wavs/story4-55|But the Golden House will indeed have to cease operations for a lengthy period of time, since creating mora requires the use of the geo archon's power.
+wavs/story4-56|Yes, this is indeed a major issue from a financial standpoint.
+wavs/story4-57|Well, I suppose we'll just leave such troublesome matters to the Liyue Qixing to debate.
+wavs/story4-58|Oh, a private fund?
+wavs/story4-59|This does seem like a good, logical, common sense idea.
+wavs/story4-60|It's a shame that I didn't think of it at the time.
+wavs/story5-1|Oh? I didn't think I would see you here.
+wavs/story5-2|Yes, we had the fortune of meeting not too long ago.
+wavs/story5-3|They are quite a knowledgeable and talented pair, and a pleasure to be around.
+wavs/story5-4|Traveler, we were just discussing the history of Rex Lapis.
+wavs/story5-5|Would you like to listen?
+wavs/story5-6|I can't say I agree.
+wavs/story5-7|Let us not speak of the authenticity of the dagger and sword first.
+wavs/story5-8|But Mora and money, came about simply because they are a convenient measure of a contract's value.
+wavs/story5-9|Rex Lapis just meant for Mora to serve as a catalyst for people to exchange and trade.
+wavs/story5-10|The world's first mora is probably just an ordinary coin created by Rex Lapis.
+wavs/story5-11|As for its fate?
+wavs/story5-12|The same as all Mora, I suspect.
+wavs/story5-13|It was simply spent somewhere.
+wavs/story5-14|No, no, I am not debating right or wrong, I am simply stating a fact.
+wavs/story5-15|I know but little about history, and I wouldn't dare to brag.
+wavs/story5-16|But discussion is meaningless if everyone has the same opinion, no?
+wavs/story5-17|That is correct, indeed.
+wavs/story5-18|There's a simple explanation, really.
+wavs/story5-19|To the god of wealth and commerce, what material is easier to get than Mora?
+wavs/story5-20|I mean, I am talking about Rex lapis.
+wavs/story5-21|Oh, it's no problem at all, but may my friend accompany us?
+wavs/story5-22|Perhaps they could be of some help.
+wavs/story5-23|Let's not analyze it in terms of good versus evil.
+wavs/story5-24|Rex Lapis placed great importance on the integrity of contracts, so any gods he killed certainly must have broken some kind of contract.
+wavs/story5-25|This bit of history is a long story, but you may not like the truth when you hear it.
+wavs/story5-26|I don't know where to begin.
+wavs/story5-27|So you mean to say that this is work for the Wangsheng Funeral Parlor, yes?
+wavs/story5-28|Well, since it's work, I don't have a choice.
+wavs/story5-29|A consultant of the Wangsheng Funeral Parlor must respect their duty.
+wavs/story5-30|That will give us a chance to continue the topic we were just discussing.
+wavs/story5-31|Oh, and you should tag along too.
+wavs/story5-32|This experience may be of help to you on your future adventures.
+wavs/story5-33|It is a story from before the rise of the Seven.
+wavs/story5-34|Although the God of Salt has already perished, it will still be a meaningful experience for your journey.
+wavs/story5-35|But this friend of mine has a treasure-finding talent surpassed by no one.
+wavs/story5-36|It will surely be of great help to us.
+wavs/story5-37|If my friend despise a treasure chest, they will absolutely find a way to open it.
+wavs/story5-38|Guyun Stone Forest is actually the perfect place to be, if you wish to learn about the gods or the history of the Archon War.
+wavs/story5-39|Legend has it that Rex Lapis threw spears made of large rock into the sea here, piercing, and crushing the Overlord of the Vortex.
+wavs/story5-40|After many years of wind erosion, those stone spears have turned into the unique rock formations we see now.
+wavs/story5-41|What we see now is just the part of them that remains.
+wavs/story5-42|The stone spears hurled by Rex Lapis, all those years ago were much greater, both in number and in size.
+wavs/story5-43|But due to the different angles they landed at, their large centers of mass, erosion by seawater, and years of gravity, many of them have been completely swallowed by the sea.
+wavs/story5-44|So besides wind erosion, the initial collapsing of the stone spears also played a big part in the formation of Guyun Stone Forest.
+wavs/story5-45|Indeed, this is where the value lies in research at Guyun Stone Forest.
+wavs/story5-46|Most of the objects from that time were lost to the sea, but the gigantic waves created by the Overlord of the Vortex have given those sunken objects a chance to see the light of day again.
+wavs/story5-47|Okay then, I will go with my friend here.
+wavs/story5-48|Although I have a smattering of knowledge in various disciplines, when it comes to archaeology, I can't compete with the expert here.
+wavs/story5-49|If we find anything valuable or rare, let's meet on the shore opposite from here.
+wavs/story5-50|The ancient god probably left behind lots of elemental marks.
+wavs/story5-51|Following them should make our search much easier.
+wavs/story5-52|Guyun Stone Forest is a place where a god was defeated, and its remnants still affect the area to this day.
+wavs/story5-53|See that object in the center?
+wavs/story5-54|Perhaps it emits the remnant strength of that god.
+wavs/story5-55|That would certainly attract them.
+wavs/story5-56|But, the hydro mimic monsters.
+wavs/story5-57|I have a contract, and must put my personal feelings aside.
+wavs/story5-58|Go ahead, defeat them and recover the relic.
+wavs/story5-59|It's just a stone slab, but its design is quite unique.
+wavs/story5-60|This should be enough to garner some information.
+wavs/story5-61|Let's head back.
+wavs/story5-62|Now, now, calm down, no need to make a fuss.
+wavs/story5-63|We were able to bring back some intriguing objects.
+wavs/story5-64|Let's have a look.
+wavs/story5-65|These objects were indeed washed ashore by the Overlord of the Vortex, but they have nothing to do with the god besides being in the vicinity at the time.
+wavs/story5-66|The stone slab we found, however, has a mysterious pattern and faint aura of divine power.
+wavs/story5-67|Perhaps it will be useful for research purposes.
+wavs/story5-68|You probably don't want to sell that teacup.
+wavs/story5-69|That's not an ancient teacup.
+wavs/story5-70|It's part of Ningguang's collection, it must have fallen here along with the Jade Chamber.
+wavs/story5-71|So unless you want to mess with the Qixing.
+wavs/story5-72|According to legend, the people of the God of Salt, Havria, enjoyed prosperous lives under her protection.
+wavs/story5-73|But this legend has been around for ages.
+wavs/story5-74|With the countless scrap collectors and treasure hoarders in the area, there probably aren't many valuable things left here.
+wavs/story5-75|I may know something about it.
+wavs/story5-76|Over the years, I've heard various rumors with bits of knowledge about seals.
+wavs/story5-77|Although their references seem rather disorderly, they do in fact contain the secret to breaking seals.
+wavs/story5-78|Let's go take a look at the mechanism Ms. Wanyan just mentioned.
+wavs/story5-79|That's because there's actually another mechanism that must be activated.
+wavs/story5-80|Let me lead the way from here.
+wavs/story5-81|That's because you don't just need to activate them at the same time, but in a certain order as well.
+wavs/story5-82|Otherwise, the seal will not be broken.
+wavs/story5-83|The secret to this puzzle is hidden in the legends about the Archon War.
+wavs/story5-84|Tianheng in the south, Yaoguang in the east, Jueyun in the west, Qingce in the north, all desolate and devoid of life.
+wavs/story5-85|Liyue is vast, yet even one haven is hard to find.
+wavs/story6-1|Certainly you have, and the contents of this saying are also related to the God of Salt.
+wavs/story6-2|To provide a haven for her people, whose lives had been ravaged by the Archon War, this benevolent god searched all across Liyue.
+wavs/story6-3|At that time, with the chaotic fires of war engulfing the land, even one sliver of peace was a luxury.
+wavs/story6-4|And that haven she eventually found is right here.
+wavs/story6-5|Today, it is known as Sal Terrae.
+wavs/story6-6|Tianheng in the south, Yaoguang in the east, Jueyun in the west, Qingce in the north.
+wavs/story6-7|With this clue, you should be able to solve the puzzle.
+wavs/story6-8|It was nothing, really.
+wavs/story6-9|Now, it's time that people learn the hidden truth lost in time.
+wavs/story6-10|Before entering the ruin, I have a proposal that will help us prevent the kind of senseless arguing between you two that we saw at Guyun Stone Forest.
+wavs/story6-11|I propose you two agree upon a contract, stipulating that we alternate who gets claim to each treasure we encounter, with only one object permitted per claim.
+wavs/story6-12|To show my sincerity, I won't be taking any treasure.
+wavs/story6-13|This will just be between you all.
+wavs/story6-14|Well then, if the contract is not agreed upon, I will no longer serve as your consultant on this expedition.
+wavs/story6-15|You will have to rely on your own experience to find whatever treasures are hidden in this ruin, as well as traps.
+wavs/story6-16|I can accept this arrangement.
+wavs/story6-17|Well then, let's go.
+wavs/story6-18|These are people.
+wavs/story6-19|They were probably followers of the God of Salt.
+wavs/story6-20|According to my knowledge, it's no ordinary vessel.
+wavs/story6-21|If Mr. Kliment wants this salt chalice, then the next object we find will belong to Miss Wanyan, according to the contract agreed upon.
+wavs/story6-22|Then let's move on, shall we?
+wavs/story6-23|But the God of Salt imbued it with another power.
+wavs/story6-24|When you stick this ruler in the ground, the surrounding area will become covered in salt, much like a rising tide covers the earth.
+wavs/story6-25|The deeper it is stuck in the ground, the more salt will appear.
+wavs/story6-26|It is essentially a bumper harvest of salt.
+wavs/story6-27|Well then, according to our contract, the salt ruler goes to Miss Wanyan.
+wavs/story6-28|So you are saying, you want to break the contract?
+wavs/story6-29|Because you agreed to a contract.
+wavs/story6-30|Rex Lapis once said: "Ones who break their contracts shall suffer the Wrath of the Rock."
+wavs/story6-31|Will "suffer the Wrath of the Rock" — you may find it rather unpleasant.
+wavs/story6-32|I shall confiscate your treasure as well.
+wavs/story6-33|You are not worthy to continue any further into the ruin.
+wavs/story6-34|Leave this place.
+wavs/story6-35|Kliment's wrongdoing stemmed from greed, yes.
+wavs/story6-36|But besides greed, there are many other things that may tempt us to break contracts.
+wavs/story6-37|When people see the object of their dreams, how many are really able to control their desire and follow the contract?
+wavs/story6-38|I think we should be honest with each other now.
+wavs/story6-39|Although it is only half-full, it is also forever half-full--that is to say, it is bottomless.
+wavs/story6-40|That in truth, not a single member of this "archaeological expedition" came here for archaeology.
+wavs/story6-41|Miss, you lack even the most basic archaeological knowledge and can recognize naught but a few simple relics.
+wavs/story6-42|However, you are an expert when it comes to anything regarding the God of salt.
+wavs/story6-43|You aren't interested in archaeology or relics -- what you're really interested in is the God of Salt.
+wavs/story6-44|I believe those legends about the God of Salt that you mentioned on the Pearl Galley are passed down between generations at Yinyuan Hall.
+wavs/story6-45|Naturally, of course.
+wavs/story6-46|But I must add, Liyue is no longer Morax's Liyue.
+wavs/story6-47|Come with me.
+wavs/story6-48|All the answers you seek lie ahead.
+wavs/story6-49|Two pieces of a broken sword.
+wavs/story6-50|From an archeological perspective, these are two separate relics.
+wavs/story6-51|According to the contract, you can only claim one.
+wavs/story6-52|Yes, but the only one object per claim clause still holds true.
+wavs/story6-53|You cannot take two relics at the same time.
+wavs/story6-54|When there's a contract, nothing can be allowed to slide.
+wavs/story6-55|If the contract is not followed, then it is broken.
+wavs/story6-56|So you are already decided?
+wavs/story6-57|Then there is a price to pay for breaking the contract.
+wavs/story6-58|That is to say, you consign yourself to "suffer the Wrath of the Rock."
+wavs/story6-59|Perhaps that punishment would be easier for her.
+wavs/story6-60|But, as punishment, I will tell you the truth.
+wavs/story6-61|Yes, the truth that I am about to tell you shall be your price to pay for breaking the contract.
+wavs/story6-62|I'm afraid to say that the God of Salt, Havria, was not the powerful god you imagined her to be.
+wavs/story6-63|Rather, she was a small and weak god who yielded to all other gods.
+wavs/story6-64|When it came to war, she lost, never able to win a seat among the seven.
+wavs/story6-65|During the Archon War, the gods of this world used all their strength and cunning to vie for control of Teyvat.
+wavs/story6-66|But Havria instead chose to flee.
+wavs/story6-67|She thought that by giving up before a fight could start, she could save herself and her people from the war.
+wavs/story6-68|However, during such a long war, there is no end to the advances of aggressors.
+wavs/story6-69|After making countless concessions, Havria had lost all of her lands until only one small haven remained.
+wavs/story6-70|In her last days, she had not even a single blade to defend her people with.
+wavs/story6-71|This sword is not a relic belonging to the god of Salt, but is instead the murder weapon used to kill her.
+wavs/story6-72|As I said before, I only state the facts.
+wavs/story6-73|It is a punishment, after all.
+wavs/story6-74|I did not want to tell her such cruel facts.
+wavs/story6-75|But the contract was broken.
+wavs/story6-76|Indeed, otherwise, why would I use the truth as punishment?
+wavs/story6-77|Let's follow her deeper into the ruin.
+wavs/story6-78|There, I fear we will find something that will leave her no choice but to face the truth.
+wavs/story6-79|Salt, and betrayal.
+wavs/story6-80|Since you do not trust me, let us continue onward.
+wavs/story6-81|That which lies beyond this door will show you all that happened back then.
+wavs/story6-82|This is the scene of the crime.
+wavs/story6-83|Havria's body dissipated, leaving nothing but these traces of salt.
+wavs/story6-84|Her dying moments have since been frozen in time to this very day.
+wavs/story6-85|The story continues that some among her people realized at last that this gentle, kind but weak god could never protect anyone in wartime.
+wavs/story6-86|The Archon War was cruel in the extreme.
+wavs/story6-87|Instead of consigning her to the agony of defeat, they thought perhaps it would be better to give her a quick release.
+wavs/story6-88|No matter how weak the god, the power that flows forth when they are slain is beyond the strength of mortal coils to bear.
+wavs/story6-89|Those who could not flee were thus transformed.
+wavs/story6-90|Those of her people who were untouched by this disaster left for Liyue, where they sought refuge with Rex Lapis.
+wavs/story6-91|Their descendants feared Havria's remnants and lived in terror that she had laid upon them an eternal curse.
+wavs/story6-92|So they risked their lives to come here to break the sword, and offer up obeisances in hopes that her anger might be appeased.
+wavs/story6-93|But they need not have done so.
+wavs/story6-94|For how could a god who had never once resisted, even till the end, nurse hatred for her people in her heart?
+wavs/story6-95|This is the price she must pay.
+wavs/story6-96|Yet I would not call it a bad thing.
+wavs/story6-97|Judging by how she appeared, I fear that she will struggle for a time.
+wavs/story6-98|But even if she may not escape that struggle immediately, simply recognising the truth is good enough for now.
+wavs/story6-99|Indeed, in ages past, Havrea's story served as a warning to me as well.
+wavs/story6-100|How sharp of you.
+wavs/story6-101|Yet this is not a matter of wisdom, only age.
+wavs/story6-102|Faith in a god who has already passed will do you no good.
+wavs/story6-103|It is for Havria, and so it is for Morax also.
+wavs/story6-104|All right then.
+wavs/story6-105|Now, would you like to accompany me in taking a trip to Guyun Stone Forest?
+wavs/story6-106|Treading old ground, telling old stories, one cannot help but be reminded of old acquaintances.
+wavs/story6-107|Now, I mentioned before that many gods of old have been sealed beneath the Guyun Stone Forest.
+wavs/story6-108|The adepti have presently handed Liyue over to mortals, and Havria's time was even further in the past.
+wavs/story6-109|The salt chalice and salt ruler that she left behind should not return to Liyue.
+wavs/story6-110|To leave them here is to let them slumber, and it is also a homecoming.
+wavs/story6-111|I ended an era with my own two hands.
+wavs/story6-112|I have always wondered how I should remember that which I ended.
+wavs/story6-113|History records, but history may be changed.
+wavs/story6-114|This incident proved that.
+wavs/story6-115|Time is a mighty force, and history's twist in its flow.
+wavs/story6-116|I need to find a better way of recording history in order to engrave its truth.
+wavs/story6-117|Stone carvings were one such ancient method, but unchanging stone immovable earth, even one such as myself.
+wavs/story6-118|Some day we may all disappear.
+wavs/story6-119|Therefore, I thought of you, traveler.
+wavs/story6-120|You are one who crosses the celestial atlas, and who passes through countless worlds.
+wavs/story6-121|If our history is engraved in your memory, it will one day accompany you into another world.
+wavs/story6-122|As long as a Traveler like you is able to record what happened, then a backup of sorts will exist for times and tides of Teyvat.
+wavs/story6-123|Well, may you find treasure among the stars even after you have left Teyvat.
+wavs/story6-124|Now, I am the God of Wealth, so I would think that my words have some weight here.
+wavs/story6-125|Now then, it is time that we consigned both the salt chalice and salt ruler to the sea.
+wavs/story6-126|As I said before, this is the place to which the remnants of many bygone gods are consigned.
+wavs/story6-127|This includes Osail Overlord of the Vortex, who the Jade Chamber most recently returned to this ocean prison.
+wavs/story7-1|Oh, here for a few tales?
+wavs/story7-2|I didn't know you two were connoisseurs.
+wavs/story7-3|Ah, something I'm rarely short of.
+wavs/story7-4|Someone who understands geology and ore.
+wavs/story7-5|You appear to have taken his claim quite personally on my behalf.
+wavs/story7-6|I see.
+wavs/story7-7|Well then it will be my pleasure to accompany you.
+wavs/story7-8|But I should inform you that despite my expertise, I cannot necessarily claim to be a leading authority.
+wavs/story7-9|We are at all times adrift in a sea of learning.
+wavs/story7-10|New knowledge should be welcomed with open arms.
+wavs/story7-11|Still, I imagine I will be of help to you in this endeavor.
+wavs/story7-12|If we do encounter an expert, I look forward to broadening my own understandings.
+wavs/story7-13|Let's not get ahead of ourselves.
+wavs/story7-14|Still, I do have acclaimed to some experience in this field.
+wavs/story7-15|I admire your enthusiasm, good sir.
+wavs/story7-16|So you're an appraiser, Mr Kun Jun.
+wavs/story7-17|A glossy exterior, and a fissure that could only have been left in the wake of a volcanic eruption.
+wavs/story7-18|If I'm not mistaken, this is a rough gem from another nation.
+wavs/story7-19|It's no ordinary rough gem.
+wavs/story7-20|Fragile surface layer, black veining.
+wavs/story7-21|My intuition tells me that there's high quality crystal ore inside.
+wavs/story7-22|Everything he said is true.
+wavs/story7-23|Most crystals are born in high temperature environments.
+wavs/story7-24|Heat and water aren't natural bedfellows, of course, which is why crystals with water deposits are so sought after.
+wavs/story7-25|Moreover, this particular crystal contains mountain lake water,
+wavs/story7-26|A rare find indeed.
+wavs/story7-27|I've seen many such stones in my time.
+wavs/story7-28|I recognized it immediately.
+wavs/story7-29|I hope you didn't mind me flaunting my experience, Mr Kun Jun.
+wavs/story7-30|So four miners have disappeared.
+wavs/story7-31|Workers in this trade are usually young men in the prime of their lives.
+wavs/story7-32|Could it be that the four of them left for another mine?
+wavs/story7-33|We'll need to explore the site ourselves before extracting any conclusions.
+wavs/story7-34|A few everyday items.
+wavs/story7-35|They must belong to Uncle Dai in his men
+wavs/story7-36|The four of them have been gone for six days without a change of clothes.
+wavs/story7-37|Items for washing one's face before the dawn shift.
+wavs/story7-38|Mining equipment.
+wavs/story7-39|Correct.
+wavs/story7-40|Improbable.
+wavs/story7-41|There are four pickaxes missing.
+wavs/story7-42|It seems likely they left with the tools of their trade.
+wavs/story7-43|They had time to take their tools, but not their everyday items?
+wavs/story7-44|One, they were working close by and didn't need to move their personal effects.
+wavs/story7-45|But seeing as they've yet to return, this seems an unlikely hypothesis.
+wavs/story7-46|Or two, they were forced to leave and had no time to think about their supplies.
+wavs/story7-47|Did you find anything?
+wavs/story7-48|"Perceive?" so there's no conjecture at work?
+wavs/story7-49|Stone-seeing, Fascinating.
+wavs/story7-50|A rare ability, indeed.
+wavs/story7-51|It was prudent of uncle died to recruit you, Mr Kun Jun.
+wavs/story7-52|This will take us north, away from the mine.
+wavs/story7-53|Excuse me sir, are you one of the workers here?
+wavs/story7-54|So the men that were out working disappeared with the only one left to tell the tale having been asleep in a shelter.
+wavs/story7-55|Perhaps an accident occurred on site.
+wavs/story7-56|We found three clues in the vicinity.
+wavs/story7-57|First, there are four missing pickaxes, yet everyday items are still in their place.
+wavs/story7-58|They suggest that your men didn't leave of their own accord, but were forced to
+wavs/story7-59|Who indeed.
+wavs/story7-60|Second, there were five workers at the mine.
+wavs/story7-61|One of them left the site to take respite.
+wavs/story7-62|When he awoke, his colleagues had disappeared without a trace.
+wavs/story7-63|Those who kept working all disappeared.
+wavs/story7-64|The one who left early emerged safe and sound.
+wavs/story7-65|It would appear that the incident occurred on-site.
+wavs/story7-66|This leads me to my third point.
+wavs/story7-67|Mister Kun Jun here made good use of his, uh, expert techniques, to arrive at a conclusion.
+wavs/story7-68|It was a child that took your men away.
+wavs/story7-69|We believe that they followed the road north, away from the mine and toward the ruins.
+wavs/story7-70|Not so fast.
+wavs/story7-71|The incident occurred six days ago.
+wavs/story7-72|Even if they set out on foot, they will have covered a lot of ground by now.
+wavs/story7-73|Wait, I believe we're missing someone
+wavs/story7-74|Dragonfall is often used in forging.
+wavs/story7-75|What use do you have for it?
+wavs/story7-76|I see.
+wavs/story7-77|If I am able to during our endeavor, I will help you look for this stone.
+wavs/story7-78|Think nothing of it.
+wavs/story7-79|Heading north from the Chasm will reach Lingju Pass.
+wavs/story7-80|If this is indeed the path they chose, there will be traces.
+wavs/story7-81|It would appear that they made their way through Lingju Pass and kept moving.
+wavs/story7-82|We should inquire with anyone nearby.
+wavs/story7-83|If the miners came through here, they may well have seen them.
+wavs/story7-84|Four or five days ago?
+wavs/story7-85|It appears that they were moving slower than we'd anticipated.
+wavs/story7-86|Traversing the geography of Lingju Pass must have held them up.
+wavs/story7-87|Did you see what they look like?
+wavs/story7-88|And they took this road?
+wavs/story7-89|I think that's all we needed to hear.
+wavs/story7-90|Mr Kun Jun, your stone seeing is something I won't forget in a hurry.
+wavs/story8-1|Be that as it may, we would do well to keep our guards high.
+wavs/story8-2|Four fully grown men in a trancelike state, walking ceaselessly day and night, over hills and mountains, led by a child.
+wavs/story8-3|This is no ordinary incident.
+wavs/story8-4|That's not all.
+wavs/story8-5|Our scholar was attacked by geobishop hatchlings, but the level of aggression they exhibited was unusual.
+wavs/story8-6|We have encountered many clues along the way so far.
+wavs/story8-7|They've pointed us in the right direction.
+wavs/story8-8|The miners headed in the direction of Nantianmen the day before yesterday.
+wavs/story8-9|From here, they would have had to navigate a perilous mountain road.
+wavs/story8-10|If their destination is indeed Nantianmen, we should be able to catch up with them.
+wavs/story8-11|I left a mark in the vicinity just now.
+wavs/story8-12|If Uncle Dai does pass through here, it should guide him to us.
+wavs/story8-13|Judging by his appearance, he must have collapsed from exhaustion.
+wavs/story8-14|It seems that he thinks he still has work to do.
+wavs/story8-15|Something's not right.
+wavs/story8-16|There's a camp nearby.
+wavs/story8-17|We should take him there and monitor his condition before deciding our next move.
+wavs/story8-18|He's worked himself into a stupor.
+wavs/story8-19|Thankfully he's not in serious danger.
+wavs/story8-20|It's certainly a possibility.
+wavs/story8-21|How he came to be here is what we need to understand.
+wavs/story8-22|Unless something happened, something that led him to fall behind.
+wavs/story8-23|Something, for us?
+wavs/story8-24|On the contrary.
+wavs/story8-25|I just hadn't anticipated receiving a gift during the current circumstances.
+wavs/story8-26|But thank you.
+wavs/story8-27|I will take good care of it.
+wavs/story8-28|I surveyed the area.
+wavs/story8-29|There's no danger here.
+wavs/story8-30|Oh, however there is something I wanted to discuss with you.
+wavs/story8-31|Does Dragonfall mean anything to you?
+wavs/story8-32|Dragonfall is an incredibly rare ore used in forging.
+wavs/story8-33|The majority of regular crystals are formed in high temperature environments.
+wavs/story8-34|Dragonfall, on the other hand, is formed as a product of elemental reactions.
+wavs/story8-35|Indeed they can.
+wavs/story8-36|However, only a minority can survive for long periods of time.
+wavs/story8-37|Dragonfall first emerged in the midst of a great battle thousands of years ago.
+wavs/story8-38|Powerful clashes of elemental energy gave birth to elemental crystals.
+wavs/story8-39|When the fighting ceased, these geological remnants were miraculously preserved.
+wavs/story8-40|And yet they are crystal creations all the same, few and far between, relatively unknown.
+wavs/story8-41|A few hundred years ago, they were virtually mined into obscurity.
+wavs/story8-42|Why is it, then, that a citizen of Liyue now wishes to strike upon ore that has long since vanished from the earth?
+wavs/story8-43|There are those in the mining trade who retain a keen interest in Dragonfall.
+wavs/story8-44|But for someone like Mr Kun Jun, whose motivations for seeking it are unclear even unto himself, it's practically unheard of a conclusion that is presently impossible to reach.
+wavs/story8-45|We must watch and wait.
+wavs/story8-46|Don't forget, rescuing those miners is the primary objective.
+wavs/story8-47|As for anything else, sooner or later the tide will reveal the lie of the land.
+wavs/story8-48|We're drawing closer to our goal.
+wavs/story8-49|I believe we should continue to follow this road through.
+wavs/story8-50|Now that we've found one, the others won't be far away.
+wavs/story8-51|When you're well rested, call Mr Kun Jun over to us.
+wavs/story8-52|We still have more investigation ahead.
+wavs/story8-53|We should ensure this miner is settled here at the camp.
+wavs/story8-54|Once we've brought this matter to a close, we can return and attend to him.
+wavs/story8-55|I suggest we leave a note for Uncle Dai.
+wavs/story8-56|If he does find the camp, he'll know what to do.
+wavs/story8-57|Any results, Mr Kun jun?
+wavs/story8-58|This ancient tree.
+wavs/story8-59|Let's conduct separate investigations.
+wavs/story8-60|I'll take that area.
+wavs/story8-61|Perhaps you could survey this section.
+wavs/story8-62|All right, then.
+wavs/story8-63|All of you, come here.
+wavs/story8-64|This has been newly dug.
+wavs/story8-65|It would appear our answer is up ahead.
+wavs/story8-66|Compose yourselves.
+wavs/story8-67|I will lead us in.
+wavs/story8-68|There is an unusual presence emanating from inside the tunnel.
+wavs/story8-69|Prepare yourselves and tread lightly.
+wavs/story8-70|You should call it by its name, Azhdaha.
+wavs/story8-71|During the battle, you imbued us with your power.
+wavs/story8-72|I had sensed that something was amiss when you mentioned Dragonfall.
+wavs/story8-73|Had your power been but a little stronger, I would have recognized you.
+wavs/story8-74|There would be no harm in it.
+wavs/story8-75|The decision is yours.
+wavs/story8-76|Are you satisfied, Azhdaha?
+wavs/story8-77|I hardly lifted a finger.
+wavs/story8-78|Think nothing of it.
+wavs/story8-79|Your power is nearly spent.
+wavs/story8-80|Shall we get going, you and I?
+wavs/story8-81|Indeed.
+wavs/story8-82|Hence the need to get going to fix the damage left in your wake.
+wavs/story8-83|They're exhausted, but not in danger.
+wavs/story8-84|Don't worry.
+wavs/story8-85|You always did have a great admiration for blacksmiths.
+wavs/story8-86|I am no longer the Geo Archon.
+wavs/story8-87|Today, I am just an ordinary citizen of Liyue.
+wavs/story8-88|No matter, if that day comes to pass, Liyue must prepare itself to face you.
+wavs/story8-89|Even without a god, above this remains a nation of men.
+wavs/story8-90|I was once their god.
+wavs/story8-91|I ought to be here to witness their rise and fall.
+wavs/story8-92|I do not pretend to match your rhetoric when it comes to the subject of a life long lived.
+wavs/story8-93|I fear that the life of an elemental being is longer than any in this world.
+wavs/story8-94|You've brought a smile to my face.
+wavs/story8-95|When all is said and done, a reunion between old friends is an auspicious occasion.
+wavs/story8-96|A heart of stone is a heart nonetheless.
+wavs/story8-97|But I am the god of Contracts and was, for a time, a god of the people of Liyue.
+wavs/story8-98|The movements of the Earth Dragon can tremble the earth and shake the heavens
+wavs/story8-99|With your abilities, even at my full strength, I struggled to confront you, let alone seal you away.
+wavs/story8-100|Thank you, Azhdaha.
+wavs/story8-101|You're leaving?
+wavs/story8-102|Don't be alarmed, he's only asleep.
+wavs/story8-103|In fact, we have yet to meet the real Kun Jun.
+wavs/story8-104|He was.
+wavs/story8-105|Centuries may have passed since then, but events from a thousand years ago remain crystal clear in my mind.
+wavs/story8-106|A thousand years ago, Azhdaha attacked the Chasm.
+wavs/story8-107|I tried to obstruct him, fighting him tooth and nail, down the length and breadth of the mine.
+wavs/story8-108|Finally, I brought him down, and sealed him underground.
+wavs/story8-109|During that battle, Dragonfall was born.
+wavs/story8-110|Azhdaha could sense the stone.
+wavs/story8-111|Subconsciously, he wanted to use it to find me
+wavs/story8-112|Despite being the victor, I could not claim to be stronger than he.
+wavs/story8-113|And in his heart, he still retained an ounce of good will towards me, towards Liyue, towards life above ground
+wavs/story8-114|He was willing to be sealed away, but as the erosion set in, he forgot.
+wavs/story8-115|Even I cannot avoid it.
+wavs/story8-116|But there is something I understand better than most.
+wavs/story8-117|When the door opens, it is time to leave.
+wavs/story8-118|The greater the power, the greater the danger erosion may bring about.
+wavs/story8-119|The millennia may come and go, but even a stone may tire.
+wavs/story8-120|Personally sealing away an old friend.
+wavs/story8-121|This is just one form of erosion I have endured.
+wavs/story8-122|People abandon and surrender the things they love to pursue the right path.
+wavs/story8-123|Perhaps this is the erosion imposed on me by the natural order of this world.
+wavs/story8-124|That I was a god of mankind.
+wavs/story8-125|My identity may change, but my eyes will bear witness to the history of humanity.
+wavs/story8-126|Call it part of my duty.
+wavs/story8-127|I must thank you both.
+wavs/story8-128|Oh, about what?
+wavs/story8-129|I cannot say.
+wavs/story8-130|I understand.
+wavs/story8-131|But I must apologize.
+wavs/story8-132|This is my contract.
+wavs/story8-133|It was signed before it all began.
+wavs/story8-134|I have always honored the contract and kept my silence.
+wavs/story8-135|You two are friends to me.
+wavs/story8-136|I can assure it brings me no pleasure to disappoint you.
+wavs/story8-137|But as the god of contracts, I cannot go back on my word.
+wavs/story8-138|It appears your understanding of this world continues to grow.
+wavs/story8-139|There are many events of ages past, many secrets that lie hidden.
+wavs/story8-140|They have been eroded by time, forgotten by the people.
+wavs/story8-141|But you are capable of finding them and bringing them into the light.
+wavs/story8-142|Those who come to witness, will witness.
+wavs/story8-143|Those who are born to remember, will remember.
+wavs/story8-144|If you take the same road as that person, there may be more difficulties ahead.
+wavs/story8-145|But as long as you firmly believe that you are on the right path, everything has meaning.
+wavs/voiceover-1|A new contract?
+wavs/voiceover-2|I'm still on leave, but I can accompany you for a while.
+wavs/voiceover-3|What name should I use on the contract?
+wavs/voiceover-4|I have a great many names, though when on leave I tend to go by Zhongli.
+wavs/voiceover-5|And you, Traveler?
+wavs/voiceover-6|What name will you be signing on this contract?
+wavs/voiceover-7|Every journey has its final day.
+wavs/voiceover-8|Don't rush.
+wavs/voiceover-9|Where do you want to go next?
+wavs/voiceover-10|If you'd like to see Liyue's tourist spots, I have a few references.
+wavs/voiceover-11|Boats are made for transferring commodities back and forth, and those that come across Liyue tend to stay a while, so it is where many things come to settle.
+wavs/voiceover-12|Osmanthus wine tastes the same as I remember, but where are those who share the memory?
+wavs/voiceover-13|Violetgrass is a plant that enjoys a moist environment and is best picked after it rains.
+wavs/voiceover-14|If you should choose to pick any, be sure to store them appropriately.
+wavs/voiceover-15|We should look for a place to take shelter.
+wavs/voiceover-16|I'll be fine, but we don't want you catching a cold.
+wavs/voiceover-17|This weather is no good for being on vacation.
+wavs/voiceover-18|We should go and take in an opera.
+wavs/voiceover-19|I hope today too shall be prosperous.
+wavs/voiceover-20|Want a quick meal to pick us back up?
+wavs/voiceover-21|I know a good place in Chihu Rock.
+wavs/voiceover-22|By this time of night, we will have already missed Ms Yun's play, but Liyue is full of interesting places to explore, even at night.
+wavs/voiceover-23|The market is closed and the port has settled.
+wavs/voiceover-24|Go get some rest.
+wavs/voiceover-25|Nothing can be accomplished without rules or standards.
+wavs/voiceover-26|No matter if it is mortals or adepti, everyone has their place.
+wavs/voiceover-27|This rule keeps Liyue in peace.
+wavs/voiceover-28|Gold is Liyue's treasure.
+wavs/voiceover-29|It is the blood that runs through her heart.
+wavs/voiceover-30|As for whether your own heart shines like gold, we will have to wait and see.
+wavs/voiceover-31|You and I have a contract, so feel free to discuss anything at all within the scope of said contract.
+wavs/voiceover-32|We can discuss matters that fall outside of our contract too.
+wavs/voiceover-33|After all, I have been on this land for a time, and have come to know a thing or two.
+wavs/voiceover-34|Of course, I do hope you can do some things for me as well.
+wavs/voiceover-35|That would only be fair.
+wavs/voiceover-36|Contracts cannot be used to define friendship, nor measure sentiment.
+wavs/voiceover-37|So just what can we use to measure the weight of our emotions?
+wavs/voiceover-38|Do you know the answer, friend?
+wavs/voiceover-39|Visions are also a type of contract.
+wavs/voiceover-40|You should know that all power comes at a price.
+wavs/voiceover-41|For every bit of power you gain, so too do you gain more responsibility.
+wavs/voiceover-42|Trade relies on both contracts and fairness.
+wavs/voiceover-43|There is one thing you must never forget when making and abiding by a contract: if fairness is lost, then the contract shall become proof of one's deception.
+wavs/voiceover-44|If you're heading to Jueyun Karst, please bring me back a bunch of Qingxin.
+wavs/voiceover-45|Just one bunch is enough.
+wavs/voiceover-46|Ah, I almost forgot, during the effective period of our contract, travel expenses are to be paid for by yourself.
+wavs/voiceover-47|Sorry to bother you.
+wavs/voiceover-48|You speak of the young adeptus of Guili Plains.
+wavs/voiceover-49|Still fulfilling his duty to this very day.
+wavs/voiceover-50|Please give these painkillers to him on my behalf.
+wavs/voiceover-51|Oh, and--be sure not to let Paimon eat them.
+wavs/voiceover-52|Nothing of this world can withstand the power of this medicine.
+wavs/voiceover-53|It reeks of wine.
+wavs/voiceover-54|That bard has just been through here, hasn't he?
+wavs/voiceover-55|That drunkard is a disgrace to the arts.
+wavs/voiceover-56|Oh, Has he tricked you into getting drunk?
+wavs/voiceover-57|You're slurring a little.
+wavs/voiceover-58|Wait a moment, I'll brew a pot of sobering tea.
+wavs/voiceover-59|It'll be ready in only six hours, so just wait a moment.
+wavs/voiceover-60|Despite the multitude of affairs she deals with in a day, Ningguang always continues to press on.
+wavs/voiceover-61|A rare gem indeed.
+wavs/voiceover-62|I'm reminded of the time that she used to walk barefoot from Yaoguang Shoal to the south wharf, trying to sell her wares as she went.
+wavs/voiceover-63|Time is cruel to humans.
+wavs/voiceover-64|The current overseer of the funeral parlor?
+wavs/voiceover-65|I cannot deal with that child.
+wavs/voiceover-66|That rascal from Snezhnaya has yet to depart from Liyue?
+wavs/voiceover-67|No matter, just let me know if he gives you any trouble.
+wavs/voiceover-68|I shall deal with the matter swiftly.
+wavs/voiceover-69|It's said that Childe and his reputation have yet again stirred up waves among the inner-ranks of the Fatui.
+wavs/voiceover-70|Knowing his type, he will be sure to swiftly depose anyone who dares to challenge his actions.
+wavs/voiceover-71|Hm, Come to think of it, there will be a lot of interesting news to be heard the next time we gather for drinks.
+wavs/voiceover-72|Care to join me when the time comes, Traveler?
+wavs/voiceover-73|Liyue's prosperity has not been merely built on Rex Lapis' oracles or wisdom, it is also thanks to the countless servants of the Geo Archon who have honored their end of the contract.
+wavs/voiceover-74|Of them, Ganyu is the one who has served for the longest time.
+wavs/voiceover-75|If you want to know about her past, you should ask her about it.
+wavs/voiceover-76|I fear my wording would not be delicate enough to receive her approval.
+wavs/voiceover-77|She is the most impious of the Qixing--but I actually find the conviction of such people quite endearing.
+wavs/voiceover-78|The only reason I was able to consider taking a step back from such overarching management of Liyue was because there are people like her.
+wavs/voiceover-79|Despite never having signed a contract with me, she upholds order within many strata of Liyue society in her own way, dispelling misconceptions and correcting biases.
+wavs/voiceover-80|Should her father one day return from his travels, I imagine that he would be even more delighted than I.
+wavs/voiceover-81|Time tempers all volition.
+wavs/voiceover-82|Yet she would give up everyone for her beliefs.
+wavs/voiceover-83|Perhaps it is for this very reason that she has come to where she stands today.
+wavs/voiceover-84|Should the chance come by me, I too would like to learn of the Eternity for which she so earnestly endeavors.
+wavs/voiceover-85|Why is it that, once you finally get a break, rather than taking a rest, you instead come to me?
+wavs/voiceover-86|Is it that you want to hear one of my stories?
+wavs/voiceover-87|Have you heard of the origin of the Blackcliff Forge?
+wavs/voiceover-88|In the past, they would mine the ore veins of Mt Tianheng, and then replace the cavities with factory equipment.
+wavs/voiceover-89|Tunnels run in all directions throughout the mountain--some even run to the ruins deep within the earth.
+wavs/voiceover-90|I doubt there is a person today who could map out all the tunnels.
+wavs/voiceover-91|Have you heard of the origins of the Lantern Rite?
+wavs/voiceover-92|In a war, long ago, the people of Liyue would release lanterns to remind their soldiers of the way home, and to never lose sight of themselves.
+wavs/voiceover-93|Though in this day and age, I doubt there are any that remember.
+wavs/voiceover-94|The God of Contracts.
+wavs/voiceover-95|Have you heard of him?
+wavs/voiceover-96|He has an impressive memory.
+wavs/voiceover-97|He remembers the name of every person he comes across, and the date that every ship in Liyue sets sail.
+wavs/voiceover-98|After all, only in being able to do so can he memorize all of the contracts he holds.
+wavs/voiceover-99|With that said, not every memory is a happy one.
+wavs/voiceover-100|For those that live too long, the friends of days gone by and scenes from their adventures live on in their memories.
+wavs/voiceover-101|As such I have no regrets in meeting you, friend.
+wavs/voiceover-102|Should the day ever come that we are not together, you will continue to shine like gold in my memories.
+wavs/voiceover-103|I enjoy partaking in walks through the city when time permits.
+wavs/voiceover-104|I find it very calming.
+wavs/voiceover-105|Yes, just when did this feeling begin?
+wavs/voiceover-106|To get people to abide by a contract, and act in accordance with the guidelines set out within, is simply to ask them to respect the concept of fairness.
+wavs/voiceover-107|It is not a large request.
+wavs/voiceover-108|How are there those who still do not understand such simplicity?
+wavs/voiceover-109|There was once a drink I used to enjoy with friends long ago.
+wavs/voiceover-110|Is it because the climate has changed?
+wavs/voiceover-111|A shame I will never be able to relish in its smooth flavor again.
+wavs/voiceover-112|I don't like seafood.
+wavs/voiceover-113|Just seeing it reminds me of that slimy texture, and that scent that just won't wash off.
+wavs/voiceover-114|As for why I hate it, it's a long story, so let's just say my memory is a little too good.
+wavs/voiceover-115|The finest ingredients cooked with true expertise.
+wavs/voiceover-116|This is no small feat.
+wavs/voiceover-117|The art of gastronomy is a fascinating one.
+wavs/voiceover-118|That it appeals to you comes as no surprise.
+wavs/voiceover-119|Since you seem to have some time on your hands, why don't we find a quiet place and I'll share one of my stories with you.
+wavs/voiceover-120|Happy Birthday.
+wavs/voiceover-121|This is a dried glaze lily that came into bloom on the day of your birth.
+wavs/voiceover-122|Long ago, the people of Liyue would say that this flower blooms bearing the weight of the beautiful memories and prayers of the land.
+wavs/voiceover-123|I believe this to have been applied on the day you were born as well.
+wavs/voiceover-124|It seems my strength is returning.
+wavs/voiceover-125|Not a lot, but enough.
+wavs/voiceover-126|My power is growing, and so with it grows the burden on my body.
+wavs/voiceover-127|I'm okay.
+wavs/voiceover-128|My structure is not the same as that of normal people.
+wavs/voiceover-129|Please do not worry yourself.
+wavs/voiceover-130|I see.
+wavs/voiceover-131|Using a Vision harnesses elements.
+wavs/voiceover-132|As far as the common folk are concerned, this is no small feat.
+wavs/voiceover-133|They were aware of this as they stood beside me.
+wavs/voiceover-134|After letting go of my Gnosis I never expected to see a day like this again.
+wavs/voiceover-135|Thank you, friend.
+wavs/voiceover-136|Ah, yes, I have a new contract here.
+wavs/voiceover-137|Care to take a look at it together?
+wavs/voiceover-138|This tablet was erected by Mountain Shaper.
+wavs/voiceover-139|It names Azhdaha as a terrible dragon, and serves as a warning for later generations to stay away from this place.
+wavs/voiceover-140|It's a shame.
+wavs/voiceover-141|There is a fine line between good and evil.
+wavs/voiceover-142|If the good and evil within him could be summarized in a single sentence.
